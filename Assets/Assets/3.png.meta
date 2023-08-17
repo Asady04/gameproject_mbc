@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 5cf61801e59464a479d710d0833fe1c4
+guid: 82fad229880d42a4bb9766f860efb931
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6994296314174391031
-    second: istockphoto-175901439-612x612-removebg-preview_0
+      213: -6470460504253458178
+    second: 3_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -107,19 +107,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: iPhone
+    buildTarget: tvOS
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -142,38 +130,89 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: tvOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: istockphoto-175901439-612x612-removebg-preview_0
+      name: 3_1
       rect:
         serializedVersion: 2
-        x: 122
-        y: 0
-        width: 366
-        height: 359
+        x: 227
+        y: 540
+        width: 382
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb901899d750394f9574b754a895609
+      internalID: -1469570822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3_2
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 540
+        width: 386
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5b812f37ff4564f91383b7e69e21cc
+      internalID: 544180101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3_3
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 541
+        width: 382
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a9d8f263fb2fd4184e9190628dba51
+      internalID: -1266931036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3_4
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 241
+        width: 343
+        height: 122
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7f2403cb07bb01160800000000000000
-      internalID: 6994296314174391031
+      spriteID: ef0455a5fd7a1534faa5687d24935dc3
+      internalID: 1780835328
       vertices: []
       indices: 
       edges: []
@@ -181,7 +220,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 38c5d1ff441f45c499b1120979c5f15f
     internalID: 0
     vertices: []
     indices: 
@@ -189,7 +228,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      istockphoto-175901439-612x612-removebg-preview_0: 6994296314174391031
+      3_0: -1603508100
+      3_1: -1469570822
+      3_2: 544180101
+      3_3: -1266931036
+      3_4: 1780835328
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
