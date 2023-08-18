@@ -843,7 +843,7 @@ GameObject:
   - component: {fileID: 1731961295}
   - component: {fileID: 1731961298}
   m_Layer: 5
-  m_Name: Back
+  m_Name: Back_LoadGame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -913,8 +913,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1731961298}
-        m_TargetAssemblyTypeName: Load_Game, Assembly-CSharp
-        m_MethodName: Back
+        m_TargetAssemblyTypeName: Back_LoadGame, Assembly-CSharp
+        m_MethodName: play
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -971,7 +971,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1731961293}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5403c52f5650d2f478013c188cd7544d, type: 3}
+  m_Script: {fileID: 11500000, guid: 07dab34f37f47e04a9dd6375bc898451, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807
