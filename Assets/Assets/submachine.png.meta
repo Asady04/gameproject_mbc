@@ -142,6 +142,7 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD
   - serializedVersion: 3
     buildTarget: tvOS
     maxTextureSize: 2048
@@ -154,6 +155,8 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> 4670172704e340d12a96bf75680cde61b2e59df0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -188,8 +191,12 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+<<<<<<< HEAD
     nameFileIdTable:
       submachine_0: 7742844155745124602
+=======
+    nameFileIdTable: {}
+>>>>>>> 4670172704e340d12a96bf75680cde61b2e59df0
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
