@@ -4,11 +4,16 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class exit_button : MonoBehaviour
+public class Exit : MonoBehaviour
 {
-    public void Play()
+    public void Yes()
     {
-        SceneManager.LoadScene("Exit");
+        Application.Quit();
+        Debug.Log("Game Ended");
+    }
+    public void Back()
+    {
+        SceneManager.LoadScene("Main_Menu");
         Time.timeScale = 1f;
     }
 }

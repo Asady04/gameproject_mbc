@@ -4,12 +4,11 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class credit_button : MonoBehaviour
+public class Credits : MonoBehaviour
 {
-    public void play()
+    public void Back()
     {
-
-        SceneManager.LoadScene("Credits");
+        SceneManager.LoadScene("Main_Menu");
         Time.timeScale = 1f;
     }
 

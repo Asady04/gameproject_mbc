@@ -4,12 +4,12 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class option_button : MonoBehaviour
+public class Option : MonoBehaviour
 {
-    public void Play()
+    public void Back()
     {
         
-        SceneManager.LoadScene("Option");
+        SceneManager.LoadScene("Main_Menu");
         Time.timeScale = 1f;
     }
 }

@@ -131,8 +131,8 @@ GameObject:
   - component: {fileID: 78443704}
   - component: {fileID: 78443707}
   - component: {fileID: 78443706}
-  - component: {fileID: 78443705}
   - component: {fileID: 78443708}
+  - component: {fileID: 78443705}
   m_Layer: 5
   m_Name: BackFromOption
   m_TagString: Untagged
@@ -156,8 +156,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -175.8328, y: -138.2}
-  m_SizeDelta: {x: 157.8534, y: 34.606}
+  m_AnchoredPosition: {x: -277, y: -169}
+  m_SizeDelta: {x: 86.813, y: 27.5529}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &78443705
 MonoBehaviour:
@@ -204,8 +204,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 78443708}
-        m_TargetAssemblyTypeName: BackFromOption, Assembly-CSharp
-        m_MethodName: play
+        m_TargetAssemblyTypeName: Option, Assembly-CSharp
+        m_MethodName: Back
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -262,7 +262,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 78443703}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8dac19b3bc98f294bb2341cbbeb44c8c, type: 3}
+  m_Script: {fileID: 11500000, guid: ec94a81a41d778e41a90985db2c85b1b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &686351807

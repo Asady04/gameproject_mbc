@@ -324,9 +324,9 @@ GameObject:
   m_Component:
   - component: {fileID: 456299377}
   - component: {fileID: 456299380}
+  - component: {fileID: 456299381}
   - component: {fileID: 456299379}
   - component: {fileID: 456299378}
-  - component: {fileID: 456299381}
   m_Layer: 5
   m_Name: BackFromCredits
   m_TagString: Untagged
@@ -350,8 +350,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -229, y: -127}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchoredPosition: {x: -317, y: -155}
+  m_SizeDelta: {x: 89.2335, y: 31.5263}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &456299378
 MonoBehaviour:
@@ -398,8 +398,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 456299381}
-        m_TargetAssemblyTypeName: BackFromCredits, Assembly-CSharp
-        m_MethodName: play
+        m_TargetAssemblyTypeName: Credits, Assembly-CSharp
+        m_MethodName: Back
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -456,7 +456,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 456299376}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9473e7eb1365ceb41a4b774eb0402a8b, type: 3}
+  m_Script: {fileID: 11500000, guid: bcea05c696cc39b4ab18e499803c4f31, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &656895977

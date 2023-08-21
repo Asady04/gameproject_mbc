@@ -156,7 +156,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 270.7, y: -111.2}
+  m_AnchoredPosition: {x: 263, y: -124}
   m_SizeDelta: {x: 231.0714, y: 69.185}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &9752879
@@ -204,8 +204,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 9752882}
-        m_TargetAssemblyTypeName: No, Assembly-CSharp
-        m_MethodName: Play
+        m_TargetAssemblyTypeName: Exit, Assembly-CSharp
+        m_MethodName: Back
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -262,7 +262,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 9752877}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 35b4d6544d166ec45a6dd62beaffd681, type: 3}
+  m_Script: {fileID: 11500000, guid: c8c3845266fd09b41b5b152dfdb837ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &357439083
@@ -538,8 +538,8 @@ Transform:
   m_GameObject: {fileID: 1342424593}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.0851, y: 0, z: 0}
-  m_LocalScale: {x: 1.1919532, y: 1, z: 1}
+  m_LocalPosition: {x: -0.32, y: -0.07, z: 0}
+  m_LocalScale: {x: 1.0916157, y: 0.9474, z: 0.9474}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -648,7 +648,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -227, y: -111.2}
+  m_AnchoredPosition: {x: -263, y: -124}
   m_SizeDelta: {x: 230.065, y: 69.1846}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1820305422
@@ -696,8 +696,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1820305425}
-        m_TargetAssemblyTypeName: MainMenu, Assembly-CSharp
-        m_MethodName: Exit
+        m_TargetAssemblyTypeName: Exit, Assembly-CSharp
+        m_MethodName: Yes
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -754,7 +754,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1820305420}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 391aaa7222bacfc4fa39a8d0e4d33eb4, type: 3}
+  m_Script: {fileID: 11500000, guid: c8c3845266fd09b41b5b152dfdb837ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807

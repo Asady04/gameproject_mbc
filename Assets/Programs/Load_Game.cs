@@ -4,12 +4,12 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
  
-public class  loadgame_button : MonoBehaviour
+public class Load_Game : MonoBehaviour
 {
-    public void Play()
+    public void Back()
     {
 
-        SceneManager.LoadScene("New_Game");
+        SceneManager.LoadScene("Main_Menu");
         Time.timeScale = 1f;
     }
  
