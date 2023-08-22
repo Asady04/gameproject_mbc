@@ -3,20 +3,25 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-public class Main_Menu : MonoBehaviour
+
+public class NavigationScript : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public void MainMenu()
+    {
+        SceneManager.LoadScene("Main_Menu");
+        Time.timeScale = 1f;
+    }
     public void Play()
     {
         SceneManager.LoadScene("Map1");
         Time.timeScale = 1f;
     }
-    public void Load_Game()
+    public void LoadGame()
     {
         SceneManager.LoadScene("Load_Game");
         Time.timeScale = 1f;
     }
-    public void New_Game()
+    public void NewGame()
     {
         SceneManager.LoadScene("New_Game");
         Time.timeScale = 1f;
@@ -37,6 +42,9 @@ public class Main_Menu : MonoBehaviour
         SceneManager.LoadScene("Exit");
         Time.timeScale = 1f;
     }
-
-
+    public void ConfirmExit()
+    {
+        Application.Quit();
+        Debug.Log("Game Ended");
+    }
 }
