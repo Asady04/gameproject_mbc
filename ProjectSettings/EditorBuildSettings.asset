@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Main_Menu.unity
     guid: cf697b8434e3d924b8d27e7daf36a2a7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
@@ -23,6 +23,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Map1.unity
     guid: 9ea19cb14c59aa3468990b9ce31fc6eb
+  - enabled: 1
+    path: Assets/Scenes/Map2.unity
+    guid: 4727fce4865431344963b13b2fd55a33
+  - enabled: 1
+    path: Assets/Scenes/Map3.unity
+    guid: 21c35b0e6212f594495f655c89cfc2d5
+  - enabled: 1
+    path: Assets/Scenes/Map4.unity
+    guid: 5d21b470430b67243b90d125271ee641
   - enabled: 1
     path: Assets/Scenes/Load_Game.unity
     guid: 5054c104ca041f944bce9ccf659d7148
