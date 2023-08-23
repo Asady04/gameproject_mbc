@@ -167,6 +167,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: sniper
+  amount: 1
 --- !u!212 &33961153
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -312,6 +313,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: qbz
+  amount: 1
 --- !u!212 &62560945
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -834,6 +836,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: uzi
+  amount: 1
 --- !u!212 &603940070
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1299,6 +1302,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: shotgun
+  amount: 1
 --- !u!212 &775680974
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1569,7 +1573,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 19d111765e163b74bb29d09821aed05a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  inventory: []
+  itemName: 
+  itemAmount: 0
+  inventoryCount: 0
   speed: 2
   inventoryText: {fileID: 1982179323}
 --- !u!1 &990233762
@@ -1687,6 +1693,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemType: revolver
+  amount: 1
 --- !u!212 &1157399348
 SpriteRenderer:
   m_ObjectHideFlags: 0
