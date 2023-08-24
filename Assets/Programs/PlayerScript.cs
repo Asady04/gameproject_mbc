@@ -1,25 +1,32 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
-
 public class PlayerScript : MonoBehaviour
 {
-    public List<string> inventory;
+    
+    public List<Tuple<string, int>> inventory;
+    public string itemName;
+    public int itemAmount;
+    public int inventoryCount;
     private Vector2 targetPos;
     public float speed = 2;
     public TextMeshProUGUI inventoryText;
     void Start()
-    {   
-         
-        inventory = new List<string>();
+    {
+        inventory = new List<Tuple<string, int>>();
     }
 
     private void Awake()
     {
-        string[] array = PlayerPrefs.GetString("InventoryItems").Split("/n");
-        inventory.AddRange(array);
-
+        // inventoryCount = PlayerPrefs.GetInt("count", 0);
+        // for (int i = 0; i < inventoryCount; i++)
+        // {
+        //     itemName = PlayerPrefs.GetString("", "unknown");
+        //     itemAmount = PlayerPrefs.GetInt("", 0);
+        //     inventory.Add(Tuple.Create(itemName, itemAmount));
+        // }
     }
     void Update()
     {
@@ -44,9 +51,12 @@ public class PlayerScript : MonoBehaviour
         if (collision.CompareTag("Collectable"))
         {
             string itemType = collision.gameObject.GetComponent<ItemScript>().itemType;
-            print("we have collected a:" + itemType);
-            inventory.Add(itemType);
-            PlayerPrefs.SetString("InventoryItems", string.Join("/n", inventory.ToArray()));
+            int amount = collision.gameObject.GetComponent<ItemScript>().amount;
+            print("we have collected a: " + itemType + " with " + amount + " amount");
+            inventory.Add(Tuple.Create(itemType, amount));
+            // PlayerPrefs.SetString(itemType, itemType);
+            // PlayerPrefs.SetInt(itemType+"amount", amount);
+            // PlayerPrefs.SetInt("count", inventory.Count);
             print("inventory length:" + inventory.Count);
             Destroy(collision.gameObject);
         }

@@ -5,13 +5,13 @@ using UnityEngine.SceneManagement;
 
 public class panah : MonoBehaviour
 {
-    private int nextSceneToLoad;
+    private int backSceneToLoad;
     private void Start()
     {
-        nextSceneToLoad = SceneManager.GetActiveScene().buildIndex + 1;
+        backSceneToLoad = SceneManager.GetActiveScene().buildIndex - 1;
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        SceneManager.LoadScene(nextSceneToLoad);
+        SceneManager.LoadScene(backSceneToLoad);
     }
 }
