@@ -166,7 +166,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c480fb93a531c64ea0bc3ddd23c0136, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemType: sniper
+  itemType: 2
   amount: 1
 --- !u!212 &33961153
 SpriteRenderer:
@@ -312,7 +312,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c480fb93a531c64ea0bc3ddd23c0136, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemType: qbz
+  itemType: 0
   amount: 1
 --- !u!212 &62560945
 SpriteRenderer:
@@ -835,7 +835,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c480fb93a531c64ea0bc3ddd23c0136, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemType: uzi
+  itemType: 3
   amount: 1
 --- !u!212 &603940070
 SpriteRenderer:
@@ -1301,7 +1301,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c480fb93a531c64ea0bc3ddd23c0136, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemType: shotgun
+  itemType: 1
   amount: 1
 --- !u!212 &775680974
 SpriteRenderer:
@@ -1514,7 +1514,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!61 &982862580
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1573,9 +1573,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 19d111765e163b74bb29d09821aed05a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemAmount: 0
-  inventoryCount: 0
   speed: 2
   inventoryText: {fileID: 1982179323}
 --- !u!1 &990233762
@@ -1692,7 +1689,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c480fb93a531c64ea0bc3ddd23c0136, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemType: revolver
+  itemType: 4
   amount: 1
 --- !u!212 &1157399348
 SpriteRenderer:
@@ -2127,7 +2124,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1405221879}
-  - component: {fileID: 1405221880}
   m_Layer: 5
   m_Name: UI_Inventory
   m_TagString: Untagged
@@ -2156,18 +2152,6 @@ RectTransform:
   m_AnchoredPosition: {x: -121.5, y: 73.095}
   m_SizeDelta: {x: 61.211, y: 61.211}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1405221880
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1405221878}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b71a3abc7366b9f47a9a0f751bf294e7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1465507310
 GameObject:
   m_ObjectHideFlags: 0

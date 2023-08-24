@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ItemScript : MonoBehaviour
 {
-   public string itemType;
+   public int itemType;
    public int amount = 1;
    
 }

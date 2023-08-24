@@ -437,9 +437,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 19d111765e163b74bb29d09821aed05a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemAmount: 0
-  inventoryCount: 0
   speed: 2
   inventoryText: {fileID: 396507447}
 --- !u!61 &475348614
@@ -514,7 +511,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!1 &501442327
 GameObject:
   m_ObjectHideFlags: 0

@@ -3,35 +3,55 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+
+public class Items
+{
+    public int type;
+    public int amount;
+
+    public void SetItems(int type, int amount)
+    {
+        this.type = type;
+        this.amount = amount;
+    }
+}
 public class PlayerScript : MonoBehaviour
 {
-    
-    public List<Tuple<string, int>> inventory;
-    public string itemName;
-    public int itemAmount;
-    public int inventoryCount;
+
+    public Items[] inventory;
     private Vector2 targetPos;
     public float speed = 2;
     public TextMeshProUGUI inventoryText;
+
     void Start()
     {
-        inventory = new List<Tuple<string, int>>();
+        int inventoryCount = PlayerPrefs.GetInt("count", 0);
+        inventory = new Items[inventoryCount];
     }
 
     private void Awake()
     {
-        // inventoryCount = PlayerPrefs.GetInt("count", 0);
+        // int inventoryCount = PlayerPrefs.GetInt("count", 0);
         // for (int i = 0; i < inventoryCount; i++)
         // {
-        //     itemName = PlayerPrefs.GetString("", "unknown");
-        //     itemAmount = PlayerPrefs.GetInt("", 0);
-        //     inventory.Add(Tuple.Create(itemName, itemAmount));
+        //     int itemName = PlayerPrefs.GetInt("item" + i, -1);
+        //     int itemAmount = PlayerPrefs.GetInt("amount" + i, 0);
+        //     if (itemName == -1 || itemAmount == 0)
+        //     {
+        //         Debug.Log("inventory is empty");
+        //     }
+        //     else
+        //     {
+        //         inventory[i] = new Items();
+        //         inventory[i].SetItems(itemName, itemAmount);
+        //     }
         // }
     }
     void Update()
     {
-        Debug.Log(inventory.Count);
-        inventoryText.text = inventory.Count.ToString();
+            Debug.Log(inventory.Length);
+            inventoryText.text = inventory.Length.ToString();
+
 
         Vector2 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
 
@@ -50,14 +70,48 @@ public class PlayerScript : MonoBehaviour
     {
         if (collision.CompareTag("Collectable"))
         {
-            string itemType = collision.gameObject.GetComponent<ItemScript>().itemType;
+            int itemType = collision.gameObject.GetComponent<ItemScript>().itemType;
             int amount = collision.gameObject.GetComponent<ItemScript>().amount;
             print("we have collected a: " + itemType + " with " + amount + " amount");
-            inventory.Add(Tuple.Create(itemType, amount));
-            // PlayerPrefs.SetString(itemType, itemType);
-            // PlayerPrefs.SetInt(itemType+"amount", amount);
-            // PlayerPrefs.SetInt("count", inventory.Count);
-            print("inventory length:" + inventory.Count);
+
+            switch (itemType)
+            {
+                case 0:
+                    inventory[itemType] = new Items();
+                    inventory[itemType].SetItems(itemType, amount);
+                    PlayerPrefs.SetInt("item" + itemType, itemType);
+                    PlayerPrefs.SetInt("amount" + itemType, amount);
+                    break;
+                case 1:
+                    inventory[itemType] = new Items();
+                    inventory[itemType].SetItems(itemType, amount);
+                    PlayerPrefs.SetInt("item" + itemType, itemType);
+                    PlayerPrefs.SetInt("amount" + itemType, amount);
+                    break;
+                case 2:
+                    inventory[itemType] = new Items();
+                    inventory[itemType].SetItems(itemType, amount);
+                    PlayerPrefs.SetInt("item" + itemType, itemType);
+                    PlayerPrefs.SetInt("amount" + itemType, amount);
+                    break;
+                case 3:
+                    inventory[itemType] = new Items();
+                    inventory[itemType].SetItems(itemType, amount);
+                    PlayerPrefs.SetInt("item" + itemType, itemType);
+                    PlayerPrefs.SetInt("amount" + itemType, amount);
+                    break;
+                case 4:
+                    inventory[itemType] = new Items();
+                    inventory[itemType].SetItems(itemType, amount);
+                    PlayerPrefs.SetInt("item" + itemType, itemType);
+                    PlayerPrefs.SetInt("amount" + itemType, amount);
+                    break;
+                default:
+                    break;
+            }
+
+            PlayerPrefs.SetInt("count", inventory.Length);
+            Debug.Log(inventory.Length);
             Destroy(collision.gameObject);
         }
     }
