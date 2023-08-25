@@ -2016,6 +2016,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: MainMenu
       objectReference: {fileID: 0}
+    - target: {fileID: 4710244073492669632, guid: 598128ab63ab67943bcafd27fb653163, type: 3}
+      propertyPath: m_TagString
+      value: pause
+      objectReference: {fileID: 0}
     - target: {fileID: 7782391693755191740, guid: 598128ab63ab67943bcafd27fb653163, type: 3}
       propertyPath: m_Name
       value: Pause
@@ -2620,6 +2624,6 @@ SceneRoots:
   - {fileID: 493063111}
   - {fileID: 590183803}
   - {fileID: 1178315832}
+  - {fileID: 1220736244}
   - {fileID: 990233765}
   - {fileID: 617024387}
-  - {fileID: 1220736244}

@@ -24,6 +24,7 @@ public class PlayerScript : MonoBehaviour
     public TextMeshProUGUI inventoryText;
     public Animator animator;
     public Rigidbody2D rb;
+    // private Pause_Menu pauseSystem;
 
     void Start()
     {
@@ -34,6 +35,7 @@ public class PlayerScript : MonoBehaviour
 
     private void Awake()
     {
+    //    pauseSystem = GameObject.FindGameObjectWithTag("pause").GetComponent<Pause_Menu>();
         // int inventoryCount = PlayerPrefs.GetInt("count", 0);
         // for (int i = 0; i < inventoryCount; i++)
         // {
@@ -52,6 +54,7 @@ public class PlayerScript : MonoBehaviour
     }
     void Update()
     {
+        // if (pauseSystem.GetIsPaused()){return;}
         Debug.Log(inventory.Length);
         inventoryText.text = inventory.Length.ToString();
 
