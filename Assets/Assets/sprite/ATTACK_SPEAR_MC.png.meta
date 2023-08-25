@@ -1,0 +1,1522 @@
+fileFormatVersion: 2
+guid: 3d7edb327bc1ad744af3770d48ae6051
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4931521284865076248
+    second: ATTACK_SPEAR_MC_0
+  - first:
+      213: 5505036672245941898
+    second: ATTACK_SPEAR_MC_1
+  - first:
+      213: -4119035757912766247
+    second: ATTACK_SPEAR_MC_2
+  - first:
+      213: -8077176266908260737
+    second: ATTACK_SPEAR_MC_3
+  - first:
+      213: 6583018335764666340
+    second: ATTACK_SPEAR_MC_4
+  - first:
+      213: -1579332048697318013
+    second: ATTACK_SPEAR_MC_5
+  - first:
+      213: 3576858846016891204
+    second: ATTACK_SPEAR_MC_6
+  - first:
+      213: -366487691705650381
+    second: ATTACK_SPEAR_MC_7
+  - first:
+      213: -7879060907406992963
+    second: ATTACK_SPEAR_MC_8
+  - first:
+      213: 8967375455735629002
+    second: ATTACK_SPEAR_MC_9
+  - first:
+      213: -6590932266452969807
+    second: ATTACK_SPEAR_MC_10
+  - first:
+      213: -8453295841861574793
+    second: ATTACK_SPEAR_MC_11
+  - first:
+      213: 4444298179620304083
+    second: ATTACK_SPEAR_MC_12
+  - first:
+      213: 6999508401803733773
+    second: ATTACK_SPEAR_MC_13
+  - first:
+      213: 450266295731871186
+    second: ATTACK_SPEAR_MC_14
+  - first:
+      213: -3617565450798719105
+    second: ATTACK_SPEAR_MC_15
+  - first:
+      213: 3662852576153457989
+    second: ATTACK_SPEAR_MC_16
+  - first:
+      213: 2442513166321701069
+    second: ATTACK_SPEAR_MC_17
+  - first:
+      213: 545788393622474755
+    second: ATTACK_SPEAR_MC_18
+  - first:
+      213: 9025079485059530148
+    second: ATTACK_SPEAR_MC_19
+  - first:
+      213: 2551560459334932925
+    second: ATTACK_SPEAR_MC_20
+  - first:
+      213: 3226823373616611326
+    second: ATTACK_SPEAR_MC_21
+  - first:
+      213: -5949949899946078035
+    second: ATTACK_SPEAR_MC_22
+  - first:
+      213: 968537257197492552
+    second: ATTACK_SPEAR_MC_23
+  - first:
+      213: -8880284979391427766
+    second: ATTACK_SPEAR_MC_24
+  - first:
+      213: -9199846848424552533
+    second: ATTACK_SPEAR_MC_25
+  - first:
+      213: -2575621080865077047
+    second: ATTACK_SPEAR_MC_26
+  - first:
+      213: 227135479884186635
+    second: ATTACK_SPEAR_MC_27
+  - first:
+      213: 1021894948728320100
+    second: ATTACK_SPEAR_MC_28
+  - first:
+      213: 5772245219676718653
+    second: ATTACK_SPEAR_MC_29
+  - first:
+      213: -189664390318561924
+    second: ATTACK_SPEAR_MC_30
+  - first:
+      213: 2612867359582121899
+    second: ATTACK_SPEAR_MC_31
+  - first:
+      213: 3417927807668290239
+    second: ATTACK_SPEAR_MC_32
+  - first:
+      213: -8921310068275637628
+    second: ATTACK_SPEAR_MC_33
+  - first:
+      213: 706835860454626287
+    second: ATTACK_SPEAR_MC_34
+  - first:
+      213: -2228918858814089618
+    second: ATTACK_SPEAR_MC_35
+  - first:
+      213: 969179358092739119
+    second: ATTACK_SPEAR_MC_36
+  - first:
+      213: -2391658945435795300
+    second: ATTACK_SPEAR_MC_37
+  - first:
+      213: 4623095298216116019
+    second: ATTACK_SPEAR_MC_38
+  - first:
+      213: -6873006384945019670
+    second: ATTACK_SPEAR_MC_39
+  - first:
+      213: -7203698322168354669
+    second: ATTACK_SPEAR_MC_40
+  - first:
+      213: -9005947364515874623
+    second: ATTACK_SPEAR_MC_41
+  - first:
+      213: -2534335350068530493
+    second: ATTACK_SPEAR_MC_42
+  - first:
+      213: -323979007339869962
+    second: ATTACK_SPEAR_MC_43
+  - first:
+      213: 79483461119588003
+    second: ATTACK_SPEAR_MC_44
+  - first:
+      213: -3262705489216065359
+    second: ATTACK_SPEAR_MC_45
+  - first:
+      213: -4401888126590296451
+    second: ATTACK_SPEAR_MC_46
+  - first:
+      213: -4300014536099738232
+    second: ATTACK_SPEAR_MC_47
+  - first:
+      213: -3794879653066207237
+    second: ATTACK_SPEAR_MC_48
+  - first:
+      213: 6064250564339516002
+    second: ATTACK_SPEAR_MC_49
+  - first:
+      213: 3561079916730387427
+    second: ATTACK_SPEAR_MC_50
+  - first:
+      213: 2264670800483012358
+    second: ATTACK_SPEAR_MC_51
+  - first:
+      213: -5622677326520605434
+    second: ATTACK_SPEAR_MC_52
+  - first:
+      213: 5471504027712823631
+    second: ATTACK_SPEAR_MC_53
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 7317
+        width: 551
+        height: 1075
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3d65d0587bf8bb0800000000000000
+      internalID: -4931521284865076248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_1
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 7343
+        width: 559
+        height: 1118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86c7bcbfa1d56c40800000000000000
+      internalID: 5505036672245941898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_2
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 7345
+        width: 512
+        height: 1037
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d84a704dce36d6c0800000000000000
+      internalID: -4119035757912766247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_3
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 7341
+        width: 1003
+        height: 767
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76a7bedafa18ef80800000000000000
+      internalID: -8077176266908260737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_4
+      rect:
+        serializedVersion: 2
+        x: 4773
+        y: 7309
+        width: 987
+        height: 746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7d22d4c449b5b50800000000000000
+      internalID: 6583018335764666340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_5
+      rect:
+        serializedVersion: 2
+        x: 5898
+        y: 7246
+        width: 1003
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385a10f8ed5151ae0800000000000000
+      internalID: -1579332048697318013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_6
+      rect:
+        serializedVersion: 2
+        x: 7356
+        y: 7238
+        width: 493
+        height: 1075
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449ec806b2e83a130800000000000000
+      internalID: 3576858846016891204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_7
+      rect:
+        serializedVersion: 2
+        x: 8584
+        y: 7272
+        width: 528
+        height: 1113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333f459d269f9eaf0800000000000000
+      internalID: -366487691705650381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_8
+      rect:
+        serializedVersion: 2
+        x: 9646
+        y: 7279
+        width: 551
+        height: 1075
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9d65a89d3f7a290800000000000000
+      internalID: -7879060907406992963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6164
+        width: 476
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4cdae3774827c70800000000000000
+      internalID: 8967375455735629002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_10
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 6122
+        width: 527
+        height: 1156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6196f160e4884a0800000000000000
+      internalID: -6590932266452969807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_11
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 6116
+        width: 939
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fdd84283cdfaa80800000000000000
+      internalID: -8453295841861574793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_12
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 6154
+        width: 934
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4fe20c5a15dad30800000000000000
+      internalID: 4444298179620304083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_13
+      rect:
+        serializedVersion: 2
+        x: 4436
+        y: 6133
+        width: 1044
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bafd37ecf332160800000000000000
+      internalID: 6999508401803733773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_14
+      rect:
+        serializedVersion: 2
+        x: 5801
+        y: 6065
+        width: 934
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dddd637fcaaf3600800000000000000
+      internalID: 450266295731871186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_15
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 6028
+        width: 939
+        height: 851
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f9a61a363dbcdc0800000000000000
+      internalID: -3617565450798719105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_16
+      rect:
+        serializedVersion: 2
+        x: 8505
+        y: 6057
+        width: 526
+        height: 1156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545504ae20115d230800000000000000
+      internalID: 3662852576153457989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_17
+      rect:
+        serializedVersion: 2
+        x: 9594
+        y: 6032
+        width: 477
+        height: 931
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0d1d5a8cc85e120800000000000000
+      internalID: 2442513166321701069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_18
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 4882
+        width: 379
+        height: 994
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300166cf6a7039700800000000000000
+      internalID: 545788393622474755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_19
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 4880
+        width: 968
+        height: 824
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad73a889f58f3d70800000000000000
+      internalID: 9025079485059530148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_20
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 4808
+        width: 809
+        height: 1132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9579118b6f86320800000000000000
+      internalID: 2551560459334932925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_21
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 4784
+        width: 998
+        height: 869
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff785903caf7cc20800000000000000
+      internalID: 3226823373616611326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_22
+      rect:
+        serializedVersion: 2
+        x: 4712
+        y: 4837
+        width: 1074
+        height: 729
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0d75617188d6da0800000000000000
+      internalID: -5949949899946078035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_23
+      rect:
+        serializedVersion: 2
+        x: 5987
+        y: 4730
+        width: 998
+        height: 869
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849dcfef08fe07d00800000000000000
+      internalID: 968537257197492552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_24
+      rect:
+        serializedVersion: 2
+        x: 7196
+        y: 4697
+        width: 809
+        height: 1132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b032b6cd3e2c480800000000000000
+      internalID: -8880284979391427766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_25
+      rect:
+        serializedVersion: 2
+        x: 8472
+        y: 4707
+        width: 968
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba758a3c804935080800000000000000
+      internalID: -9199846848424552533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_26
+      rect:
+        serializedVersion: 2
+        x: 9951
+        y: 4684
+        width: 378
+        height: 994
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8870fe54e814cd0800000000000000
+      internalID: -2575621080865077047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_27
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3386
+        width: 267
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04826af382f62300800000000000000
+      internalID: 227135479884186635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_28
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 3362
+        width: 643
+        height: 1117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460b7b8aa008e2e00800000000000000
+      internalID: 1021894948728320100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_29
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 3342
+        width: 751
+        height: 1042
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d360743d1722b1050800000000000000
+      internalID: 5772245219676718653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_30
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 3282
+        width: 987
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75658ced3d2e5df0800000000000000
+      internalID: -189664390318561924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_31
+      rect:
+        serializedVersion: 2
+        x: 4357
+        y: 3293
+        width: 1084
+        height: 743
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafea1d1505c24420800000000000000
+      internalID: 2612867359582121899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_32
+      rect:
+        serializedVersion: 2
+        x: 5947
+        y: 3197
+        width: 987
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb28ffb6b3bee6f20800000000000000
+      internalID: 3417927807668290239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_33
+      rect:
+        serializedVersion: 2
+        x: 7499
+        y: 3166
+        width: 750
+        height: 1043
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482905192c3213480800000000000000
+      internalID: -8921310068275637628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_34
+      rect:
+        serializedVersion: 2
+        x: 8666
+        y: 3119
+        width: 644
+        height: 1117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3d7e8587f2fc900800000000000000
+      internalID: 706835860454626287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_35
+      rect:
+        serializedVersion: 2
+        x: 9791
+        y: 3068
+        width: 267
+        height: 1006
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6697337b1a4111e0800000000000000
+      internalID: -2228918858814089618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1604
+        width: 322
+        height: 1011
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2242c2cd77337d00800000000000000
+      internalID: 969179358092739119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_37
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1608
+        width: 607
+        height: 1129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c900a655cde1fced0800000000000000
+      internalID: -2391658945435795300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_38
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 1579
+        width: 704
+        height: 1090
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f33f4fda8882040800000000000000
+      internalID: 4623095298216116019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_39
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 1579
+        width: 777
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae44c5e8b1d2e90a0800000000000000
+      internalID: -6873006384945019670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_40
+      rect:
+        serializedVersion: 2
+        x: 4311
+        y: 1631
+        width: 1127
+        height: 663
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398e316fa82570c90800000000000000
+      internalID: -7203698322168354669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_41
+      rect:
+        serializedVersion: 2
+        x: 6036
+        y: 1547
+        width: 777
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c87a286692740380800000000000000
+      internalID: -9005947364515874623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_42
+      rect:
+        serializedVersion: 2
+        x: 7378
+        y: 1561
+        width: 704
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c233753d6b34dcd0800000000000000
+      internalID: -2534335350068530493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_43
+      rect:
+        serializedVersion: 2
+        x: 8686
+        y: 1574
+        width: 608
+        height: 1129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8c2d03fcef08bf0800000000000000
+      internalID: -323979007339869962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_44
+      rect:
+        serializedVersion: 2
+        x: 9836
+        y: 1544
+        width: 322
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a63d8969c16a1100800000000000000
+      internalID: 79483461119588003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_45
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 42
+        width: 376
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b03f84e4aa88b2d0800000000000000
+      internalID: -3262705489216065359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_46
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 0
+        width: 329
+        height: 875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e5391321a59e2c0800000000000000
+      internalID: -4401888126590296451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_47
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 41
+        width: 488
+        height: 1047
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d42c6df874354c0800000000000000
+      internalID: -4300014536099738232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_48
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 77
+        width: 813
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff81a9cf01e55bc0800000000000000
+      internalID: -3794879653066207237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_49
+      rect:
+        serializedVersion: 2
+        x: 4441
+        y: 165
+        width: 1078
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2624b6c22cb882450800000000000000
+      internalID: 6064250564339516002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_50
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 117
+        width: 812
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb0e7d115f7b6130800000000000000
+      internalID: 3561079916730387427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_51
+      rect:
+        serializedVersion: 2
+        x: 7490
+        y: 144
+        width: 488
+        height: 1048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f4df3281abd6f10800000000000000
+      internalID: 2264670800483012358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_52
+      rect:
+        serializedVersion: 2
+        x: 8722
+        y: 88
+        width: 329
+        height: 877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605a81203cc38f1b0800000000000000
+      internalID: -5622677326520605434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ATTACK_SPEAR_MC_53
+      rect:
+        serializedVersion: 2
+        x: 9879
+        y: 53
+        width: 376
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4121f68cefaeeb40800000000000000
+      internalID: 5471504027712823631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ATTACK_SPEAR_MC_0: -4931521284865076248
+      ATTACK_SPEAR_MC_1: 5505036672245941898
+      ATTACK_SPEAR_MC_10: -6590932266452969807
+      ATTACK_SPEAR_MC_11: -8453295841861574793
+      ATTACK_SPEAR_MC_12: 4444298179620304083
+      ATTACK_SPEAR_MC_13: 6999508401803733773
+      ATTACK_SPEAR_MC_14: 450266295731871186
+      ATTACK_SPEAR_MC_15: -3617565450798719105
+      ATTACK_SPEAR_MC_16: 3662852576153457989
+      ATTACK_SPEAR_MC_17: 2442513166321701069
+      ATTACK_SPEAR_MC_18: 545788393622474755
+      ATTACK_SPEAR_MC_19: 9025079485059530148
+      ATTACK_SPEAR_MC_2: -4119035757912766247
+      ATTACK_SPEAR_MC_20: 2551560459334932925
+      ATTACK_SPEAR_MC_21: 3226823373616611326
+      ATTACK_SPEAR_MC_22: -5949949899946078035
+      ATTACK_SPEAR_MC_23: 968537257197492552
+      ATTACK_SPEAR_MC_24: -8880284979391427766
+      ATTACK_SPEAR_MC_25: -9199846848424552533
+      ATTACK_SPEAR_MC_26: -2575621080865077047
+      ATTACK_SPEAR_MC_27: 227135479884186635
+      ATTACK_SPEAR_MC_28: 1021894948728320100
+      ATTACK_SPEAR_MC_29: 5772245219676718653
+      ATTACK_SPEAR_MC_3: -8077176266908260737
+      ATTACK_SPEAR_MC_30: -189664390318561924
+      ATTACK_SPEAR_MC_31: 2612867359582121899
+      ATTACK_SPEAR_MC_32: 3417927807668290239
+      ATTACK_SPEAR_MC_33: -8921310068275637628
+      ATTACK_SPEAR_MC_34: 706835860454626287
+      ATTACK_SPEAR_MC_35: -2228918858814089618
+      ATTACK_SPEAR_MC_36: 969179358092739119
+      ATTACK_SPEAR_MC_37: -2391658945435795300
+      ATTACK_SPEAR_MC_38: 4623095298216116019
+      ATTACK_SPEAR_MC_39: -6873006384945019670
+      ATTACK_SPEAR_MC_4: 6583018335764666340
+      ATTACK_SPEAR_MC_40: -7203698322168354669
+      ATTACK_SPEAR_MC_41: -9005947364515874623
+      ATTACK_SPEAR_MC_42: -2534335350068530493
+      ATTACK_SPEAR_MC_43: -323979007339869962
+      ATTACK_SPEAR_MC_44: 79483461119588003
+      ATTACK_SPEAR_MC_45: -3262705489216065359
+      ATTACK_SPEAR_MC_46: -4401888126590296451
+      ATTACK_SPEAR_MC_47: -4300014536099738232
+      ATTACK_SPEAR_MC_48: -3794879653066207237
+      ATTACK_SPEAR_MC_49: 6064250564339516002
+      ATTACK_SPEAR_MC_5: -1579332048697318013
+      ATTACK_SPEAR_MC_50: 3561079916730387427
+      ATTACK_SPEAR_MC_51: 2264670800483012358
+      ATTACK_SPEAR_MC_52: -5622677326520605434
+      ATTACK_SPEAR_MC_53: 5471504027712823631
+      ATTACK_SPEAR_MC_6: 3576858846016891204
+      ATTACK_SPEAR_MC_7: -366487691705650381
+      ATTACK_SPEAR_MC_8: -7879060907406992963
+      ATTACK_SPEAR_MC_9: 8967375455735629002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

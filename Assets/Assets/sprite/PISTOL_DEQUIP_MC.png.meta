@@ -1,0 +1,922 @@
+fileFormatVersion: 2
+guid: 97b8d93779b71354ab5f32be397f6e8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9195901488548147961
+    second: PISTOL_DEQUIP_MC_0
+  - first:
+      213: 7098753175642149165
+    second: PISTOL_DEQUIP_MC_1
+  - first:
+      213: 1760961768974242303
+    second: PISTOL_DEQUIP_MC_2
+  - first:
+      213: 6298863107825371093
+    second: PISTOL_DEQUIP_MC_3
+  - first:
+      213: -6973794446565528814
+    second: PISTOL_DEQUIP_MC_4
+  - first:
+      213: 7291244354659164891
+    second: PISTOL_DEQUIP_MC_5
+  - first:
+      213: -7485635208251487654
+    second: PISTOL_DEQUIP_MC_6
+  - first:
+      213: 7682077095616718335
+    second: PISTOL_DEQUIP_MC_7
+  - first:
+      213: 5227945843208775949
+    second: PISTOL_DEQUIP_MC_8
+  - first:
+      213: 6047789082290607667
+    second: PISTOL_DEQUIP_MC_9
+  - first:
+      213: 1701162020264577992
+    second: PISTOL_DEQUIP_MC_10
+  - first:
+      213: -5325993312924278369
+    second: PISTOL_DEQUIP_MC_11
+  - first:
+      213: 5480497653447504636
+    second: PISTOL_DEQUIP_MC_12
+  - first:
+      213: -181822810335333580
+    second: PISTOL_DEQUIP_MC_13
+  - first:
+      213: -4727753101390657203
+    second: PISTOL_DEQUIP_MC_14
+  - first:
+      213: -3988013404110865464
+    second: PISTOL_DEQUIP_MC_15
+  - first:
+      213: -7713984407169742793
+    second: PISTOL_DEQUIP_MC_16
+  - first:
+      213: 4339906347954835150
+    second: PISTOL_DEQUIP_MC_17
+  - first:
+      213: -2846700679494713893
+    second: PISTOL_DEQUIP_MC_18
+  - first:
+      213: -1579012396620715696
+    second: PISTOL_DEQUIP_MC_19
+  - first:
+      213: 47534641559052146
+    second: PISTOL_DEQUIP_MC_20
+  - first:
+      213: 5679009404964672597
+    second: PISTOL_DEQUIP_MC_21
+  - first:
+      213: 6163733077837563536
+    second: PISTOL_DEQUIP_MC_22
+  - first:
+      213: 7567314493020773582
+    second: PISTOL_DEQUIP_MC_23
+  - first:
+      213: -7917273130778464985
+    second: PISTOL_DEQUIP_MC_24
+  - first:
+      213: 2070128952376481268
+    second: PISTOL_DEQUIP_MC_25
+  - first:
+      213: 8490655279583912862
+    second: PISTOL_DEQUIP_MC_26
+  - first:
+      213: 8366956974502884754
+    second: PISTOL_DEQUIP_MC_27
+  - first:
+      213: 6488421652551906951
+    second: PISTOL_DEQUIP_MC_28
+  - first:
+      213: 5881634875917562231
+    second: PISTOL_DEQUIP_MC_29
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_0
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 7479
+        width: 456
+        height: 914
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2f56e8ea76e9f70800000000000000
+      internalID: 9195901488548147961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_1
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 7468
+        width: 289
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2193560766d38260800000000000000
+      internalID: 7098753175642149165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_2
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 7489
+        width: 258
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1d0ce1661307810800000000000000
+      internalID: 1760961768974242303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_3
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 7473
+        width: 269
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d78ebeaf9e0a6750800000000000000
+      internalID: 6298863107825371093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_4
+      rect:
+        serializedVersion: 2
+        x: 4652
+        y: 7478
+        width: 385
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21baedb46ea183f90800000000000000
+      internalID: -6973794446565528814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 5918
+        width: 363
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd228022c14bf2560800000000000000
+      internalID: 7291244354659164891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_6
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 5949
+        width: 407
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a430e407ead1890800000000000000
+      internalID: -7485635208251487654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_7
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 5913
+        width: 431
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff52665ca683c9a60800000000000000
+      internalID: 7682077095616718335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_8
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 5949
+        width: 414
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d096079ab056d8840800000000000000
+      internalID: 5227945843208775949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_9
+      rect:
+        serializedVersion: 2
+        x: 4602
+        y: 5965
+        width: 381
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336da66b0201ee350800000000000000
+      internalID: 6047789082290607667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_10
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 4514
+        width: 191
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb814328ddbb9710800000000000000
+      internalID: 1701162020264577992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_11
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 4493
+        width: 158
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91ea0bdc454616b0800000000000000
+      internalID: -5325993312924278369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_12
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 4511
+        width: 185
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2b9123493ae0c40800000000000000
+      internalID: 5480497653447504636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_13
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 4483
+        width: 168
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43336e90e190a7df0800000000000000
+      internalID: -181822810335333580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_14
+      rect:
+        serializedVersion: 2
+        x: 4771
+        y: 4509
+        width: 140
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49cbdd5a95a36eb0800000000000000
+      internalID: -4727753101390657203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2994
+        width: 242
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbb97830fab7a8c0800000000000000
+      internalID: -3988013404110865464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_16
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 2980
+        width: 168
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738ceb75d0c62f490800000000000000
+      internalID: -7713984407169742793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_17
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 2968
+        width: 162
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece8f4464d17a3c30800000000000000
+      internalID: 4339906347954835150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_18
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 2981
+        width: 161
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddbad080dc7e78d0800000000000000
+      internalID: -2846700679494713893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_19
+      rect:
+        serializedVersion: 2
+        x: 4759
+        y: 2973
+        width: 140
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059eb7b5798361ae0800000000000000
+      internalID: -1579012396620715696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1552
+        width: 429
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f17a03180e8a000800000000000000
+      internalID: 47534641559052146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_21
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1550
+        width: 335
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554950317f4efce40800000000000000
+      internalID: 5679009404964672597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_22
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1519
+        width: 261
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09645d2d39af98550800000000000000
+      internalID: 6163733077837563536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_23
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 1528
+        width: 303
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc1b242070840960800000000000000
+      internalID: 7567314493020773582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_24
+      rect:
+        serializedVersion: 2
+        x: 4638
+        y: 1506
+        width: 350
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d643af802302290800000000000000
+      internalID: -7917273130778464985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_25
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 58
+        width: 329
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5d6ad60539abc10800000000000000
+      internalID: 2070128952376481268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_26
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 67
+        width: 370
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93e4e9cdfdd4d570800000000000000
+      internalID: 8490655279583912862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_27
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 37
+        width: 357
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295b83cc9076d1470800000000000000
+      internalID: 8366956974502884754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_28
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 21
+        width: 359
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7863f49ad118b0a50800000000000000
+      internalID: 6488421652551906951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_DEQUIP_MC_29
+      rect:
+        serializedVersion: 2
+        x: 4660
+        y: 0
+        width: 350
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7717d95e1c3cf9150800000000000000
+      internalID: 5881634875917562231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PISTOL_DEQUIP_MC_0: 9195901488548147961
+      PISTOL_DEQUIP_MC_1: 7098753175642149165
+      PISTOL_DEQUIP_MC_10: 1701162020264577992
+      PISTOL_DEQUIP_MC_11: -5325993312924278369
+      PISTOL_DEQUIP_MC_12: 5480497653447504636
+      PISTOL_DEQUIP_MC_13: -181822810335333580
+      PISTOL_DEQUIP_MC_14: -4727753101390657203
+      PISTOL_DEQUIP_MC_15: -3988013404110865464
+      PISTOL_DEQUIP_MC_16: -7713984407169742793
+      PISTOL_DEQUIP_MC_17: 4339906347954835150
+      PISTOL_DEQUIP_MC_18: -2846700679494713893
+      PISTOL_DEQUIP_MC_19: -1579012396620715696
+      PISTOL_DEQUIP_MC_2: 1760961768974242303
+      PISTOL_DEQUIP_MC_20: 47534641559052146
+      PISTOL_DEQUIP_MC_21: 5679009404964672597
+      PISTOL_DEQUIP_MC_22: 6163733077837563536
+      PISTOL_DEQUIP_MC_23: 7567314493020773582
+      PISTOL_DEQUIP_MC_24: -7917273130778464985
+      PISTOL_DEQUIP_MC_25: 2070128952376481268
+      PISTOL_DEQUIP_MC_26: 8490655279583912862
+      PISTOL_DEQUIP_MC_27: 8366956974502884754
+      PISTOL_DEQUIP_MC_28: 6488421652551906951
+      PISTOL_DEQUIP_MC_29: 5881634875917562231
+      PISTOL_DEQUIP_MC_3: 6298863107825371093
+      PISTOL_DEQUIP_MC_4: -6973794446565528814
+      PISTOL_DEQUIP_MC_5: 7291244354659164891
+      PISTOL_DEQUIP_MC_6: -7485635208251487654
+      PISTOL_DEQUIP_MC_7: 7682077095616718335
+      PISTOL_DEQUIP_MC_8: 5227945843208775949
+      PISTOL_DEQUIP_MC_9: 6047789082290607667
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

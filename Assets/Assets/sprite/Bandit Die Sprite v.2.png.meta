@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: d547c18baadf31e4ba57f070343b1c82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6849384129645246128
+    second: Bandit Die Sprite v.2_0
+  - first:
+      213: 6589741011616067470
+    second: Bandit Die Sprite v.2_1
+  - first:
+      213: 4315740299134311825
+    second: Bandit Die Sprite v.2_2
+  - first:
+      213: 2156187789239371299
+    second: Bandit Die Sprite v.2_3
+  - first:
+      213: -3820253206380412814
+    second: Bandit Die Sprite v.2_4
+  - first:
+      213: 5109920396181662434
+    second: Bandit Die Sprite v.2_5
+  - first:
+      213: -7921138938554490089
+    second: Bandit Die Sprite v.2_6
+  - first:
+      213: 2207984258889644094
+    second: Bandit Die Sprite v.2_7
+  - first:
+      213: -2526339720659361276
+    second: Bandit Die Sprite v.2_8
+  - first:
+      213: -37172404150914620
+    second: Bandit Die Sprite v.2_9
+  - first:
+      213: -8269774815813318478
+    second: Bandit Die Sprite v.2_10
+  - first:
+      213: 210007677878597562
+    second: Bandit Die Sprite v.2_11
+  - first:
+      213: 7289041298833554575
+    second: Bandit Die Sprite v.2_12
+  - first:
+      213: 2768976619288677798
+    second: Bandit Die Sprite v.2_13
+  - first:
+      213: 254953621209603670
+    second: Bandit Die Sprite v.2_14
+  - first:
+      213: 955214394909309889
+    second: Bandit Die Sprite v.2_15
+  - first:
+      213: 6356826455177550760
+    second: Bandit Die Sprite v.2_16
+  - first:
+      213: -2900433062022960228
+    second: Bandit Die Sprite v.2_17
+  - first:
+      213: 6730546312891443320
+    second: Bandit Die Sprite v.2_18
+  - first:
+      213: -3821753956346592256
+    second: Bandit Die Sprite v.2_19
+  - first:
+      213: -5593955794728077030
+    second: Bandit Die Sprite v.2_20
+  - first:
+      213: -4068036202283446793
+    second: Bandit Die Sprite v.2_21
+  - first:
+      213: -8239794738525830022
+    second: Bandit Die Sprite v.2_22
+  - first:
+      213: -7727858899162051303
+    second: Bandit Die Sprite v.2_23
+  - first:
+      213: -9076920400284315708
+    second: Bandit Die Sprite v.2_24
+  - first:
+      213: 309218754151389162
+    second: Bandit Die Sprite v.2_25
+  - first:
+      213: -6772875160526885211
+    second: Bandit Die Sprite v.2_26
+  - first:
+      213: 4886466070063141815
+    second: Bandit Die Sprite v.2_27
+  - first:
+      213: -556420999643203848
+    second: Bandit Die Sprite v.2_28
+  - first:
+      213: 7903659662052576201
+    second: Bandit Die Sprite v.2_29
+  - first:
+      213: 1308287666573860870
+    second: Bandit Die Sprite v.2_30
+  - first:
+      213: 5402345285330792130
+    second: Bandit Die Sprite v.2_31
+  - first:
+      213: -9209618145086070777
+    second: Bandit Die Sprite v.2_32
+  - first:
+      213: -3592980662493809616
+    second: Bandit Die Sprite v.2_33
+  - first:
+      213: -4920168478845019474
+    second: Bandit Die Sprite v.2_34
+  - first:
+      213: -6422203335740906326
+    second: Bandit Die Sprite v.2_35
+  - first:
+      213: -2764569746779319606
+    second: Bandit Die Sprite v.2_36
+  - first:
+      213: 470608416100735893
+    second: Bandit Die Sprite v.2_37
+  - first:
+      213: -5130727623665301505
+    second: Bandit Die Sprite v.2_38
+  - first:
+      213: -6873732525345040642
+    second: Bandit Die Sprite v.2_39
+  - first:
+      213: 7215147858320000033
+    second: Bandit Die Sprite v.2_40
+  - first:
+      213: -4563928388047911209
+    second: Bandit Die Sprite v.2_41
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2702
+        width: 232
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6f3b98396ed0f50800000000000000
+      internalID: 6849384129645246128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_1
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2704
+        width: 232
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fe23f3986737b50800000000000000
+      internalID: 6589741011616067470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_2
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2706
+        width: 232
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d1db0bfe694eb30800000000000000
+      internalID: 4315740299134311825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_3
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2711
+        width: 357
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326c5aece515ced10800000000000000
+      internalID: 2156187789239371299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_4
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2706
+        width: 431
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27006a903fbbbfac0800000000000000
+      internalID: -3820253206380412814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_5
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 2701
+        width: 425
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea6eecd6851ae640800000000000000
+      internalID: 5109920396181662434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_6
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 2701
+        width: 433
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713e1f67a16721290800000000000000
+      internalID: -7921138938554490089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2249
+        width: 434
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3875cc2cf554ae10800000000000000
+      internalID: 2207984258889644094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_8
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2248
+        width: 426
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402a320c863a0fcd0800000000000000
+      internalID: -2526339720659361276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_9
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2254
+        width: 430
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1332735efeb7ff0800000000000000
+      internalID: -37172404150914620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_10
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 2258
+        width: 357
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8c9f2ce9bdb3d80800000000000000
+      internalID: -8269774815813318478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_11
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 2254
+        width: 232
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7fe00ded81ae200800000000000000
+      internalID: 210007677878597562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_12
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2252
+        width: 232
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c302a3170e72560800000000000000
+      internalID: 7289041298833554575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_13
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 2249
+        width: 232
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad401880916d6620800000000000000
+      internalID: 2768976619288677798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1667
+        width: 282
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ed56ab7f6c98300800000000000000
+      internalID: 254953621209603670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_15
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1670
+        width: 283
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbb8e46e6a914d00800000000000000
+      internalID: 955214394909309889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_16
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1671
+        width: 282
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abd9a72bfbf73850800000000000000
+      internalID: 6356826455177550760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_17
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1668
+        width: 386
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ba25b4f779fb7d0800000000000000
+      internalID: -2900433062022960228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_18
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1671
+        width: 481
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878a53c2634b76d50800000000000000
+      internalID: 6730546312891443320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_19
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1670
+        width: 472
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0048405760766fac0800000000000000
+      internalID: -3821753956346592256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_20
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 1675
+        width: 472
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19befdb7d64e52b0800000000000000
+      internalID: -5593955794728077030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1188
+        width: 472
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd477d90ae6b87c0800000000000000
+      internalID: -4068036202283446793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_22
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1183
+        width: 472
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a740904775e56ad80800000000000000
+      internalID: -8239794738525830022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_23
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1184
+        width: 482
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dca11764121c490800000000000000
+      internalID: -7727858899162051303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_24
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1181
+        width: 385
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf8e8eccfc480280800000000000000
+      internalID: -9076920400284315708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_25
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1184
+        width: 283
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7151f81d09a4400800000000000000
+      internalID: 309218754151389162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_26
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1183
+        width: 282
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae6abcfce9e102a0800000000000000
+      internalID: -6772875160526885211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_27
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 1180
+        width: 282
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3dc19400730d340800000000000000
+      internalID: 4886466070063141815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_28
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 611
+        width: 286
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6f2b28c023748f0800000000000000
+      internalID: -556420999643203848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_29
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 607
+        width: 286
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb4a3656907fad60800000000000000
+      internalID: 7903659662052576201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_30
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 609
+        width: 286
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600e82e73b8f72210800000000000000
+      internalID: 1308287666573860870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_31
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 610
+        width: 381
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cee5260a6cf8fa40800000000000000
+      internalID: 5402345285330792130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_32
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 612
+        width: 461
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7002729771dd03080800000000000000
+      internalID: -9209618145086070777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_33
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 610
+        width: 464
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0347537bf1b232ec0800000000000000
+      internalID: -3592980662493809616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_34
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 610
+        width: 463
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa5e5f26dc08bbb0800000000000000
+      internalID: -4920168478845019474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1
+        width: 465
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4a5d9a710cfd6a0800000000000000
+      internalID: -6422203335740906326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_36
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1
+        width: 464
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac25d6e667642a9d0800000000000000
+      internalID: -2764569746779319606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_37
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 3
+        width: 462
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b5efd6cdfe78600800000000000000
+      internalID: 470608416100735893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_38
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1
+        width: 381
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff74528f86efbc8b0800000000000000
+      internalID: -5130727623665301505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_39
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 0
+        width: 286
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef692c1dfa89b90a0800000000000000
+      internalID: -6873732525345040642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_40
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 0
+        width: 286
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1248519efba512460800000000000000
+      internalID: 7215147858320000033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Die Sprite v.2_41
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 2
+        width: 286
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d64512df4ba9a0c0800000000000000
+      internalID: -4563928388047911209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bandit Die Sprite v.2_0: 6849384129645246128
+      Bandit Die Sprite v.2_1: 6589741011616067470
+      Bandit Die Sprite v.2_10: -8269774815813318478
+      Bandit Die Sprite v.2_11: 210007677878597562
+      Bandit Die Sprite v.2_12: 7289041298833554575
+      Bandit Die Sprite v.2_13: 2768976619288677798
+      Bandit Die Sprite v.2_14: 254953621209603670
+      Bandit Die Sprite v.2_15: 955214394909309889
+      Bandit Die Sprite v.2_16: 6356826455177550760
+      Bandit Die Sprite v.2_17: -2900433062022960228
+      Bandit Die Sprite v.2_18: 6730546312891443320
+      Bandit Die Sprite v.2_19: -3821753956346592256
+      Bandit Die Sprite v.2_2: 4315740299134311825
+      Bandit Die Sprite v.2_20: -5593955794728077030
+      Bandit Die Sprite v.2_21: -4068036202283446793
+      Bandit Die Sprite v.2_22: -8239794738525830022
+      Bandit Die Sprite v.2_23: -7727858899162051303
+      Bandit Die Sprite v.2_24: -9076920400284315708
+      Bandit Die Sprite v.2_25: 309218754151389162
+      Bandit Die Sprite v.2_26: -6772875160526885211
+      Bandit Die Sprite v.2_27: 4886466070063141815
+      Bandit Die Sprite v.2_28: -556420999643203848
+      Bandit Die Sprite v.2_29: 7903659662052576201
+      Bandit Die Sprite v.2_3: 2156187789239371299
+      Bandit Die Sprite v.2_30: 1308287666573860870
+      Bandit Die Sprite v.2_31: 5402345285330792130
+      Bandit Die Sprite v.2_32: -9209618145086070777
+      Bandit Die Sprite v.2_33: -3592980662493809616
+      Bandit Die Sprite v.2_34: -4920168478845019474
+      Bandit Die Sprite v.2_35: -6422203335740906326
+      Bandit Die Sprite v.2_36: -2764569746779319606
+      Bandit Die Sprite v.2_37: 470608416100735893
+      Bandit Die Sprite v.2_38: -5130727623665301505
+      Bandit Die Sprite v.2_39: -6873732525345040642
+      Bandit Die Sprite v.2_4: -3820253206380412814
+      Bandit Die Sprite v.2_40: 7215147858320000033
+      Bandit Die Sprite v.2_41: -4563928388047911209
+      Bandit Die Sprite v.2_5: 5109920396181662434
+      Bandit Die Sprite v.2_6: -7921138938554490089
+      Bandit Die Sprite v.2_7: 2207984258889644094
+      Bandit Die Sprite v.2_8: -2526339720659361276
+      Bandit Die Sprite v.2_9: -37172404150914620
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

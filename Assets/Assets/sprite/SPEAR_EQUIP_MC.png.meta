@@ -1,0 +1,1822 @@
+fileFormatVersion: 2
+guid: d313766dd7460df40b588ceaea996221
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8866085657701362894
+    second: SPEAR_EQUIP_MC_0
+  - first:
+      213: -5776510493460270423
+    second: SPEAR_EQUIP_MC_1
+  - first:
+      213: 8177175339293690013
+    second: SPEAR_EQUIP_MC_2
+  - first:
+      213: 8525384882543016927
+    second: SPEAR_EQUIP_MC_3
+  - first:
+      213: 2179142656595136646
+    second: SPEAR_EQUIP_MC_4
+  - first:
+      213: 5463344720684715503
+    second: SPEAR_EQUIP_MC_5
+  - first:
+      213: -5642949426572711772
+    second: SPEAR_EQUIP_MC_6
+  - first:
+      213: -7633773584283084111
+    second: SPEAR_EQUIP_MC_7
+  - first:
+      213: 2458499237633652964
+    second: SPEAR_EQUIP_MC_8
+  - first:
+      213: -7446607222512698821
+    second: SPEAR_EQUIP_MC_9
+  - first:
+      213: 1573975351031770836
+    second: SPEAR_EQUIP_MC_10
+  - first:
+      213: -444274946160093439
+    second: SPEAR_EQUIP_MC_11
+  - first:
+      213: 336143790333319201
+    second: SPEAR_EQUIP_MC_12
+  - first:
+      213: -5367479946853753575
+    second: SPEAR_EQUIP_MC_13
+  - first:
+      213: -3963080113276462756
+    second: SPEAR_EQUIP_MC_14
+  - first:
+      213: -6610853725293073325
+    second: SPEAR_EQUIP_MC_15
+  - first:
+      213: -8298034023912277321
+    second: SPEAR_EQUIP_MC_16
+  - first:
+      213: 2108297100142980209
+    second: SPEAR_EQUIP_MC_17
+  - first:
+      213: -5422871507122500526
+    second: SPEAR_EQUIP_MC_18
+  - first:
+      213: 7235945870354083370
+    second: SPEAR_EQUIP_MC_19
+  - first:
+      213: -5937245047639880623
+    second: SPEAR_EQUIP_MC_20
+  - first:
+      213: -7398409161002685740
+    second: SPEAR_EQUIP_MC_21
+  - first:
+      213: 7907179670587451859
+    second: SPEAR_EQUIP_MC_22
+  - first:
+      213: 3539236667411005745
+    second: SPEAR_EQUIP_MC_23
+  - first:
+      213: -2910097648646483020
+    second: SPEAR_EQUIP_MC_24
+  - first:
+      213: -7256049595550386464
+    second: SPEAR_EQUIP_MC_25
+  - first:
+      213: 7517058184936895734
+    second: SPEAR_EQUIP_MC_26
+  - first:
+      213: -4139272784739453195
+    second: SPEAR_EQUIP_MC_27
+  - first:
+      213: 108874814230670154
+    second: SPEAR_EQUIP_MC_28
+  - first:
+      213: 7273049305611230662
+    second: SPEAR_EQUIP_MC_29
+  - first:
+      213: 117090986929368276
+    second: SPEAR_EQUIP_MC_30
+  - first:
+      213: 4202222643636046646
+    second: SPEAR_EQUIP_MC_31
+  - first:
+      213: -8033074824604327598
+    second: SPEAR_EQUIP_MC_32
+  - first:
+      213: 2557423531463131451
+    second: SPEAR_EQUIP_MC_33
+  - first:
+      213: 8902771224276616672
+    second: SPEAR_EQUIP_MC_34
+  - first:
+      213: 6589473643130015749
+    second: SPEAR_EQUIP_MC_35
+  - first:
+      213: -5743418697523382082
+    second: SPEAR_EQUIP_MC_36
+  - first:
+      213: -1567705002023533987
+    second: SPEAR_EQUIP_MC_37
+  - first:
+      213: 1376003995067557475
+    second: SPEAR_EQUIP_MC_38
+  - first:
+      213: 5006712170381661628
+    second: SPEAR_EQUIP_MC_39
+  - first:
+      213: 540020223485386240
+    second: SPEAR_EQUIP_MC_40
+  - first:
+      213: -1307995931675833098
+    second: SPEAR_EQUIP_MC_41
+  - first:
+      213: 4697594076939103432
+    second: SPEAR_EQUIP_MC_42
+  - first:
+      213: -1608265157539035464
+    second: SPEAR_EQUIP_MC_43
+  - first:
+      213: -249938696440581325
+    second: SPEAR_EQUIP_MC_44
+  - first:
+      213: 1875015198593761386
+    second: SPEAR_EQUIP_MC_45
+  - first:
+      213: -9086933539553422708
+    second: SPEAR_EQUIP_MC_46
+  - first:
+      213: 1875411150964775435
+    second: SPEAR_EQUIP_MC_47
+  - first:
+      213: -4738885886897525612
+    second: SPEAR_EQUIP_MC_48
+  - first:
+      213: 7609971180198807002
+    second: SPEAR_EQUIP_MC_49
+  - first:
+      213: 5455781124294816200
+    second: SPEAR_EQUIP_MC_50
+  - first:
+      213: 7652791206072481391
+    second: SPEAR_EQUIP_MC_51
+  - first:
+      213: 6209353747567453769
+    second: SPEAR_EQUIP_MC_52
+  - first:
+      213: -2501340792637628275
+    second: SPEAR_EQUIP_MC_53
+  - first:
+      213: -8216535839590672359
+    second: SPEAR_EQUIP_MC_54
+  - first:
+      213: 6899388588347924047
+    second: SPEAR_EQUIP_MC_55
+  - first:
+      213: -2701141935704378384
+    second: SPEAR_EQUIP_MC_56
+  - first:
+      213: 1588654539444984992
+    second: SPEAR_EQUIP_MC_57
+  - first:
+      213: -2661238952646531890
+    second: SPEAR_EQUIP_MC_58
+  - first:
+      213: -1563543632789881046
+    second: SPEAR_EQUIP_MC_59
+  - first:
+      213: -2612385382384770741
+    second: SPEAR_EQUIP_MC_60
+  - first:
+      213: -360989354818083878
+    second: SPEAR_EQUIP_MC_61
+  - first:
+      213: 1594864725218422478
+    second: SPEAR_EQUIP_MC_62
+  - first:
+      213: -4890687497833934531
+    second: SPEAR_EQUIP_MC_63
+  - first:
+      213: -2340759141624970289
+    second: SPEAR_EQUIP_MC_64
+  - first:
+      213: 3267038524658102297
+    second: SPEAR_EQUIP_MC_65
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 7501
+        width: 295
+        height: 731
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecca97f5ee9aa0b70800000000000000
+      internalID: 8866085657701362894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_1
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 7536
+        width: 399
+        height: 732
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2fbfbbf46b5dfa0800000000000000
+      internalID: -5776510493460270423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_2
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 7495
+        width: 384
+        height: 731
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d984fa485a92b7170800000000000000
+      internalID: 8177175339293690013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_3
+      rect:
+        serializedVersion: 2
+        x: 3178
+        y: 7493
+        width: 335
+        height: 732
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb36799160405670800000000000000
+      internalID: 8525384882543016927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_4
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 7467
+        width: 351
+        height: 997
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680114953bedd3e10800000000000000
+      internalID: 2179142656595136646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_5
+      rect:
+        serializedVersion: 2
+        x: 4954
+        y: 7496
+        width: 617
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed0be1d313b1db40800000000000000
+      internalID: 5463344720684715503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_6
+      rect:
+        serializedVersion: 2
+        x: 6050
+        y: 7510
+        width: 700
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8a3a7e46730b1b0800000000000000
+      internalID: -5642949426572711772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_7
+      rect:
+        serializedVersion: 2
+        x: 7297
+        y: 7460
+        width: 648
+        height: 943
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1badb0dde536f0690800000000000000
+      internalID: -7633773584283084111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_8
+      rect:
+        serializedVersion: 2
+        x: 8619
+        y: 7542
+        width: 554
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8f8bbe7085e1220800000000000000
+      internalID: 2458499237633652964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_9
+      rect:
+        serializedVersion: 2
+        x: 9923
+        y: 7579
+        width: 463
+        height: 975
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ab5485f2658a890800000000000000
+      internalID: -7446607222512698821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_10
+      rect:
+        serializedVersion: 2
+        x: 10905
+        y: 7595
+        width: 483
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de28731e32e7d510800000000000000
+      internalID: 1573975351031770836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6297
+        width: 339
+        height: 731
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10795835a4e95d9f0800000000000000
+      internalID: -444274946160093439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_12
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 6299
+        width: 393
+        height: 732
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12855401ff83aa400800000000000000
+      internalID: 336143790333319201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_13
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 6283
+        width: 290
+        height: 805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ddfbc2d61e285b0800000000000000
+      internalID: -5367479946853753575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_14
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 6214
+        width: 219
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59ddbf52af4009c0800000000000000
+      internalID: -3963080113276462756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_15
+      rect:
+        serializedVersion: 2
+        x: 4061
+        y: 6173
+        width: 219
+        height: 1172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ca6d900978144a0800000000000000
+      internalID: -6610853725293073325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_16
+      rect:
+        serializedVersion: 2
+        x: 4857
+        y: 6169
+        width: 631
+        height: 1101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba7a96250677dc80800000000000000
+      internalID: -8298034023912277321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_17
+      rect:
+        serializedVersion: 2
+        x: 5822
+        y: 6192
+        width: 887
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c2207da0d224d10800000000000000
+      internalID: 2108297100142980209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_18
+      rect:
+        serializedVersion: 2
+        x: 7244
+        y: 6203
+        width: 702
+        height: 876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c406b88171eb4b0800000000000000
+      internalID: -5422871507122500526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_19
+      rect:
+        serializedVersion: 2
+        x: 8642
+        y: 6238
+        width: 573
+        height: 892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ee8607e6e3b6460800000000000000
+      internalID: 7235945870354083370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_20
+      rect:
+        serializedVersion: 2
+        x: 10018
+        y: 6241
+        width: 393
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c4af6061baa9da0800000000000000
+      internalID: -5937245047639880623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_21
+      rect:
+        serializedVersion: 2
+        x: 11051
+        y: 6246
+        width: 434
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da60770112935990800000000000000
+      internalID: -7398409161002685740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 4715
+        width: 121
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d92e803402fbbd60800000000000000
+      internalID: 7907179670587451859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_23
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 4711
+        width: 186
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13102115ff4ed1130800000000000000
+      internalID: 3539236667411005745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_24
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 4718
+        width: 202
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b31abe5b914d97d0800000000000000
+      internalID: -2910097648646483020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_25
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 4725
+        width: 190
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e63a9846555d4b90800000000000000
+      internalID: -7256049595550386464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_26
+      rect:
+        serializedVersion: 2
+        x: 3989
+        y: 4653
+        width: 275
+        height: 1112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f43b159794f15860800000000000000
+      internalID: 7517058184936895734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_27
+      rect:
+        serializedVersion: 2
+        x: 4961
+        y: 4612
+        width: 549
+        height: 1118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6b92545595e86c0800000000000000
+      internalID: -4139272784739453195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_28
+      rect:
+        serializedVersion: 2
+        x: 6050
+        y: 4623
+        width: 885
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ba433111dc28100800000000000000
+      internalID: 108874814230670154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_29
+      rect:
+        serializedVersion: 2
+        x: 7620
+        y: 4589
+        width: 782
+        height: 1026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cddbd62fcf0fe460800000000000000
+      internalID: 7273049305611230662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_30
+      rect:
+        serializedVersion: 2
+        x: 8963
+        y: 4571
+        width: 376
+        height: 1003
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc235ad1adff9100800000000000000
+      internalID: 117090986929368276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_31
+      rect:
+        serializedVersion: 2
+        x: 10193
+        y: 4629
+        width: 345
+        height: 955
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b8705ea3b415a30800000000000000
+      internalID: 4202222643636046646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_32
+      rect:
+        serializedVersion: 2
+        x: 11188
+        y: 4610
+        width: 345
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25163511209c48090800000000000000
+      internalID: -8033074824604327598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_33
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 3134
+        width: 122
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31c51de62bcd7320800000000000000
+      internalID: 2557423531463131451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_34
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 3117
+        width: 204
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5c393724ffc8b70800000000000000
+      internalID: 8902771224276616672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_35
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 3116
+        width: 210
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500509bad53827b50800000000000000
+      internalID: 6589473643130015749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_36
+      rect:
+        serializedVersion: 2
+        x: 2922
+        y: 3104
+        width: 171
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb838c1ef174b40b0800000000000000
+      internalID: -5743418697523382082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_37
+      rect:
+        serializedVersion: 2
+        x: 4167
+        y: 3106
+        width: 241
+        height: 1224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52c8c15b946e3ae0800000000000000
+      internalID: -1567705002023533987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_38
+      rect:
+        serializedVersion: 2
+        x: 5054
+        y: 3095
+        width: 643
+        height: 1068
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3662587d75c881310800000000000000
+      internalID: 1376003995067557475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_39
+      rect:
+        serializedVersion: 2
+        x: 5994
+        y: 3140
+        width: 905
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb55938313a6b7540800000000000000
+      internalID: 5006712170381661628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_40
+      rect:
+        serializedVersion: 2
+        x: 7386
+        y: 3101
+        width: 704
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e9f5838898e7700800000000000000
+      internalID: 540020223485386240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_41
+      rect:
+        serializedVersion: 2
+        x: 8801
+        y: 3156
+        width: 358
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc4ec451a019dde0800000000000000
+      internalID: -1307995931675833098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_42
+      rect:
+        serializedVersion: 2
+        x: 10183
+        y: 3184
+        width: 217
+        height: 914
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc2fee8ce4313140800000000000000
+      internalID: 4697594076939103432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_43
+      rect:
+        serializedVersion: 2
+        x: 11130
+        y: 3194
+        width: 244
+        height: 914
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b68f343c5b4ea9e0800000000000000
+      internalID: -1608265157539035464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_44
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1608
+        width: 330
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333f80f641a088cf0800000000000000
+      internalID: -249938696440581325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_45
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1595
+        width: 315
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60c3ac8364650a10800000000000000
+      internalID: 1875015198593761386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_46
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1598
+        width: 315
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82d555271ab4e180800000000000000
+      internalID: -9086933539553422708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_47
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 1612
+        width: 344
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0adf05618cc60a10800000000000000
+      internalID: 1875411150964775435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_48
+      rect:
+        serializedVersion: 2
+        x: 3941
+        y: 1584
+        width: 402
+        height: 1208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c6c50c4681c3eb0800000000000000
+      internalID: -4738885886897525612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_49
+      rect:
+        serializedVersion: 2
+        x: 5111
+        y: 1605
+        width: 530
+        height: 1169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5c5b2187c0c9960800000000000000
+      internalID: 7609971180198807002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_50
+      rect:
+        serializedVersion: 2
+        x: 6091
+        y: 1618
+        width: 821
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1bfddc604d6bb40800000000000000
+      internalID: 5455781124294816200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_51
+      rect:
+        serializedVersion: 2
+        x: 7362
+        y: 1577
+        width: 834
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66fe224e0d243a60800000000000000
+      internalID: 7652791206072481391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_52
+      rect:
+        serializedVersion: 2
+        x: 8634
+        y: 1570
+        width: 593
+        height: 996
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946af78b55e0c2650800000000000000
+      internalID: 6209353747567453769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_53
+      rect:
+        serializedVersion: 2
+        x: 10112
+        y: 1555
+        width: 314
+        height: 995
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80e3a04dc3794dd0800000000000000
+      internalID: -2501340792637628275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_54
+      rect:
+        serializedVersion: 2
+        x: 11097
+        y: 1594
+        width: 314
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9189eecdf2009fd80800000000000000
+      internalID: -8216535839590672359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_55
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 56
+        width: 334
+        height: 793
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e9cd7dd5d8fbf50800000000000000
+      internalID: 6899388588347924047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_56
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 71
+        width: 376
+        height: 793
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3fd6288bd938ad0800000000000000
+      internalID: -2701141935704378384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_57
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 89
+        width: 405
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac1e66f2e80c0610800000000000000
+      internalID: 1588654539444984992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_58
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 43
+        width: 308
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4221db541611bd0800000000000000
+      internalID: -2661238952646531890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_59
+      rect:
+        serializedVersion: 2
+        x: 4063
+        y: 26
+        width: 296
+        height: 1190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f3cb8995d2d4ae0800000000000000
+      internalID: -1563543632789881046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_60
+      rect:
+        serializedVersion: 2
+        x: 5237
+        y: 38
+        width: 481
+        height: 1163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b416882f551febbd0800000000000000
+      internalID: -2612385382384770741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_61
+      rect:
+        serializedVersion: 2
+        x: 6373
+        y: 35
+        width: 807
+        height: 919
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3ee5a28128dfaf0800000000000000
+      internalID: -360989354818083878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_62
+      rect:
+        serializedVersion: 2
+        x: 7678
+        y: 101
+        width: 899
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecee1738409122610800000000000000
+      internalID: 1594864725218422478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_63
+      rect:
+        serializedVersion: 2
+        x: 8963
+        y: 38
+        width: 709
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d311a28f1a9c02cb0800000000000000
+      internalID: -4890687497833934531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_64
+      rect:
+        serializedVersion: 2
+        x: 10141
+        y: 32
+        width: 567
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc302ba66f3f38fd0800000000000000
+      internalID: -2340759141624970289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAR_EQUIP_MC_65
+      rect:
+        serializedVersion: 2
+        x: 11165
+        y: 0
+        width: 369
+        height: 907
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91033c98a3ad65d20800000000000000
+      internalID: 3267038524658102297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SPEAR_EQUIP_MC_0: 8866085657701362894
+      SPEAR_EQUIP_MC_1: -5776510493460270423
+      SPEAR_EQUIP_MC_10: 1573975351031770836
+      SPEAR_EQUIP_MC_11: -444274946160093439
+      SPEAR_EQUIP_MC_12: 336143790333319201
+      SPEAR_EQUIP_MC_13: -5367479946853753575
+      SPEAR_EQUIP_MC_14: -3963080113276462756
+      SPEAR_EQUIP_MC_15: -6610853725293073325
+      SPEAR_EQUIP_MC_16: -8298034023912277321
+      SPEAR_EQUIP_MC_17: 2108297100142980209
+      SPEAR_EQUIP_MC_18: -5422871507122500526
+      SPEAR_EQUIP_MC_19: 7235945870354083370
+      SPEAR_EQUIP_MC_2: 8177175339293690013
+      SPEAR_EQUIP_MC_20: -5937245047639880623
+      SPEAR_EQUIP_MC_21: -7398409161002685740
+      SPEAR_EQUIP_MC_22: 7907179670587451859
+      SPEAR_EQUIP_MC_23: 3539236667411005745
+      SPEAR_EQUIP_MC_24: -2910097648646483020
+      SPEAR_EQUIP_MC_25: -7256049595550386464
+      SPEAR_EQUIP_MC_26: 7517058184936895734
+      SPEAR_EQUIP_MC_27: -4139272784739453195
+      SPEAR_EQUIP_MC_28: 108874814230670154
+      SPEAR_EQUIP_MC_29: 7273049305611230662
+      SPEAR_EQUIP_MC_3: 8525384882543016927
+      SPEAR_EQUIP_MC_30: 117090986929368276
+      SPEAR_EQUIP_MC_31: 4202222643636046646
+      SPEAR_EQUIP_MC_32: -8033074824604327598
+      SPEAR_EQUIP_MC_33: 2557423531463131451
+      SPEAR_EQUIP_MC_34: 8902771224276616672
+      SPEAR_EQUIP_MC_35: 6589473643130015749
+      SPEAR_EQUIP_MC_36: -5743418697523382082
+      SPEAR_EQUIP_MC_37: -1567705002023533987
+      SPEAR_EQUIP_MC_38: 1376003995067557475
+      SPEAR_EQUIP_MC_39: 5006712170381661628
+      SPEAR_EQUIP_MC_4: 2179142656595136646
+      SPEAR_EQUIP_MC_40: 540020223485386240
+      SPEAR_EQUIP_MC_41: -1307995931675833098
+      SPEAR_EQUIP_MC_42: 4697594076939103432
+      SPEAR_EQUIP_MC_43: -1608265157539035464
+      SPEAR_EQUIP_MC_44: -249938696440581325
+      SPEAR_EQUIP_MC_45: 1875015198593761386
+      SPEAR_EQUIP_MC_46: -9086933539553422708
+      SPEAR_EQUIP_MC_47: 1875411150964775435
+      SPEAR_EQUIP_MC_48: -4738885886897525612
+      SPEAR_EQUIP_MC_49: 7609971180198807002
+      SPEAR_EQUIP_MC_5: 5463344720684715503
+      SPEAR_EQUIP_MC_50: 5455781124294816200
+      SPEAR_EQUIP_MC_51: 7652791206072481391
+      SPEAR_EQUIP_MC_52: 6209353747567453769
+      SPEAR_EQUIP_MC_53: -2501340792637628275
+      SPEAR_EQUIP_MC_54: -8216535839590672359
+      SPEAR_EQUIP_MC_55: 6899388588347924047
+      SPEAR_EQUIP_MC_56: -2701141935704378384
+      SPEAR_EQUIP_MC_57: 1588654539444984992
+      SPEAR_EQUIP_MC_58: -2661238952646531890
+      SPEAR_EQUIP_MC_59: -1563543632789881046
+      SPEAR_EQUIP_MC_6: -5642949426572711772
+      SPEAR_EQUIP_MC_60: -2612385382384770741
+      SPEAR_EQUIP_MC_61: -360989354818083878
+      SPEAR_EQUIP_MC_62: 1594864725218422478
+      SPEAR_EQUIP_MC_63: -4890687497833934531
+      SPEAR_EQUIP_MC_64: -2340759141624970289
+      SPEAR_EQUIP_MC_65: 3267038524658102297
+      SPEAR_EQUIP_MC_7: -7633773584283084111
+      SPEAR_EQUIP_MC_8: 2458499237633652964
+      SPEAR_EQUIP_MC_9: -7446607222512698821
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1672 @@
+fileFormatVersion: 2
+guid: 369c6e65f3a0e26459d5e44fcdacfdbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9160750433584478416
+    second: Bandit Running Sprite_0
+  - first:
+      213: 3391511028346452604
+    second: Bandit Running Sprite_1
+  - first:
+      213: 5055549849069927423
+    second: Bandit Running Sprite_2
+  - first:
+      213: 8554941378713978402
+    second: Bandit Running Sprite_3
+  - first:
+      213: -2316232375095366533
+    second: Bandit Running Sprite_4
+  - first:
+      213: 882889305838245422
+    second: Bandit Running Sprite_5
+  - first:
+      213: -474414548886421622
+    second: Bandit Running Sprite_6
+  - first:
+      213: -6553211892236569770
+    second: Bandit Running Sprite_7
+  - first:
+      213: 6796826683974635231
+    second: Bandit Running Sprite_8
+  - first:
+      213: -2973078255334596432
+    second: Bandit Running Sprite_9
+  - first:
+      213: -3847786742849497616
+    second: Bandit Running Sprite_10
+  - first:
+      213: 8783545612022391635
+    second: Bandit Running Sprite_11
+  - first:
+      213: 4700681963067591557
+    second: Bandit Running Sprite_12
+  - first:
+      213: -6564289034352182047
+    second: Bandit Running Sprite_13
+  - first:
+      213: -5437494532684187909
+    second: Bandit Running Sprite_14
+  - first:
+      213: -5511989309095706900
+    second: Bandit Running Sprite_15
+  - first:
+      213: 9128998054967833780
+    second: Bandit Running Sprite_16
+  - first:
+      213: -1712990310883276009
+    second: Bandit Running Sprite_17
+  - first:
+      213: -9155090989860022460
+    second: Bandit Running Sprite_18
+  - first:
+      213: 968182189169246835
+    second: Bandit Running Sprite_19
+  - first:
+      213: -5696648226039383180
+    second: Bandit Running Sprite_20
+  - first:
+      213: 4440669501808501756
+    second: Bandit Running Sprite_21
+  - first:
+      213: 1024350944369783025
+    second: Bandit Running Sprite_22
+  - first:
+      213: -7710993349680377892
+    second: Bandit Running Sprite_23
+  - first:
+      213: 4601171257468179398
+    second: Bandit Running Sprite_24
+  - first:
+      213: 3689224647618689178
+    second: Bandit Running Sprite_25
+  - first:
+      213: 6626525548817815494
+    second: Bandit Running Sprite_26
+  - first:
+      213: 6856073634662754026
+    second: Bandit Running Sprite_27
+  - first:
+      213: 1561541485987179473
+    second: Bandit Running Sprite_28
+  - first:
+      213: 6312443259647862335
+    second: Bandit Running Sprite_29
+  - first:
+      213: -7862701549601629781
+    second: Bandit Running Sprite_30
+  - first:
+      213: 1626341620151211944
+    second: Bandit Running Sprite_31
+  - first:
+      213: 6201482172535715796
+    second: Bandit Running Sprite_32
+  - first:
+      213: -3886864327519078258
+    second: Bandit Running Sprite_33
+  - first:
+      213: -6621208283841495257
+    second: Bandit Running Sprite_34
+  - first:
+      213: 6240316307422862036
+    second: Bandit Running Sprite_35
+  - first:
+      213: 5064722526773415559
+    second: Bandit Running Sprite_36
+  - first:
+      213: 5637770212475110620
+    second: Bandit Running Sprite_37
+  - first:
+      213: -353102576786713908
+    second: Bandit Running Sprite_38
+  - first:
+      213: -302685946938271450
+    second: Bandit Running Sprite_39
+  - first:
+      213: 9002075149676747419
+    second: Bandit Running Sprite_40
+  - first:
+      213: 4593494228177809291
+    second: Bandit Running Sprite_41
+  - first:
+      213: 534043610287799100
+    second: Bandit Running Sprite_42
+  - first:
+      213: 6494474603255280744
+    second: Bandit Running Sprite_43
+  - first:
+      213: 4880508921686315334
+    second: Bandit Running Sprite_44
+  - first:
+      213: -7616174804677234277
+    second: Bandit Running Sprite_45
+  - first:
+      213: -6334208438714792227
+    second: Bandit Running Sprite_46
+  - first:
+      213: 9083542014902721080
+    second: Bandit Running Sprite_47
+  - first:
+      213: -1213659542795276136
+    second: Bandit Running Sprite_48
+  - first:
+      213: -5369414543252181730
+    second: Bandit Running Sprite_49
+  - first:
+      213: 8572476361210104397
+    second: Bandit Running Sprite_50
+  - first:
+      213: -1569039772938752325
+    second: Bandit Running Sprite_51
+  - first:
+      213: 8967242444681796571
+    second: Bandit Running Sprite_52
+  - first:
+      213: -5495933834004671003
+    second: Bandit Running Sprite_53
+  - first:
+      213: 2848673529134498306
+    second: Bandit Running Sprite_54
+  - first:
+      213: -3090194373488954031
+    second: Bandit Running Sprite_55
+  - first:
+      213: -9073190413230202500
+    second: Bandit Running Sprite_56
+  - first:
+      213: 2347179635750347118
+    second: Bandit Running Sprite_57
+  - first:
+      213: -1101937087986148130
+    second: Bandit Running Sprite_58
+  - first:
+      213: -7885887977003209059
+    second: Bandit Running Sprite_59
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bandit Running Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2669
+        width: 144
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8fecdcbf5812f70800000000000000
+      internalID: 9160750433584478416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2663
+        width: 180
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7af860bf41111f20800000000000000
+      internalID: 3391511028346452604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2664
+        width: 204
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbb7126dcbe82640800000000000000
+      internalID: 5055549849069927423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 2665
+        width: 201
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2268980abd149b670800000000000000
+      internalID: 8554941378713978402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 2664
+        width: 202
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c6e214de61bdfd0800000000000000
+      internalID: -2316232375095366533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 2664
+        width: 201
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26da7a5527a04c00800000000000000
+      internalID: 882889305838245422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 2665
+        width: 201
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ff8593b7a8a69f0800000000000000
+      internalID: -474414548886421622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2667
+        width: 201
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653bf5121805e05a0800000000000000
+      internalID: -6553211892236569770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 2669
+        width: 201
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde4432abdd235e50800000000000000
+      internalID: 6796826683974635231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 2672
+        width: 201
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0e75d24118db6d0800000000000000
+      internalID: -2973078255334596432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2156
+        width: 201
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f59ff4085ae99ac0800000000000000
+      internalID: -3847786742849497616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2152
+        width: 201
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3532909623c65e970800000000000000
+      internalID: 8783545612022391635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2150
+        width: 201
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bcab2175d2c3140800000000000000
+      internalID: 4700681963067591557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 2149
+        width: 201
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec327007e5f6e4a0800000000000000
+      internalID: -6564289034352182047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 2147
+        width: 201
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6fa3718832a84b0800000000000000
+      internalID: -5437494532684187909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 2147
+        width: 201
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee79995dea7183b0800000000000000
+      internalID: -5511989309095706900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 2149
+        width: 201
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4f69d0d57b0be70800000000000000
+      internalID: 9128998054967833780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 2148
+        width: 204
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bcd18536c3a38e0800000000000000
+      internalID: -1712990310883276009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 2147
+        width: 180
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447930f104592f080800000000000000
+      internalID: -9155090989860022460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 2152
+        width: 146
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3720b47429caf6d00800000000000000
+      internalID: 968182189169246835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1623
+        width: 233
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b309cde9071f0b0800000000000000
+      internalID: -5696648226039383180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1606
+        width: 269
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3e43c526d60ad30800000000000000
+      internalID: 4440669501808501756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1626
+        width: 271
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f03f74b1c9373e00800000000000000
+      internalID: 1024350944369783025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1641
+        width: 228
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfc6ee276c0df490800000000000000
+      internalID: -7710993349680377892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1632
+        width: 240
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3d02071e4aadf30800000000000000
+      internalID: 4601171257468179398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1627
+        width: 180
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a987de94542c23330800000000000000
+      internalID: 3689224647618689178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1625
+        width: 180
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c71658b0e526fb50800000000000000
+      internalID: 6626525548817815494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1617
+        width: 231
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6aefb45aaa52f50800000000000000
+      internalID: 6856073634662754026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 1612
+        width: 232
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db2d4645b5bba510800000000000000
+      internalID: 1561541485987179473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 1622
+        width: 200
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36ae1c23bd4a9750800000000000000
+      internalID: 6312443259647862335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1164
+        width: 200
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9d419599212e290800000000000000
+      internalID: -7862701549601629781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1154
+        width: 231
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7db88361de19610800000000000000
+      internalID: 1626341620151211944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1159
+        width: 231
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7b8e6dd27101650800000000000000
+      internalID: 6201482172535715796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1167
+        width: 180
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e887614dc751f0ac0800000000000000
+      internalID: -3886864327519078258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1169
+        width: 181
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ff0c1852ebc14a0800000000000000
+      internalID: -6621208283841495257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1173
+        width: 240
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da54067e9e0a9650800000000000000
+      internalID: 6240316307422862036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1182
+        width: 227
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e8f36dd42894640800000000000000
+      internalID: 5064722526773415559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1167
+        width: 270
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd48bd753226d3e40800000000000000
+      internalID: 5637770212475110620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 1147
+        width: 270
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc25a55c317891bf0800000000000000
+      internalID: -353102576786713908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 1165
+        width: 232
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629dd362cb4accbf0800000000000000
+      internalID: -302685946938271450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 585
+        width: 248
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a9ad157abcdec70800000000000000
+      internalID: 9002075149676747419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 587
+        width: 264
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f6854c9ae5fbf30800000000000000
+      internalID: 4593494228177809291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 587
+        width: 273
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b75c585dd496700800000000000000
+      internalID: 534043610287799100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 590
+        width: 213
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864b3d11e32012a50800000000000000
+      internalID: 6494474603255280744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 588
+        width: 249
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641dc38910d0bb340800000000000000
+      internalID: 4880508921686315334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 590
+        width: 223
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91feeb0e59ed4690800000000000000
+      internalID: -7616174804677234277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 591
+        width: 230
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd68f1d2cfe5818a0800000000000000
+      internalID: -6334208438714792227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 592
+        width: 242
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83adc9cf5593f0e70800000000000000
+      internalID: 9083542014902721080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 594
+        width: 246
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890bc697317382fe0800000000000000
+      internalID: -1213659542795276136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 595
+        width: 200
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d23a9dbe10c75b0800000000000000
+      internalID: -5369414543252181730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 9
+        width: 201
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a8c53e4dd87f670800000000000000
+      internalID: 8572476361210104397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 8
+        width: 246
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbea68fb3a6a93ae0800000000000000
+      internalID: -1569039772938752325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 6
+        width: 242
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb50123e7b027c70800000000000000
+      internalID: 8967242444681796571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 5
+        width: 230
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5d913fb458ab3b0800000000000000
+      internalID: -5495933834004671003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 4
+        width: 223
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202ce195b75888720800000000000000
+      internalID: 2848673529134498306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 2
+        width: 249
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155b741079c6d15d0800000000000000
+      internalID: -3090194373488954031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 4
+        width: 213
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c712fe7146d851280800000000000000
+      internalID: -9073190413230202500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1
+        width: 273
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e612eec517bd29020800000000000000
+      internalID: 2347179635750347118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 2
+        width: 264
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcd1c98e0225b0f0800000000000000
+      internalID: -1101937087986148130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Running Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 0
+        width: 248
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e23388aa2bf8290800000000000000
+      internalID: -7885887977003209059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bandit Running Sprite_0: 9160750433584478416
+      Bandit Running Sprite_1: 3391511028346452604
+      Bandit Running Sprite_10: -3847786742849497616
+      Bandit Running Sprite_11: 8783545612022391635
+      Bandit Running Sprite_12: 4700681963067591557
+      Bandit Running Sprite_13: -6564289034352182047
+      Bandit Running Sprite_14: -5437494532684187909
+      Bandit Running Sprite_15: -5511989309095706900
+      Bandit Running Sprite_16: 9128998054967833780
+      Bandit Running Sprite_17: -1712990310883276009
+      Bandit Running Sprite_18: -9155090989860022460
+      Bandit Running Sprite_19: 968182189169246835
+      Bandit Running Sprite_2: 5055549849069927423
+      Bandit Running Sprite_20: -5696648226039383180
+      Bandit Running Sprite_21: 4440669501808501756
+      Bandit Running Sprite_22: 1024350944369783025
+      Bandit Running Sprite_23: -7710993349680377892
+      Bandit Running Sprite_24: 4601171257468179398
+      Bandit Running Sprite_25: 3689224647618689178
+      Bandit Running Sprite_26: 6626525548817815494
+      Bandit Running Sprite_27: 6856073634662754026
+      Bandit Running Sprite_28: 1561541485987179473
+      Bandit Running Sprite_29: 6312443259647862335
+      Bandit Running Sprite_3: 8554941378713978402
+      Bandit Running Sprite_30: -7862701549601629781
+      Bandit Running Sprite_31: 1626341620151211944
+      Bandit Running Sprite_32: 6201482172535715796
+      Bandit Running Sprite_33: -3886864327519078258
+      Bandit Running Sprite_34: -6621208283841495257
+      Bandit Running Sprite_35: 6240316307422862036
+      Bandit Running Sprite_36: 5064722526773415559
+      Bandit Running Sprite_37: 5637770212475110620
+      Bandit Running Sprite_38: -353102576786713908
+      Bandit Running Sprite_39: -302685946938271450
+      Bandit Running Sprite_4: -2316232375095366533
+      Bandit Running Sprite_40: 9002075149676747419
+      Bandit Running Sprite_41: 4593494228177809291
+      Bandit Running Sprite_42: 534043610287799100
+      Bandit Running Sprite_43: 6494474603255280744
+      Bandit Running Sprite_44: 4880508921686315334
+      Bandit Running Sprite_45: -7616174804677234277
+      Bandit Running Sprite_46: -6334208438714792227
+      Bandit Running Sprite_47: 9083542014902721080
+      Bandit Running Sprite_48: -1213659542795276136
+      Bandit Running Sprite_49: -5369414543252181730
+      Bandit Running Sprite_5: 882889305838245422
+      Bandit Running Sprite_50: 8572476361210104397
+      Bandit Running Sprite_51: -1569039772938752325
+      Bandit Running Sprite_52: 8967242444681796571
+      Bandit Running Sprite_53: -5495933834004671003
+      Bandit Running Sprite_54: 2848673529134498306
+      Bandit Running Sprite_55: -3090194373488954031
+      Bandit Running Sprite_56: -9073190413230202500
+      Bandit Running Sprite_57: 2347179635750347118
+      Bandit Running Sprite_58: -1101937087986148130
+      Bandit Running Sprite_59: -7885887977003209059
+      Bandit Running Sprite_6: -474414548886421622
+      Bandit Running Sprite_7: -6553211892236569770
+      Bandit Running Sprite_8: 6796826683974635231
+      Bandit Running Sprite_9: -2973078255334596432
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

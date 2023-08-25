@@ -1,0 +1,1522 @@
+fileFormatVersion: 2
+guid: f12c96b5f8708e64499c4c1e66f0f5bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3172143132468392055
+    second: PISTOL_ATTACK_MC_0
+  - first:
+      213: 1961216600926534203
+    second: PISTOL_ATTACK_MC_1
+  - first:
+      213: -2565303198419280051
+    second: PISTOL_ATTACK_MC_2
+  - first:
+      213: -5400756119784195937
+    second: PISTOL_ATTACK_MC_3
+  - first:
+      213: -5714857983145606018
+    second: PISTOL_ATTACK_MC_4
+  - first:
+      213: 2119383110770431797
+    second: PISTOL_ATTACK_MC_5
+  - first:
+      213: -4977213890074679324
+    second: PISTOL_ATTACK_MC_6
+  - first:
+      213: -3673604816734421290
+    second: PISTOL_ATTACK_MC_7
+  - first:
+      213: -8168235166824463048
+    second: PISTOL_ATTACK_MC_8
+  - first:
+      213: -8223522898232890881
+    second: PISTOL_ATTACK_MC_9
+  - first:
+      213: 3928262746828931585
+    second: PISTOL_ATTACK_MC_10
+  - first:
+      213: -2067054727076413235
+    second: PISTOL_ATTACK_MC_11
+  - first:
+      213: -1144320751913933469
+    second: PISTOL_ATTACK_MC_12
+  - first:
+      213: 1960602005722955354
+    second: PISTOL_ATTACK_MC_13
+  - first:
+      213: -7181291966531749706
+    second: PISTOL_ATTACK_MC_14
+  - first:
+      213: 8818541014850703087
+    second: PISTOL_ATTACK_MC_15
+  - first:
+      213: -660345825857209067
+    second: PISTOL_ATTACK_MC_16
+  - first:
+      213: 6666144569805034242
+    second: PISTOL_ATTACK_MC_17
+  - first:
+      213: 8256215483266032212
+    second: PISTOL_ATTACK_MC_18
+  - first:
+      213: 9117769361035791411
+    second: PISTOL_ATTACK_MC_19
+  - first:
+      213: -1028276011533009147
+    second: PISTOL_ATTACK_MC_20
+  - first:
+      213: -4856144299339030044
+    second: PISTOL_ATTACK_MC_21
+  - first:
+      213: -9209230263713274030
+    second: PISTOL_ATTACK_MC_22
+  - first:
+      213: -8197363428977139081
+    second: PISTOL_ATTACK_MC_23
+  - first:
+      213: 3286774410361181871
+    second: PISTOL_ATTACK_MC_24
+  - first:
+      213: -7661677352155342527
+    second: PISTOL_ATTACK_MC_25
+  - first:
+      213: 4453520804378957386
+    second: PISTOL_ATTACK_MC_26
+  - first:
+      213: -1084168363089218429
+    second: PISTOL_ATTACK_MC_27
+  - first:
+      213: 2958247279671723827
+    second: PISTOL_ATTACK_MC_28
+  - first:
+      213: 3129107786475791150
+    second: PISTOL_ATTACK_MC_29
+  - first:
+      213: -8783984277173695676
+    second: PISTOL_ATTACK_MC_30
+  - first:
+      213: 6353486036641145852
+    second: PISTOL_ATTACK_MC_31
+  - first:
+      213: 9052071125645900554
+    second: PISTOL_ATTACK_MC_32
+  - first:
+      213: 8302287724775620169
+    second: PISTOL_ATTACK_MC_33
+  - first:
+      213: 6505414671268806911
+    second: PISTOL_ATTACK_MC_34
+  - first:
+      213: 4592571386114451454
+    second: PISTOL_ATTACK_MC_35
+  - first:
+      213: -4224059638365819598
+    second: PISTOL_ATTACK_MC_36
+  - first:
+      213: 4036866536356838382
+    second: PISTOL_ATTACK_MC_37
+  - first:
+      213: 4717907565034564827
+    second: PISTOL_ATTACK_MC_38
+  - first:
+      213: 7456032663650880347
+    second: PISTOL_ATTACK_MC_39
+  - first:
+      213: 3317482255868110626
+    second: PISTOL_ATTACK_MC_40
+  - first:
+      213: -6566201094212647746
+    second: PISTOL_ATTACK_MC_41
+  - first:
+      213: -4001107636893734291
+    second: PISTOL_ATTACK_MC_42
+  - first:
+      213: 1973143213791742237
+    second: PISTOL_ATTACK_MC_43
+  - first:
+      213: -4634233224995485458
+    second: PISTOL_ATTACK_MC_44
+  - first:
+      213: -7113142815671236585
+    second: PISTOL_ATTACK_MC_45
+  - first:
+      213: -3848201977240605589
+    second: PISTOL_ATTACK_MC_46
+  - first:
+      213: -7062483869936501896
+    second: PISTOL_ATTACK_MC_47
+  - first:
+      213: -5463734062373878275
+    second: PISTOL_ATTACK_MC_48
+  - first:
+      213: -5001281491655783248
+    second: PISTOL_ATTACK_MC_49
+  - first:
+      213: -374813166192711403
+    second: PISTOL_ATTACK_MC_50
+  - first:
+      213: -2993888760525928330
+    second: PISTOL_ATTACK_MC_51
+  - first:
+      213: -3265810021557727463
+    second: PISTOL_ATTACK_MC_52
+  - first:
+      213: -5357209743140050484
+    second: PISTOL_ATTACK_MC_53
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_0
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 7153
+        width: 455
+        height: 914
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fc684b0a84af3d0800000000000000
+      internalID: -3172143132468392055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_1
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 7133
+        width: 482
+        height: 914
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a33d98b14a73b10800000000000000
+      internalID: 1961216600926534203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_2
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 7105
+        width: 539
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f9b052556366cd0800000000000000
+      internalID: -2565303198419280051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_3
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 7069
+        width: 563
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98feb96ce8ac05b0800000000000000
+      internalID: -5400756119784195937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_4
+      rect:
+        serializedVersion: 2
+        x: 4474
+        y: 7068
+        width: 404
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e740dc461feb0b0b0800000000000000
+      internalID: -5714857983145606018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_5
+      rect:
+        serializedVersion: 2
+        x: 5699
+        y: 7036
+        width: 480
+        height: 914
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5371f64d5bf896d10800000000000000
+      internalID: 2119383110770431797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_6
+      rect:
+        serializedVersion: 2
+        x: 6866
+        y: 7056
+        width: 539
+        height: 914
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e765fe56526deab0800000000000000
+      internalID: -4977213890074679324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_7
+      rect:
+        serializedVersion: 2
+        x: 8125
+        y: 7066
+        width: 482
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de716df1ebb40dc0800000000000000
+      internalID: -3673604816734421290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_8
+      rect:
+        serializedVersion: 2
+        x: 9350
+        y: 7067
+        width: 455
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8350397946994ae80800000000000000
+      internalID: -8168235166824463048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 5645
+        width: 363
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9a9808e7d20ed80800000000000000
+      internalID: -8223522898232890881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_10
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 5608
+        width: 399
+        height: 905
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1028329c72ef38630800000000000000
+      internalID: 3928262746828931585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_11
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 5604
+        width: 389
+        height: 905
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0815d6da85053e0800000000000000
+      internalID: -2067054727076413235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_12
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 5593
+        width: 544
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365ef09c65e8e10f0800000000000000
+      internalID: -1144320751913933469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_13
+      rect:
+        serializedVersion: 2
+        x: 4382
+        y: 5568
+        width: 363
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ef801f225753b10800000000000000
+      internalID: 1960602005722955354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_14
+      rect:
+        serializedVersion: 2
+        x: 5517
+        y: 5559
+        width: 462
+        height: 905
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8328a210de65c90800000000000000
+      internalID: -7181291966531749706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_15
+      rect:
+        serializedVersion: 2
+        x: 6757
+        y: 5563
+        width: 389
+        height: 905
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee83639450c16a70800000000000000
+      internalID: 8818541014850703087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_16
+      rect:
+        serializedVersion: 2
+        x: 7967
+        y: 5521
+        width: 398
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d7ed458faf5d6f0800000000000000
+      internalID: -660345825857209067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_17
+      rect:
+        serializedVersion: 2
+        x: 9212
+        y: 5525
+        width: 363
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203d0a0ea27e28c50800000000000000
+      internalID: 6666144569805034242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_18
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 4193
+        width: 191
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452e62d1d38f39270800000000000000
+      internalID: 8256215483266032212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_19
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 4188
+        width: 263
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c8a740de2d88e70800000000000000
+      internalID: 9117769361035791411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_20
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 4171
+        width: 354
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ff4816a64dab1f0800000000000000
+      internalID: -1028276011533009147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_21
+      rect:
+        serializedVersion: 2
+        x: 3356
+        y: 4107
+        width: 567
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1ebdb1d728b9cb0800000000000000
+      internalID: -4856144299339030044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_22
+      rect:
+        serializedVersion: 2
+        x: 4507
+        y: 4141
+        width: 353
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257e7942edd323080800000000000000
+      internalID: -9209230263713274030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_23
+      rect:
+        serializedVersion: 2
+        x: 5659
+        y: 4113
+        width: 476
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7722a01946d1d3e80800000000000000
+      internalID: -8197363428977139081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_24
+      rect:
+        serializedVersion: 2
+        x: 6830
+        y: 4099
+        width: 355
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa61c6289e7fc9d20800000000000000
+      internalID: 3286774410361181871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_25
+      rect:
+        serializedVersion: 2
+        x: 8076
+        y: 4083
+        width: 263
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1491021aa014ca590800000000000000
+      internalID: -7661677352155342527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_26
+      rect:
+        serializedVersion: 2
+        x: 9293
+        y: 4093
+        width: 191
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46d1d863951ecd30800000000000000
+      internalID: 4453520804378957386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2905
+        width: 242
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384b9513e9244f0f0800000000000000
+      internalID: -1084168363089218429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_28
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2884
+        width: 340
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33749963a3ecd0920800000000000000
+      internalID: 2958247279671723827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_29
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 2879
+        width: 354
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e236cccf3f2dc6b20800000000000000
+      internalID: 3129107786475791150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_30
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 2853
+        width: 506
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b0276e6d4091680800000000000000
+      internalID: -8783984277173695676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_31
+      rect:
+        serializedVersion: 2
+        x: 4357
+        y: 2878
+        width: 346
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3666b53ed1c2850800000000000000
+      internalID: 6353486036641145852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_32
+      rect:
+        serializedVersion: 2
+        x: 5413
+        y: 2878
+        width: 409
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bb1b59aba6f9d70800000000000000
+      internalID: 9052071125645900554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_33
+      rect:
+        serializedVersion: 2
+        x: 6693
+        y: 2894
+        width: 353
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e3652c2b6a73370800000000000000
+      internalID: 8302287724775620169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_34
+      rect:
+        serializedVersion: 2
+        x: 7929
+        y: 2878
+        width: 340
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff087952d20e74a50800000000000000
+      internalID: 6505414671268806911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_35
+      rect:
+        serializedVersion: 2
+        x: 9240
+        y: 2866
+        width: 242
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7a9fad7571cbf30800000000000000
+      internalID: 4592571386114451454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1468
+        width: 429
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23de32193202165c0800000000000000
+      internalID: -4224059638365819598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_37
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1490
+        width: 453
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebf5310ab4d50830800000000000000
+      internalID: 4036866536356838382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_38
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1519
+        width: 484
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc63011fef597140800000000000000
+      internalID: 4717907565034564827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_39
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 1473
+        width: 604
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bce9e2436297760800000000000000
+      internalID: 7456032663650880347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_40
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 1485
+        width: 479
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2272ea1f8801a0e20800000000000000
+      internalID: 3317482255868110626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_41
+      rect:
+        serializedVersion: 2
+        x: 5373
+        y: 1520
+        width: 523
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb48cafd4ea20e4a0800000000000000
+      internalID: -6566201094212647746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_42
+      rect:
+        serializedVersion: 2
+        x: 6598
+        y: 1463
+        width: 524
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6aa8d29dc53978c0800000000000000
+      internalID: -4001107636893734291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_43
+      rect:
+        serializedVersion: 2
+        x: 7917
+        y: 1497
+        width: 453
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19870d7c43026b10800000000000000
+      internalID: 1973143213791742237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_44
+      rect:
+        serializedVersion: 2
+        x: 9160
+        y: 1454
+        width: 430
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8c4d16f65efafb0800000000000000
+      internalID: -4634233224995485458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_45
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 55
+        width: 330
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7184b43db4a094d90800000000000000
+      internalID: -7113142815671236585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_46
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 69
+        width: 329
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c2e9ab0b0789ac0800000000000000
+      internalID: -3848201977240605589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_47
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 65
+        width: 329
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b3284c6540dfd90800000000000000
+      internalID: -7062483869936501896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_48
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 55
+        width: 371
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5c00181daec24b0800000000000000
+      internalID: -5463734062373878275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_49
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 19
+        width: 296
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc0f143bf0e79ab0800000000000000
+      internalID: -5001281491655783248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_50
+      rect:
+        serializedVersion: 2
+        x: 5613
+        y: 32
+        width: 296
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519a1f349656ccaf0800000000000000
+      internalID: -374813166192711403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_51
+      rect:
+        serializedVersion: 2
+        x: 6840
+        y: 55
+        width: 330
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67841dbd8029376d0800000000000000
+      internalID: -2993888760525928330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_52
+      rect:
+        serializedVersion: 2
+        x: 8032
+        y: 33
+        width: 329
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f0421a6138da2d0800000000000000
+      internalID: -3265810021557727463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PISTOL_ATTACK_MC_53
+      rect:
+        serializedVersion: 2
+        x: 9290
+        y: 0
+        width: 329
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc920e05f1e57a5b0800000000000000
+      internalID: -5357209743140050484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PISTOL_ATTACK_MC_0: -3172143132468392055
+      PISTOL_ATTACK_MC_1: 1961216600926534203
+      PISTOL_ATTACK_MC_10: 3928262746828931585
+      PISTOL_ATTACK_MC_11: -2067054727076413235
+      PISTOL_ATTACK_MC_12: -1144320751913933469
+      PISTOL_ATTACK_MC_13: 1960602005722955354
+      PISTOL_ATTACK_MC_14: -7181291966531749706
+      PISTOL_ATTACK_MC_15: 8818541014850703087
+      PISTOL_ATTACK_MC_16: -660345825857209067
+      PISTOL_ATTACK_MC_17: 6666144569805034242
+      PISTOL_ATTACK_MC_18: 8256215483266032212
+      PISTOL_ATTACK_MC_19: 9117769361035791411
+      PISTOL_ATTACK_MC_2: -2565303198419280051
+      PISTOL_ATTACK_MC_20: -1028276011533009147
+      PISTOL_ATTACK_MC_21: -4856144299339030044
+      PISTOL_ATTACK_MC_22: -9209230263713274030
+      PISTOL_ATTACK_MC_23: -8197363428977139081
+      PISTOL_ATTACK_MC_24: 3286774410361181871
+      PISTOL_ATTACK_MC_25: -7661677352155342527
+      PISTOL_ATTACK_MC_26: 4453520804378957386
+      PISTOL_ATTACK_MC_27: -1084168363089218429
+      PISTOL_ATTACK_MC_28: 2958247279671723827
+      PISTOL_ATTACK_MC_29: 3129107786475791150
+      PISTOL_ATTACK_MC_3: -5400756119784195937
+      PISTOL_ATTACK_MC_30: -8783984277173695676
+      PISTOL_ATTACK_MC_31: 6353486036641145852
+      PISTOL_ATTACK_MC_32: 9052071125645900554
+      PISTOL_ATTACK_MC_33: 8302287724775620169
+      PISTOL_ATTACK_MC_34: 6505414671268806911
+      PISTOL_ATTACK_MC_35: 4592571386114451454
+      PISTOL_ATTACK_MC_36: -4224059638365819598
+      PISTOL_ATTACK_MC_37: 4036866536356838382
+      PISTOL_ATTACK_MC_38: 4717907565034564827
+      PISTOL_ATTACK_MC_39: 7456032663650880347
+      PISTOL_ATTACK_MC_4: -5714857983145606018
+      PISTOL_ATTACK_MC_40: 3317482255868110626
+      PISTOL_ATTACK_MC_41: -6566201094212647746
+      PISTOL_ATTACK_MC_42: -4001107636893734291
+      PISTOL_ATTACK_MC_43: 1973143213791742237
+      PISTOL_ATTACK_MC_44: -4634233224995485458
+      PISTOL_ATTACK_MC_45: -7113142815671236585
+      PISTOL_ATTACK_MC_46: -3848201977240605589
+      PISTOL_ATTACK_MC_47: -7062483869936501896
+      PISTOL_ATTACK_MC_48: -5463734062373878275
+      PISTOL_ATTACK_MC_49: -5001281491655783248
+      PISTOL_ATTACK_MC_5: 2119383110770431797
+      PISTOL_ATTACK_MC_50: -374813166192711403
+      PISTOL_ATTACK_MC_51: -2993888760525928330
+      PISTOL_ATTACK_MC_52: -3265810021557727463
+      PISTOL_ATTACK_MC_53: -5357209743140050484
+      PISTOL_ATTACK_MC_6: -4977213890074679324
+      PISTOL_ATTACK_MC_7: -3673604816734421290
+      PISTOL_ATTACK_MC_8: -8168235166824463048
+      PISTOL_ATTACK_MC_9: -8223522898232890881
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

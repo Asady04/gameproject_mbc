@@ -1,0 +1,1122 @@
+fileFormatVersion: 2
+guid: 56ef112afa3c1d14daf6124cc00e76c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3390809991102321292
+    second: sprite kepala desa remake_0
+  - first:
+      213: 8729504573761348405
+    second: sprite kepala desa remake_1
+  - first:
+      213: 12524871449202770
+    second: sprite kepala desa remake_2
+  - first:
+      213: 7690104478911506091
+    second: sprite kepala desa remake_3
+  - first:
+      213: -2900283730938364650
+    second: sprite kepala desa remake_4
+  - first:
+      213: -4135652035187650884
+    second: sprite kepala desa remake_5
+  - first:
+      213: -348985742601405789
+    second: sprite kepala desa remake_6
+  - first:
+      213: 3489061534887327437
+    second: sprite kepala desa remake_7
+  - first:
+      213: 3727940935299703371
+    second: sprite kepala desa remake_8
+  - first:
+      213: 8712587842208447525
+    second: sprite kepala desa remake_9
+  - first:
+      213: -2805113843001808631
+    second: sprite kepala desa remake_10
+  - first:
+      213: 4966022881703453071
+    second: sprite kepala desa remake_11
+  - first:
+      213: -980123336669208349
+    second: sprite kepala desa remake_12
+  - first:
+      213: 5397483350449600216
+    second: sprite kepala desa remake_13
+  - first:
+      213: 3305723551191352336
+    second: sprite kepala desa remake_14
+  - first:
+      213: 4184921661677489263
+    second: sprite kepala desa remake_15
+  - first:
+      213: -3764468180777650716
+    second: sprite kepala desa remake_16
+  - first:
+      213: -7230274325423301015
+    second: sprite kepala desa remake_17
+  - first:
+      213: 6958924455488585188
+    second: sprite kepala desa remake_18
+  - first:
+      213: -727954992305384213
+    second: sprite kepala desa remake_19
+  - first:
+      213: 1339672641758812018
+    second: sprite kepala desa remake_20
+  - first:
+      213: -428892511482582595
+    second: sprite kepala desa remake_21
+  - first:
+      213: 6683840960693976883
+    second: sprite kepala desa remake_22
+  - first:
+      213: 4901377093488001784
+    second: sprite kepala desa remake_23
+  - first:
+      213: -7214114604769646760
+    second: sprite kepala desa remake_24
+  - first:
+      213: 2216664191724763869
+    second: sprite kepala desa remake_25
+  - first:
+      213: 5378975529181094949
+    second: sprite kepala desa remake_26
+  - first:
+      213: 1386656457612423620
+    second: sprite kepala desa remake_27
+  - first:
+      213: 7940476656186960690
+    second: sprite kepala desa remake_28
+  - first:
+      213: 1495352777861624136
+    second: sprite kepala desa remake_29
+  - first:
+      213: -8911300823303055557
+    second: sprite kepala desa remake_30
+  - first:
+      213: -4672522515930223224
+    second: sprite kepala desa remake_31
+  - first:
+      213: 161520294006113562
+    second: sprite kepala desa remake_32
+  - first:
+      213: 2422342495929170755
+    second: sprite kepala desa remake_33
+  - first:
+      213: -379044860682467258
+    second: sprite kepala desa remake_34
+  - first:
+      213: 2926102630091962886
+    second: sprite kepala desa remake_35
+  - first:
+      213: -8353062080832217645
+    second: sprite kepala desa remake_36
+  - first:
+      213: 4053554972474580941
+    second: sprite kepala desa remake_37
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite kepala desa remake_0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 3003
+        width: 592
+        height: 746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82df7cb8b39e0f20800000000000000
+      internalID: 3390809991102321292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_1
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 3021
+        width: 581
+        height: 743
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5336130b82e652970800000000000000
+      internalID: 8729504573761348405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_2
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 3019
+        width: 613
+        height: 745
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2505691ed4f7c2000800000000000000
+      internalID: 12524871449202770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_3
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 3017
+        width: 613
+        height: 747
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba62927974db8ba60800000000000000
+      internalID: 7690104478911506091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_4
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 3002
+        width: 694
+        height: 747
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61df295205f10c7d0800000000000000
+      internalID: -2900283730938364650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_5
+      rect:
+        serializedVersion: 2
+        x: 4099
+        y: 2995
+        width: 651
+        height: 731
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbec408b2663b96c0800000000000000
+      internalID: -4135652035187650884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_6
+      rect:
+        serializedVersion: 2
+        x: 5074
+        y: 2993
+        width: 660
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa319ce057282bf0800000000000000
+      internalID: -348985742601405789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_7
+      rect:
+        serializedVersion: 2
+        x: 6108
+        y: 2985
+        width: 690
+        height: 729
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6307aeaf2ab6030800000000000000
+      internalID: 3489061534887327437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_8
+      rect:
+        serializedVersion: 2
+        x: 7225
+        y: 2993
+        width: 675
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b422d28778e4cb330800000000000000
+      internalID: 3727940935299703371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2031
+        width: 675
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cb8313b7459e870800000000000000
+      internalID: 8712587842208447525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_10
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2024
+        width: 689
+        height: 729
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909a85962db3219d0800000000000000
+      internalID: -2805113843001808631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_11
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 2032
+        width: 661
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f816562ff7bdae440800000000000000
+      internalID: 4966022881703453071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_12
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 2034
+        width: 651
+        height: 731
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0e2c9a407e562f0800000000000000
+      internalID: -980123336669208349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_13
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 2041
+        width: 694
+        height: 746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d632a89286b7ea40800000000000000
+      internalID: 5397483350449600216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_14
+      rect:
+        serializedVersion: 2
+        x: 4892
+        y: 2055
+        width: 614
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014476a2e0a40ed20800000000000000
+      internalID: 3305723551191352336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_15
+      rect:
+        serializedVersion: 2
+        x: 5696
+        y: 2058
+        width: 612
+        height: 745
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ccf112414d31a30800000000000000
+      internalID: 4184921661677489263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_16
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2060
+        width: 581
+        height: 743
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5bc74722ce1cbc0800000000000000
+      internalID: -3764468180777650716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_17
+      rect:
+        serializedVersion: 2
+        x: 7203
+        y: 2041
+        width: 592
+        height: 746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e54840fc7e8ab90800000000000000
+      internalID: -7230274325423301015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 980
+        width: 579
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edfc2c1ce0139060800000000000000
+      internalID: 6958924455488585188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_19
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 980
+        width: 578
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be45a279ac8c5e5f0800000000000000
+      internalID: -727954992305384213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_20
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 980
+        width: 657
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277d7577b29779210800000000000000
+      internalID: 1339672641758812018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_21
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 994
+        width: 641
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9614e78844c0af0800000000000000
+      internalID: -428892511482582595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_22
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 992
+        width: 624
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fbe55f0f5c1cc50800000000000000
+      internalID: 6683840960693976883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_23
+      rect:
+        serializedVersion: 2
+        x: 4098
+        y: 1005
+        width: 649
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2c6977f70350440800000000000000
+      internalID: 4901377093488001784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_24
+      rect:
+        serializedVersion: 2
+        x: 4897
+        y: 987
+        width: 558
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8576fbd2df052eb90800000000000000
+      internalID: -7214114604769646760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_25
+      rect:
+        serializedVersion: 2
+        x: 5672
+        y: 996
+        width: 580
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda3516865c23ce10800000000000000
+      internalID: 2216664191724763869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_26
+      rect:
+        serializedVersion: 2
+        x: 6520
+        y: 1000
+        width: 498
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524ab58aeb5f5aa40800000000000000
+      internalID: 5378975529181094949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_27
+      rect:
+        serializedVersion: 2
+        x: 7320
+        y: 1004
+        width: 489
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c17d7d83b46e3310800000000000000
+      internalID: 1386656457612423620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_28
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 23
+        width: 489
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b2e47c27d323e60800000000000000
+      internalID: 7940476656186960690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_29
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 19
+        width: 499
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841f552cd6f80c410800000000000000
+      internalID: 1495352777861624136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_30
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 15
+        width: 579
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3710648d13b45480800000000000000
+      internalID: -8911300823303055557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_31
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 6
+        width: 558
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88de6f0278dd72fb0800000000000000
+      internalID: -4672522515930223224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_32
+      rect:
+        serializedVersion: 2
+        x: 3149
+        y: 24
+        width: 650
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1540440ad5dd3200800000000000000
+      internalID: 161520294006113562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_33
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 11
+        width: 625
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bf03a7aa3ed9120800000000000000
+      internalID: 2422342495929170755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_34
+      rect:
+        serializedVersion: 2
+        x: 4768
+        y: 13
+        width: 640
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648851d15bc5dbaf0800000000000000
+      internalID: -379044860682467258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_35
+      rect:
+        serializedVersion: 2
+        x: 5569
+        y: 0
+        width: 657
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ab7f2c6da9b9820800000000000000
+      internalID: 2926102630091962886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_36
+      rect:
+        serializedVersion: 2
+        x: 6478
+        y: 0
+        width: 579
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddd53d3b46f31c80800000000000000
+      internalID: -8353062080832217645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite kepala desa remake_37
+      rect:
+        serializedVersion: 2
+        x: 7282
+        y: 0
+        width: 578
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf9dd355ce114830800000000000000
+      internalID: 4053554972474580941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sprite kepala desa remake_0: 3390809991102321292
+      sprite kepala desa remake_1: 8729504573761348405
+      sprite kepala desa remake_10: -2805113843001808631
+      sprite kepala desa remake_11: 4966022881703453071
+      sprite kepala desa remake_12: -980123336669208349
+      sprite kepala desa remake_13: 5397483350449600216
+      sprite kepala desa remake_14: 3305723551191352336
+      sprite kepala desa remake_15: 4184921661677489263
+      sprite kepala desa remake_16: -3764468180777650716
+      sprite kepala desa remake_17: -7230274325423301015
+      sprite kepala desa remake_18: 6958924455488585188
+      sprite kepala desa remake_19: -727954992305384213
+      sprite kepala desa remake_2: 12524871449202770
+      sprite kepala desa remake_20: 1339672641758812018
+      sprite kepala desa remake_21: -428892511482582595
+      sprite kepala desa remake_22: 6683840960693976883
+      sprite kepala desa remake_23: 4901377093488001784
+      sprite kepala desa remake_24: -7214114604769646760
+      sprite kepala desa remake_25: 2216664191724763869
+      sprite kepala desa remake_26: 5378975529181094949
+      sprite kepala desa remake_27: 1386656457612423620
+      sprite kepala desa remake_28: 7940476656186960690
+      sprite kepala desa remake_29: 1495352777861624136
+      sprite kepala desa remake_3: 7690104478911506091
+      sprite kepala desa remake_30: -8911300823303055557
+      sprite kepala desa remake_31: -4672522515930223224
+      sprite kepala desa remake_32: 161520294006113562
+      sprite kepala desa remake_33: 2422342495929170755
+      sprite kepala desa remake_34: -379044860682467258
+      sprite kepala desa remake_35: 2926102630091962886
+      sprite kepala desa remake_36: -8353062080832217645
+      sprite kepala desa remake_37: 4053554972474580941
+      sprite kepala desa remake_4: -2900283730938364650
+      sprite kepala desa remake_5: -4135652035187650884
+      sprite kepala desa remake_6: -348985742601405789
+      sprite kepala desa remake_7: 3489061534887327437
+      sprite kepala desa remake_8: 3727940935299703371
+      sprite kepala desa remake_9: 8712587842208447525
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
