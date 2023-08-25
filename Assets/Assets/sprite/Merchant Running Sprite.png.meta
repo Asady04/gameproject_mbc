@@ -1,0 +1,1600 @@
+fileFormatVersion: 2
+guid: 06464cfbc1768d447a31f0dac53c5900
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4189291759305573519
+    second: Merchant Running Sprite_0
+  - first:
+      213: 3148906656698682098
+    second: Merchant Running Sprite_1
+  - first:
+      213: -2187776008172969706
+    second: Merchant Running Sprite_2
+  - first:
+      213: 8141608313719350670
+    second: Merchant Running Sprite_3
+  - first:
+      213: 3130371179612915965
+    second: Merchant Running Sprite_4
+  - first:
+      213: -8607751585059948490
+    second: Merchant Running Sprite_5
+  - first:
+      213: 903938569340794386
+    second: Merchant Running Sprite_6
+  - first:
+      213: -4513519851978163291
+    second: Merchant Running Sprite_7
+  - first:
+      213: -190991628083635795
+    second: Merchant Running Sprite_8
+  - first:
+      213: 8367261989597994453
+    second: Merchant Running Sprite_9
+  - first:
+      213: -6069510010668085827
+    second: Merchant Running Sprite_10
+  - first:
+      213: 6830637884888007851
+    second: Merchant Running Sprite_11
+  - first:
+      213: -270524583607010215
+    second: Merchant Running Sprite_12
+  - first:
+      213: 1211522256679183580
+    second: Merchant Running Sprite_13
+  - first:
+      213: 9006813912678099659
+    second: Merchant Running Sprite_14
+  - first:
+      213: 1253412553755756951
+    second: Merchant Running Sprite_15
+  - first:
+      213: 7870997077903491794
+    second: Merchant Running Sprite_16
+  - first:
+      213: -2223655060882357679
+    second: Merchant Running Sprite_17
+  - first:
+      213: -1789420857557588098
+    second: Merchant Running Sprite_18
+  - first:
+      213: -4077316602523956238
+    second: Merchant Running Sprite_19
+  - first:
+      213: -5616211370300999299
+    second: Merchant Running Sprite_20
+  - first:
+      213: 7204882424692771182
+    second: Merchant Running Sprite_21
+  - first:
+      213: -3117939428331211563
+    second: Merchant Running Sprite_22
+  - first:
+      213: 5100297429385457613
+    second: Merchant Running Sprite_23
+  - first:
+      213: -1169767162037697740
+    second: Merchant Running Sprite_24
+  - first:
+      213: 1041541432594251477
+    second: Merchant Running Sprite_25
+  - first:
+      213: -3694949398450073397
+    second: Merchant Running Sprite_26
+  - first:
+      213: 9202218768722962772
+    second: Merchant Running Sprite_27
+  - first:
+      213: 5783429741299247539
+    second: Merchant Running Sprite_28
+  - first:
+      213: 2472682119268243572
+    second: Merchant Running Sprite_29
+  - first:
+      213: -6879620133796146606
+    second: Merchant Running Sprite_30
+  - first:
+      213: -5880930063405612219
+    second: Merchant Running Sprite_31
+  - first:
+      213: 6674392668556052442
+    second: Merchant Running Sprite_32
+  - first:
+      213: 3171308930586976456
+    second: Merchant Running Sprite_33
+  - first:
+      213: -8564164779836144946
+    second: Merchant Running Sprite_34
+  - first:
+      213: -2614676899235799886
+    second: Merchant Running Sprite_35
+  - first:
+      213: 7686505544453181159
+    second: Merchant Running Sprite_36
+  - first:
+      213: 2432376822957421983
+    second: Merchant Running Sprite_37
+  - first:
+      213: -7090847687635615738
+    second: Merchant Running Sprite_38
+  - first:
+      213: -4249135383234811757
+    second: Merchant Running Sprite_39
+  - first:
+      213: -8830546989075113048
+    second: Merchant Running Sprite_40
+  - first:
+      213: -7860986273094614175
+    second: Merchant Running Sprite_41
+  - first:
+      213: -1155692524165766969
+    second: Merchant Running Sprite_42
+  - first:
+      213: 3373190660742779908
+    second: Merchant Running Sprite_43
+  - first:
+      213: 6050439726728124521
+    second: Merchant Running Sprite_44
+  - first:
+      213: -4100045068213104089
+    second: Merchant Running Sprite_45
+  - first:
+      213: -8433718999583625225
+    second: Merchant Running Sprite_46
+  - first:
+      213: -5297466059920198469
+    second: Merchant Running Sprite_47
+  - first:
+      213: -1503007362523304982
+    second: Merchant Running Sprite_48
+  - first:
+      213: -4917011853777411271
+    second: Merchant Running Sprite_49
+  - first:
+      213: 5733590463102498048
+    second: Merchant Running Sprite_50
+  - first:
+      213: 4459167954965565324
+    second: Merchant Running Sprite_51
+  - first:
+      213: -5010218056965222260
+    second: Merchant Running Sprite_52
+  - first:
+      213: -7597996027364285013
+    second: Merchant Running Sprite_53
+  - first:
+      213: 7510087602117720996
+    second: Merchant Running Sprite_54
+  - first:
+      213: 4745253793551001602
+    second: Merchant Running Sprite_55
+  - first:
+      213: 5473728992172950491
+    second: Merchant Running Sprite_56
+  - first:
+      213: -5749641721880295992
+    second: Merchant Running Sprite_57
+  - first:
+      213: -3216382813540894046
+    second: Merchant Running Sprite_58
+  - first:
+      213: -3836620111084982815
+    second: Merchant Running Sprite_59
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Merchant Running Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2731
+        width: 177
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bbe1a3755acd5c0800000000000000
+      internalID: -4189291759305573519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2729
+        width: 214
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa436fabe923bb20800000000000000
+      internalID: 3148906656698682098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2731
+        width: 228
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6116ab8df4573a1e0800000000000000
+      internalID: -2187776008172969706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 2727
+        width: 224
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85eb9f00adccf070800000000000000
+      internalID: 8141608313719350670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 2727
+        width: 224
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8c2ff9000517b20800000000000000
+      internalID: 3130371179612915965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 2727
+        width: 245
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63832b90a8f1b8880800000000000000
+      internalID: -8607751585059948490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 2729
+        width: 224
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216355ce65f6b8c00800000000000000
+      internalID: 903938569340794386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 2731
+        width: 224
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abfa28bb91cc51c0800000000000000
+      internalID: -4513519851978163291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 2731
+        width: 225
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9500d4026795df0800000000000000
+      internalID: -190991628083635795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 2736
+        width: 178
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dddd98a27c7e1470800000000000000
+      internalID: 8367261989597994453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2260
+        width: 177
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd837d8dc4c4cba0800000000000000
+      internalID: -6069510010668085827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2255
+        width: 225
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4431e47fc4bce50800000000000000
+      internalID: 6830637884888007851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 2255
+        width: 224
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cf7131357ee3cf0800000000000000
+      internalID: -270524583607010215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2253
+        width: 223
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4a7d2d21130d010800000000000000
+      internalID: 1211522256679183580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 2251
+        width: 245
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca693f8881aefc70800000000000000
+      internalID: 9006813912678099659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 2251
+        width: 224
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79980a7a314056110800000000000000
+      internalID: 1253412553755756951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 2251
+        width: 224
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d24398d3266b3d60800000000000000
+      internalID: 7870997077903491794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 2255
+        width: 228
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1528b19e08df321e0800000000000000
+      internalID: -2223655060882357679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 2253
+        width: 214
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77ea97f533ba27e0800000000000000
+      internalID: -1789420857557588098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 2255
+        width: 177
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbc1cd07267a67c0800000000000000
+      internalID: -4077316602523956238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1604
+        width: 230
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79f2b1c3853f02b0800000000000000
+      internalID: -5616211370300999299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1603
+        width: 266
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6984446462ecf360800000000000000
+      internalID: 7204882424692771182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1603
+        width: 268
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d432270c9adab4d0800000000000000
+      internalID: -3117939428331211563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1607
+        width: 224
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfab5f4d75e7c640800000000000000
+      internalID: 5100297429385457613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1604
+        width: 229
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43383dcb6f624cfe0800000000000000
+      internalID: -1169767162037697740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1608
+        width: 197
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5deb1a42a6c447e00800000000000000
+      internalID: 1041541432594251477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1605
+        width: 209
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0175a4917e8bcc0800000000000000
+      internalID: -3694949398450073397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 1606
+        width: 249
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4592a27f639d4bf70800000000000000
+      internalID: 9202218768722962772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 1609
+        width: 246
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9229135bed24050800000000000000
+      internalID: 5783429741299247539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 1608
+        width: 228
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4789171694bb05220800000000000000
+      internalID: 2472682119268243572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1125
+        width: 229
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252947720fda680a0800000000000000
+      internalID: -6879620133796146606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1126
+        width: 247
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5430bcd044db26ea0800000000000000
+      internalID: -5880930063405612219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1123
+        width: 249
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad741c405c430ac50800000000000000
+      internalID: 6674392668556052442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1122
+        width: 210
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c029a88ba0c20c20800000000000000
+      internalID: 3171308930586976456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1125
+        width: 197
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec284f3f189f52980800000000000000
+      internalID: -8564164779836144946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1120
+        width: 228
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc51aa963dc6bbd0800000000000000
+      internalID: -2614676899235799886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1124
+        width: 225
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eec33d5114fbaa60800000000000000
+      internalID: 7686505544453181159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1120
+        width: 267
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95354c45d981c120800000000000000
+      internalID: 2432376822957421983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1120
+        width: 266
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6004416d89f389d90800000000000000
+      internalID: -7090847687635615738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 1121
+        width: 229
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398eebfb1e90805c0800000000000000
+      internalID: -4249135383234811757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 456
+        width: 234
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab58c7bc48937580800000000000000
+      internalID: -8830546989075113048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 455
+        width: 251
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16349f742aa28e290800000000000000
+      internalID: -7860986273094614175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 456
+        width: 259
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0668bb5c726ffe0800000000000000
+      internalID: -1155692524165766969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 454
+        width: 191
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4041d35b80bffce20800000000000000
+      internalID: 3373190660742779908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 457
+        width: 191
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9689a86ffda77f350800000000000000
+      internalID: 6050439726728124521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 459
+        width: 210
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722d012cbb6b917c0800000000000000
+      internalID: -4100045068213104089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 458
+        width: 221
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffea5ee04965fa80800000000000000
+      internalID: -8433718999583625225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 461
+        width: 219
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4b4c88fae9b76b0800000000000000
+      internalID: -5297466059920198469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 457
+        width: 191
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb600e54ce342be0800000000000000
+      internalID: -1503007362523304982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 462
+        width: 235
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933663b35c343cbb0800000000000000
+      internalID: -4917011853777411271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1
+        width: 235
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005bac8f52ec19f40800000000000000
+      internalID: 5733590463102498048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 251
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f078d11a522ed30800000000000000
+      internalID: 4459167954965565324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1
+        width: 259
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c801753f831287ab0800000000000000
+      internalID: -5010218056965222260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 191
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba56f187ede7e8690800000000000000
+      internalID: -7597996027364285013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 2
+        width: 191
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abba4c42e0393860800000000000000
+      internalID: 7510087602117720996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 4
+        width: 210
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208aead0f278ad140800000000000000
+      internalID: 4745253793551001602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 3
+        width: 221
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3c93f648796fb40800000000000000
+      internalID: 5473728992172950491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 6
+        width: 219
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c54f8d115b2530b0800000000000000
+      internalID: -5749641721880295992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 2
+        width: 191
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa39394fdc1d53d0800000000000000
+      internalID: -3216382813540894046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merchant Running Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 7
+        width: 235
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ede8a4165691cac0800000000000000
+      internalID: -3836620111084982815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
