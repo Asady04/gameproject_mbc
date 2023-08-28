@@ -21,7 +21,11 @@ public class PlayerScript : MonoBehaviour
     public Items[] inventory;
     private Vector3 targetPos;
     public float speed = 2;
-    public TextMeshProUGUI inventoryText;
+    public TextMeshProUGUI inventoryText0;
+    public TextMeshProUGUI inventoryText1;
+    public TextMeshProUGUI inventoryText2;
+    public TextMeshProUGUI inventoryText3;
+    public TextMeshProUGUI inventoryText4;
     public Animator animator;
     public Rigidbody2D rb;
     // private Pause_Menu pauseSystem;
@@ -35,7 +39,7 @@ public class PlayerScript : MonoBehaviour
 
     private void Awake()
     {
-    //    pauseSystem = GameObject.FindGameObjectWithTag("pause").GetComponent<Pause_Menu>();
+        //    pauseSystem = GameObject.FindGameObjectWithTag("pause").GetComponent<Pause_Menu>();
         // int inventoryCount = PlayerPrefs.GetInt("count", 0);
         // for (int i = 0; i < inventoryCount; i++)
         // {
@@ -56,7 +60,16 @@ public class PlayerScript : MonoBehaviour
     {
         // if (pauseSystem.GetIsPaused()){return;}
         Debug.Log(inventory.Length);
-        inventoryText.text = inventory.Length.ToString();
+        int currentAmount0 = PlayerPrefs.GetInt("amount0", 0);
+        inventoryText0.text = currentAmount0.ToString();
+        int currentAmount1 = PlayerPrefs.GetInt("amount1", 0);
+        inventoryText1.text = currentAmount1.ToString();
+        int currentAmount2 = PlayerPrefs.GetInt("amount2", 0);
+        inventoryText2.text = currentAmount2.ToString();
+        int currentAmount3 = PlayerPrefs.GetInt("amount3", 0);
+        inventoryText3.text = currentAmount3.ToString();
+        int currentAmount4 = PlayerPrefs.GetInt("amount4", 0);
+        inventoryText4.text = currentAmount4.ToString();
 
         if (Input.GetMouseButton(0))
         {
@@ -73,12 +86,12 @@ public class PlayerScript : MonoBehaviour
         animator.SetFloat("Magnitude", dir.magnitude);
         if (dir.x == 0 && dir.y == 0)
         {
-           animator.SetFloat("Magnitude", 0);
+            animator.SetFloat("Magnitude", 0);
         }
 
-        Debug.Log("X: " + dir.x);
-        Debug.Log("y: " + dir.y);
-        Debug.Log("magnitude: " + dir.magnitude);
+        // Debug.Log("X: " + dir.x);
+        // Debug.Log("y: " + dir.y);
+        // Debug.Log("magnitude: " + dir.magnitude);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -88,45 +101,18 @@ public class PlayerScript : MonoBehaviour
             int itemType = collision.gameObject.GetComponent<ItemScript>().itemType;
             int amount = collision.gameObject.GetComponent<ItemScript>().amount;
             print("we have collected a: " + itemType + " with " + amount + " amount");
+            int currentAmount = PlayerPrefs.GetInt("amount" + itemType, 0);
+            int newAmount = amount + currentAmount;
 
-            switch (itemType)
-            {
-                case 0:
-                    inventory[itemType] = new Items();
-                    inventory[itemType].SetItems(itemType, amount);
-                    PlayerPrefs.SetInt("item" + itemType, itemType);
-                    PlayerPrefs.SetInt("amount" + itemType, amount);
-                    break;
-                case 1:
-                    inventory[itemType] = new Items();
-                    inventory[itemType].SetItems(itemType, amount);
-                    PlayerPrefs.SetInt("item" + itemType, itemType);
-                    PlayerPrefs.SetInt("amount" + itemType, amount);
-                    break;
-                case 2:
-                    inventory[itemType] = new Items();
-                    inventory[itemType].SetItems(itemType, amount);
-                    PlayerPrefs.SetInt("item" + itemType, itemType);
-                    PlayerPrefs.SetInt("amount" + itemType, amount);
-                    break;
-                case 3:
-                    inventory[itemType] = new Items();
-                    inventory[itemType].SetItems(itemType, amount);
-                    PlayerPrefs.SetInt("item" + itemType, itemType);
-                    PlayerPrefs.SetInt("amount" + itemType, amount);
-                    break;
-                case 4:
-                    inventory[itemType] = new Items();
-                    inventory[itemType].SetItems(itemType, amount);
-                    PlayerPrefs.SetInt("item" + itemType, itemType);
-                    PlayerPrefs.SetInt("amount" + itemType, amount);
-                    break;
-                default:
-                    break;
-            }
+            inventory[itemType] = new Items();
+            inventory[itemType].SetItems(itemType, newAmount);
+            PlayerPrefs.SetInt("item" + itemType, itemType);
+            PlayerPrefs.SetInt("amount" + itemType, newAmount);
 
+
+            Debug.Log("item" + itemType + ":" + inventory[itemType].amount);
             PlayerPrefs.SetInt("count", inventory.Length);
-            Debug.Log(inventory.Length);
+
             Destroy(collision.gameObject);
         }
     }

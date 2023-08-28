@@ -8,28 +8,20 @@ using UnityEngine.SceneManagement;
 public class Pause_Menu : MonoBehaviour
 {
     public static bool isPaused;
-    public bool GetIsPaused(){return isPaused;}
+    public bool GetIsPaused() { return isPaused; }
 
     [SerializeField] GameObject pauseMenu = null;
+    [SerializeField] GameObject optionMenu = null;
 
     void update()
     {
-        if(Input.GetKeyDown(KeyCode.Escape))
+        if (Input.GetKeyDown(KeyCode.Escape))
         {
 
             isPaused = !isPaused;
 
             Time.timeScale = isPaused ? 0 : 1;
             pauseMenu.SetActive(isPaused);
-            // if(isPaused)
-            // {
-            //     Pause();
-
-            // }
-            // else
-            // {
-            //     Resume();
-            // }
         }
     }
 
@@ -59,7 +51,9 @@ public class Pause_Menu : MonoBehaviour
 
     public void Options()
     {
-
+        optionMenu.SetActive(true);
+        Time.timeScale = 0;
+        pauseMenu.SetActive(false);
     }
 
 
