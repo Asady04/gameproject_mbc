@@ -201,6 +201,7 @@ GameObject:
   m_Component:
   - component: {fileID: 289295800}
   - component: {fileID: 289295799}
+  - component: {fileID: 289295801}
   m_Layer: 0
   m_Name: GM
   m_TagString: Untagged
@@ -235,6 +236,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &289295801
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 289295798}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 385a5ebd3504f2d4a81dee292f1b4476, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myMixer: {fileID: 24100000, guid: 5c3a2e2b4c7dc6149b76f1d08f2e79cb, type: 2}
 --- !u!1 &385553536
 GameObject:
   m_ObjectHideFlags: 0
@@ -1103,7 +1117,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 499882313307307010, guid: 108ac31a1631ac046b7c2d56649c342d, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2580826932589952508, guid: 108ac31a1631ac046b7c2d56649c342d, type: 3}
       propertyPath: m_LocalPosition.x
