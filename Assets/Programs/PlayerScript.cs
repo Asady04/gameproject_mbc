@@ -7,7 +7,7 @@ using UnityEngine.AI;
 
 public class PlayerScript : MonoBehaviour
 {
-    // NavMeshAgent agent;
+    public NavMeshAgent agent;
 
     private Vector3 targetPos;
     public float speed = 2;
@@ -18,16 +18,15 @@ public class PlayerScript : MonoBehaviour
     void Start()
     {
         targetPos = transform.position;
-        // agent = GetComponent<NavMeshAgent>();
-        // agent.updateRotation = false;
-        // agent.updateUpAxis = false;
+        agent = GetComponent<NavMeshAgent>();
+        agent.updateRotation = false;
+        agent.updateUpAxis = false;
     }
-
-    void Update()
+    void SetTargetPosition()
     {
         if (Time.timeScale == 0)
         {
-           targetPos = transform.position;
+            targetPos = transform.position;
         }
         else
         {
@@ -36,10 +35,33 @@ public class PlayerScript : MonoBehaviour
                 targetPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
                 targetPos.z = transform.position.z;
             }
-
-            transform.position = Vector3.MoveTowards(transform.position, targetPos, Time.deltaTime * speed);
-            // agent.SetDestination(targetPos);
         }
+
+    }
+
+    void SetAgentPosition()
+    {
+        agent.SetDestination(new Vector3(targetPos.x, targetPos.y, transform.position.z));
+    }
+    void Update()
+    {
+        // SetTargetPosition();
+        // SetAgentPosition();
+            if (Time.timeScale == 0)
+            {
+                targetPos = transform.position;
+            }
+            else
+            {
+                if (Input.GetMouseButton(1))
+                {
+                    targetPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+                    targetPos.z = transform.position.z;
+                }
+
+                transform.position = Vector3.MoveTowards(transform.position, targetPos, Time.deltaTime * speed);
+                // agent.SetDestination(targetPos);
+            }
 
         Vector3 dir = transform.position - targetPos;
         double x = transform.position.x - targetPos.x;
@@ -129,4 +151,7 @@ public class PlayerScript : MonoBehaviour
         // Debug.Log("y: " + dir.y);
         // Debug.Log("magnitude: " + dir.magnitude);
     }
+
+
+
 }

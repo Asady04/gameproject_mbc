@@ -862,8 +862,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 289295802}
-        m_TargetAssemblyTypeName: SaveLoad, Assembly-CSharp
+      - m_Target: {fileID: 289295799}
+        m_TargetAssemblyTypeName: NavigationScript, Assembly-CSharp
         m_MethodName: NewGame
         m_Mode: 1
         m_Arguments:

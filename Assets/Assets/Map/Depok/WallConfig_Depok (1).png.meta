@@ -1,0 +1,1367 @@
+fileFormatVersion: 2
+guid: a8419faad7b728743934b159fefd3157
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_0
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 3269
+        width: 1387
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9912763fae9b6d0489262813116504d4
+      internalID: 121175854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_1
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 3769
+        width: 700
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f165db371fb9a8d42966403748d4e7a9
+      internalID: -847474356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_2
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 3420
+        width: 1387
+        height: 1081
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fb878263166a644a156334f835df86
+      internalID: -1968822003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_3
+      rect:
+        serializedVersion: 2
+        x: 4660
+        y: 3311
+        width: 1391
+        height: 1078
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3bf483648e48247965c43807bab470
+      internalID: -1963655229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_4
+      rect:
+        serializedVersion: 2
+        x: 6806
+        y: 3531
+        width: 1124
+        height: 931
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d8a712ce7da234ab74290f5b30abbb
+      internalID: -991688368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1397
+        width: 2077
+        height: 1473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4c7ed07925b9846bdee85add92c62b
+      internalID: -79816150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_6
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 1747
+        width: 1386
+        height: 1075
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4edb99c48d8d84c9ff52f7066caeed
+      internalID: -126445312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_7
+      rect:
+        serializedVersion: 2
+        x: 4020
+        y: 1870
+        width: 1620
+        height: 1205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49be660725bdfc2478cadc2c29d452ea
+      internalID: -1506506345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_8
+      rect:
+        serializedVersion: 2
+        x: 6431
+        y: 2378
+        width: 705
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aafa1b083238ea479ea6b5fc2a1c0d7
+      internalID: 821405829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 472
+        width: 472
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e45b3cfdae635439552f5d91e905cc
+      internalID: -1156282726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_10
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 347
+        width: 471
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4df971577015a4bb8e6495a48ed01a
+      internalID: 1645658611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_11
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 231
+        width: 472
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860af50ff1ba4c34f8639b40bc1db27e
+      internalID: 364196063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_12
+      rect:
+        serializedVersion: 2
+        x: 4295
+        y: 754
+        width: 702
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f4b050112e35e46b9bde8c55f782b0
+      internalID: 195073451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_13
+      rect:
+        serializedVersion: 2
+        x: 5559
+        y: 755
+        width: 1619
+        height: 1208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0782d976195ad1d4696ce1a540792a30
+      internalID: 1186018811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_14
+      rect:
+        serializedVersion: 2
+        x: 6586
+        y: 308
+        width: 278
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2d7ed957c7f9f4fa7a7241a736e7b5
+      internalID: -648151756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_15
+      rect:
+        serializedVersion: 2
+        x: 6872
+        y: 296
+        width: 117
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a169cf9e7d18c540b2c1d125eb60b59
+      internalID: 1295132724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_16
+      rect:
+        serializedVersion: 2
+        x: 6992
+        y: 297
+        width: 109
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba9213dc28e39446ac00a2853c6256b
+      internalID: -1533029602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_17
+      rect:
+        serializedVersion: 2
+        x: 7105
+        y: 308
+        width: 104
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac377d94ec484d4ba81145df02a2a03
+      internalID: -933115119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_18
+      rect:
+        serializedVersion: 2
+        x: 7217
+        y: 297
+        width: 229
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a2ab79911a522419da4cca8891c645
+      internalID: -2133942163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_19
+      rect:
+        serializedVersion: 2
+        x: 7454
+        y: 297
+        width: 89
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e37251a027c6b941a24428b6a186f95
+      internalID: 1671396171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_20
+      rect:
+        serializedVersion: 2
+        x: 7549
+        y: 300
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b3f8ef4d1c94b48830a3f6d0c917ec
+      internalID: 206742181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_21
+      rect:
+        serializedVersion: 2
+        x: 6589
+        y: 246
+        width: 155
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb7cf300db3658459ea9d219cf0ce3c
+      internalID: -1784405893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_22
+      rect:
+        serializedVersion: 2
+        x: 6749
+        y: 242
+        width: 119
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc5acc143ff1404ab27ba2e6b5f8ffa
+      internalID: -892831717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_23
+      rect:
+        serializedVersion: 2
+        x: 6873
+        y: 246
+        width: 135
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4f00f67f412a844b58c594cc9ac6e0
+      internalID: -297873005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_24
+      rect:
+        serializedVersion: 2
+        x: 7016
+        y: 238
+        width: 112
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c3abdd8dd50c54cb7cce2815316b03
+      internalID: 47045628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_25
+      rect:
+        serializedVersion: 2
+        x: 7134
+        y: 246
+        width: 211
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f83e7c16d31bd641b9402ebccb145ca
+      internalID: 947089806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_26
+      rect:
+        serializedVersion: 2
+        x: 7349
+        y: 246
+        width: 128
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f567975528c390478f4187a638f2c60
+      internalID: -2073839919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_27
+      rect:
+        serializedVersion: 2
+        x: 7485
+        y: 238
+        width: 182
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2113583d5ae624dabb7776537196b8
+      internalID: -1719633409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_28
+      rect:
+        serializedVersion: 2
+        x: 7671
+        y: 246
+        width: 96
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dd978324855db40878b56fe17c0115
+      internalID: -1750066451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_29
+      rect:
+        serializedVersion: 2
+        x: 7775
+        y: 238
+        width: 159
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e29bb56d4178741b51a9893cc78a8b
+      internalID: -162292639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_30
+      rect:
+        serializedVersion: 2
+        x: 6589
+        y: 176
+        width: 245
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2cf47d1ecaa8841b180a25f2c8a2f2
+      internalID: 1890380350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_31
+      rect:
+        serializedVersion: 2
+        x: 6841
+        y: 188
+        width: 78
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509662c780cce9f49afdbf5b47b7dc43
+      internalID: 523458584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_32
+      rect:
+        serializedVersion: 2
+        x: 6927
+        y: 176
+        width: 170
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de542031714ac4642a3b9206b30b9ac4
+      internalID: -1511837585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_33
+      rect:
+        serializedVersion: 2
+        x: 7105
+        y: 188
+        width: 85
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78244ef9ccbb674582a539e4f3a1d2a
+      internalID: 1781474123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_34
+      rect:
+        serializedVersion: 2
+        x: 7194
+        y: 176
+        width: 170
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79646ec34dddf842a6fd4577cb4f45b
+      internalID: 1818027857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_35
+      rect:
+        serializedVersion: 2
+        x: 7372
+        y: 176
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f6ca7a6411fe74eacef999402cb515
+      internalID: 870687578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_36
+      rect:
+        serializedVersion: 2
+        x: 7435
+        y: 188
+        width: 247
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de8563b013129143b5af61a03996302
+      internalID: -2076932569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_37
+      rect:
+        serializedVersion: 2
+        x: 6586
+        y: 126
+        width: 89
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b37f5f626ce5341bbdf290d4da9ba2
+      internalID: -410856250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_38
+      rect:
+        serializedVersion: 2
+        x: 6679
+        y: 126
+        width: 131
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdeb22923ef3d84683117616eac470c
+      internalID: 1405628765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_39
+      rect:
+        serializedVersion: 2
+        x: 6818
+        y: 126
+        width: 198
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745a35a16fdceb54b96d87cd256a8a4e
+      internalID: 706300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_40
+      rect:
+        serializedVersion: 2
+        x: 7022
+        y: 118
+        width: 264
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e200d408962e8343bad531d41a9041a
+      internalID: -1760772105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_41
+      rect:
+        serializedVersion: 2
+        x: 7295
+        y: 118
+        width: 329
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b785705c37fdb2840b06914b2aebaee5
+      internalID: 1144099934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_42
+      rect:
+        serializedVersion: 2
+        x: 7632
+        y: 118
+        width: 147
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc932c2761d68a244b0304fe5207e8eb
+      internalID: 11005147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_43
+      rect:
+        serializedVersion: 2
+        x: 7787
+        y: 122
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbde4426b063110478719e8105ab95ab
+      internalID: 1374206723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_44
+      rect:
+        serializedVersion: 2
+        x: 6586
+        y: 56
+        width: 100
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3413ac055452a48479419334f1156d8d
+      internalID: -1528796842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_45
+      rect:
+        serializedVersion: 2
+        x: 6690
+        y: 68
+        width: 112
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2b5faf77f2c1243a7e7222bc306f8e
+      internalID: -182143540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_46
+      rect:
+        serializedVersion: 2
+        x: 6803
+        y: 68
+        width: 139
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d803244ff52dcd46b05b87975e09347
+      internalID: -453758127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_47
+      rect:
+        serializedVersion: 2
+        x: 6950
+        y: 68
+        width: 120
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81c86410593c4148861fe2d84b360af
+      internalID: 1563865868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_48
+      rect:
+        serializedVersion: 2
+        x: 7074
+        y: 68
+        width: 89
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23681f910ebe73544a0fcd59e43ccb7d
+      internalID: -1818770368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_49
+      rect:
+        serializedVersion: 2
+        x: 7167
+        y: 56
+        width: 213
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dfc6a932a3d88468c315d16b395439
+      internalID: -531298522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_50
+      rect:
+        serializedVersion: 2
+        x: 7384
+        y: 56
+        width: 221
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b032d90f4b1116478edad13981673f3
+      internalID: -1414973771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_51
+      rect:
+        serializedVersion: 2
+        x: 7609
+        y: 79
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa2d9a60873a1644a18df99590f01e3
+      internalID: 1227095998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_52
+      rect:
+        serializedVersion: 2
+        x: 6586
+        y: 18
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36cdccb9150d834b957b13867ac137e
+      internalID: 1350758855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Depok (1)_53
+      rect:
+        serializedVersion: 2
+        x: 6613
+        y: 6
+        width: 116
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b5fe61dee148f4eb09c6808a4f90f2
+      internalID: -102409372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WallConfig_Depok (1)_0: 121175854
+      WallConfig_Depok (1)_1: -847474356
+      WallConfig_Depok (1)_10: 1645658611
+      WallConfig_Depok (1)_11: 364196063
+      WallConfig_Depok (1)_12: 195073451
+      WallConfig_Depok (1)_13: 1186018811
+      WallConfig_Depok (1)_14: -648151756
+      WallConfig_Depok (1)_15: 1295132724
+      WallConfig_Depok (1)_16: -1533029602
+      WallConfig_Depok (1)_17: -933115119
+      WallConfig_Depok (1)_18: -2133942163
+      WallConfig_Depok (1)_19: 1671396171
+      WallConfig_Depok (1)_2: -1968822003
+      WallConfig_Depok (1)_20: 206742181
+      WallConfig_Depok (1)_21: -1784405893
+      WallConfig_Depok (1)_22: -892831717
+      WallConfig_Depok (1)_23: -297873005
+      WallConfig_Depok (1)_24: 47045628
+      WallConfig_Depok (1)_25: 947089806
+      WallConfig_Depok (1)_26: -2073839919
+      WallConfig_Depok (1)_27: -1719633409
+      WallConfig_Depok (1)_28: -1750066451
+      WallConfig_Depok (1)_29: -162292639
+      WallConfig_Depok (1)_3: -1963655229
+      WallConfig_Depok (1)_30: 1890380350
+      WallConfig_Depok (1)_31: 523458584
+      WallConfig_Depok (1)_32: -1511837585
+      WallConfig_Depok (1)_33: 1781474123
+      WallConfig_Depok (1)_34: 1818027857
+      WallConfig_Depok (1)_35: 870687578
+      WallConfig_Depok (1)_36: -2076932569
+      WallConfig_Depok (1)_37: -410856250
+      WallConfig_Depok (1)_38: 1405628765
+      WallConfig_Depok (1)_39: 706300088
+      WallConfig_Depok (1)_4: -991688368
+      WallConfig_Depok (1)_40: -1760772105
+      WallConfig_Depok (1)_41: 1144099934
+      WallConfig_Depok (1)_42: 11005147
+      WallConfig_Depok (1)_43: 1374206723
+      WallConfig_Depok (1)_44: -1528796842
+      WallConfig_Depok (1)_45: -182143540
+      WallConfig_Depok (1)_46: -453758127
+      WallConfig_Depok (1)_47: 1563865868
+      WallConfig_Depok (1)_48: -1818770368
+      WallConfig_Depok (1)_49: -531298522
+      WallConfig_Depok (1)_5: -79816150
+      WallConfig_Depok (1)_50: -1414973771
+      WallConfig_Depok (1)_51: 1227095998
+      WallConfig_Depok (1)_52: 1350758855
+      WallConfig_Depok (1)_53: -102409372
+      WallConfig_Depok (1)_6: -126445312
+      WallConfig_Depok (1)_7: -1506506345
+      WallConfig_Depok (1)_8: 821405829
+      WallConfig_Depok (1)_9: -1156282726
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

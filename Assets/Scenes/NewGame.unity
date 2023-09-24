@@ -133,6 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 180287086}
   - component: {fileID: 180287085}
+  - component: {fileID: 180287087}
   m_Layer: 0
   m_Name: GM
   m_TagString: Untagged
@@ -167,6 +168,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &180287087
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 180287084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73225393a034e3a48a577f74e72881a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &357439083
 GameObject:
   m_ObjectHideFlags: 0
@@ -915,9 +928,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 180287085}
-        m_TargetAssemblyTypeName: NavigationScript, Assembly-CSharp
-        m_MethodName: ConfirmExit
+      - m_Target: {fileID: 180287087}
+        m_TargetAssemblyTypeName: LoadGame, Assembly-CSharp
+        m_MethodName: NewGame
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

@@ -21,6 +21,11 @@ public class NavigationScript : MonoBehaviour
         SceneManager.LoadScene("Credits");
         Time.timeScale = 1f;
     }
+    public void NewGame()
+    {
+        SceneManager.LoadScene("NewGame");
+        Time.timeScale = 1f;
+    }
     public void Exit()
     {
         SceneManager.LoadScene("Exit");
