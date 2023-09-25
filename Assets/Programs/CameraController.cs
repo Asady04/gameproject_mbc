@@ -8,6 +8,9 @@ public class CameraController : MonoBehaviour
     public float scrollBorderThickness = 10f;
     public Vector2 minPosition;
     public Vector2 maxPosition;
+   
+
+    private Camera mainCamera;
 
     void Update()
     {
@@ -42,5 +45,6 @@ public class CameraController : MonoBehaviour
         newPosition.y = Mathf.Clamp(newPosition.y, minPosition.y, maxPosition.y);
 
         transform.position = newPosition;
+
     }
 }
