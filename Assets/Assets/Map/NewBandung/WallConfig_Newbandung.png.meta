@@ -1,0 +1,1033 @@
+fileFormatVersion: 2
+guid: b33facaf2971f534c98e1c0276e71ea0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4083
+        width: 468
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf594de0b644d1c41ab6ea6455a06fa7
+      internalID: -544312204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_1
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 3563
+        width: 1159
+        height: 845
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6924687c014e2e41808931c335bb1ad
+      internalID: 2002252164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_2
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 4027
+        width: 480
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab3f6a69439a6243894557babae9c0d
+      internalID: 1827387927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_3
+      rect:
+        serializedVersion: 2
+        x: 4721
+        y: 4021
+        width: 568
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98ba7740f4eb8440a3ae387a389079a
+      internalID: 880135548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_4
+      rect:
+        serializedVersion: 2
+        x: 5947
+        y: 4041
+        width: 463
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802d86d39639ba04fa29892cebae149e
+      internalID: -387543548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_5
+      rect:
+        serializedVersion: 2
+        x: 6697
+        y: 3990
+        width: 564
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb26fc6f879c4f429780c7c23eb634f
+      internalID: 1482288171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 3453
+        width: 463
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef7556b546e1164eba8f319c036446e
+      internalID: 1922973433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_7
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 3469
+        width: 463
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4c3fdfdc3449546a56ba54a912a291
+      internalID: 1910938378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_8
+      rect:
+        serializedVersion: 2
+        x: 3531
+        y: 3291
+        width: 696
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826599ae510081541bcc69628eb72861
+      internalID: -1337374656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_9
+      rect:
+        serializedVersion: 2
+        x: 4642
+        y: 3149
+        width: 1204
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3773bbe2dad905c47878a67688d39208
+      internalID: 1655233465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_10
+      rect:
+        serializedVersion: 2
+        x: 5970
+        y: 3633
+        width: 464
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997d4b0689a7c384d9ed306b89750edc
+      internalID: -792528308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_11
+      rect:
+        serializedVersion: 2
+        x: 6708
+        y: 3167
+        width: 1175
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dc9b310b297874eae157d1289e9228
+      internalID: 1682344728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2758
+        width: 462
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b1fcc042ad835469dd8e3248127a97
+      internalID: -698211624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_13
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 2539
+        width: 1155
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415b6a744df87a64fa68b80b1cc767a1
+      internalID: -156654478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_14
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 2885
+        width: 464
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7ae3953c6f9714d9e028d734604803
+      internalID: -1195832248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_15
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 2599
+        width: 692
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e015ead61fa2e4db002dbd9fecc9ef
+      internalID: -527268186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_16
+      rect:
+        serializedVersion: 2
+        x: 5769
+        y: 2788
+        width: 147
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65487abbc744aef4699dfba9089d776f
+      internalID: -1782066756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_17
+      rect:
+        serializedVersion: 2
+        x: 6697
+        y: 2274
+        width: 985
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7f4b1fb457664429788fdd4fab420d
+      internalID: -1635042603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_18
+      rect:
+        serializedVersion: 2
+        x: 7787
+        y: 2904
+        width: 88
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e90e8d0275c124409d9d04571f63fbf
+      internalID: 1561122168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_19
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 2329
+        width: 464
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1a03129520d50499231b5d5f9dd09e
+      internalID: -729380510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_20
+      rect:
+        serializedVersion: 2
+        x: 4754
+        y: 2198
+        width: 918
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913e916b2ed4ab94f930e2adb5627a61
+      internalID: 534270671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1320
+        width: 471
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc2f470fdac2094aa8837044945d5b3
+      internalID: 1666168037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_22
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1316
+        width: 927
+        height: 714
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0447449a81d5ea645a86f5400159c719
+      internalID: -430508631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_23
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 1733
+        width: 463
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1d32448bed16b40932d99e624fd794
+      internalID: -144608392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_24
+      rect:
+        serializedVersion: 2
+        x: 6391
+        y: 1378
+        width: 932
+        height: 714
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505e52e9b890efc4d927ad6687552c26
+      internalID: -1105114837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_25
+      rect:
+        serializedVersion: 2
+        x: 7385
+        y: 1384
+        width: 471
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b1676ccd1299f4199cf093bb880ea9
+      internalID: 1602453244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 485
+        width: 471
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d9fb3fdcdec64419e033fae9b51a20
+      internalID: 62527606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_27
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 493
+        width: 927
+        height: 715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd321dd3b2a08934ba91b3dea5633321
+      internalID: -2074142441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_28
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 694
+        width: 471
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab01b6d770ce19449eb3a26d5f5406c
+      internalID: 1006607507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_29
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 736
+        width: 703
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1ce49e1ad5d8d4bb7f48ce4e28e7f3
+      internalID: 1719137622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_30
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 798
+        width: 700
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f617ae4cd1d33e24db2d83752e313b11
+      internalID: 27164093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_31
+      rect:
+        serializedVersion: 2
+        x: 5723
+        y: 758
+        width: 471
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e181a5a9e8c4982418f458a31fab6992
+      internalID: -1115198300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_32
+      rect:
+        serializedVersion: 2
+        x: 6387
+        y: 557
+        width: 932
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad5aeebb7f05bc4c8e6f7ad61dd274a
+      internalID: -37338655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_33
+      rect:
+        serializedVersion: 2
+        x: 7389
+        y: 547
+        width: 473
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba016613aa6f69c46a58d5c7c88ac2fa
+      internalID: 1040032439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_34
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 607
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12185a8c1b60058499a14e544840b5d5
+      internalID: 1874875125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_35
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 33
+        width: 472
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5031d08c8de0eab48b17092999b6b87b
+      internalID: 1722799936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_36
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 65
+        width: 703
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c263c61b9a6045498d1e7574dabb9b3
+      internalID: -481097921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_37
+      rect:
+        serializedVersion: 2
+        x: 4837
+        y: 130
+        width: 700
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a059fa2d7e5bb7148bb71873f1560532
+      internalID: 180183514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_38
+      rect:
+        serializedVersion: 2
+        x: 5711
+        y: 96
+        width: 471
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd907595bcfbd9e4480223149125865d
+      internalID: 1112793386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallConfig_Newbandung_39
+      rect:
+        serializedVersion: 2
+        x: 7285
+        y: 68
+        width: 606
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b701cf698fa31ad4fa0ca4ff04b266ac
+      internalID: 564882020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WallConfig_Newbandung_0: -544312204
+      WallConfig_Newbandung_1: 2002252164
+      WallConfig_Newbandung_10: -792528308
+      WallConfig_Newbandung_11: 1682344728
+      WallConfig_Newbandung_12: -698211624
+      WallConfig_Newbandung_13: -156654478
+      WallConfig_Newbandung_14: -1195832248
+      WallConfig_Newbandung_15: -527268186
+      WallConfig_Newbandung_16: -1782066756
+      WallConfig_Newbandung_17: -1635042603
+      WallConfig_Newbandung_18: 1561122168
+      WallConfig_Newbandung_19: -729380510
+      WallConfig_Newbandung_2: 1827387927
+      WallConfig_Newbandung_20: 534270671
+      WallConfig_Newbandung_21: 1666168037
+      WallConfig_Newbandung_22: -430508631
+      WallConfig_Newbandung_23: -144608392
+      WallConfig_Newbandung_24: -1105114837
+      WallConfig_Newbandung_25: 1602453244
+      WallConfig_Newbandung_26: 62527606
+      WallConfig_Newbandung_27: -2074142441
+      WallConfig_Newbandung_28: 1006607507
+      WallConfig_Newbandung_29: 1719137622
+      WallConfig_Newbandung_3: 880135548
+      WallConfig_Newbandung_30: 27164093
+      WallConfig_Newbandung_31: -1115198300
+      WallConfig_Newbandung_32: -37338655
+      WallConfig_Newbandung_33: 1040032439
+      WallConfig_Newbandung_34: 1874875125
+      WallConfig_Newbandung_35: 1722799936
+      WallConfig_Newbandung_36: -481097921
+      WallConfig_Newbandung_37: 180183514
+      WallConfig_Newbandung_38: 1112793386
+      WallConfig_Newbandung_39: 564882020
+      WallConfig_Newbandung_4: -387543548
+      WallConfig_Newbandung_5: 1482288171
+      WallConfig_Newbandung_6: 1922973433
+      WallConfig_Newbandung_7: 1910938378
+      WallConfig_Newbandung_8: -1337374656
+      WallConfig_Newbandung_9: 1655233465
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
