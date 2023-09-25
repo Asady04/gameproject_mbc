@@ -10,7 +10,7 @@ public class OpenDialog : MonoBehaviour
     [SerializeField] GameObject dialog = null;
     [SerializeField] GameObject barrier = null;
     [SerializeField] GameObject bar = null;
-    [SerializeField] Button npc = null;
+    SpriteRenderer npc;
     public TextMeshProUGUI conversation;
     private int page;
 
@@ -18,10 +18,13 @@ public class OpenDialog : MonoBehaviour
 
     void Start()
     {
-        npc.interactable = false;
+        npc = GetComponent<SpriteRenderer>();
+        npc.color = Color.grey;
+        barrier.SetActive(false);
     }
     public void Open()
     {
+        Debug.Log("clicked");
         page = 1;
         pause.SetActive(false);
         bar.SetActive(false);
@@ -119,8 +122,7 @@ public class OpenDialog : MonoBehaviour
         // Cek apakah yang masuk ke trigger adalah pemain.
         if (collision.CompareTag("Player"))
         {
-            // pemainMendekati = true;
-            npc.interactable = true;
+            npc.color = Color.white;
             barrier.SetActive(true); // Munculkan tombol jika pemain mendekati objek.
 
         }
@@ -131,8 +133,7 @@ public class OpenDialog : MonoBehaviour
         // Cek apakah pemain meninggalkan trigger.
         if (other.CompareTag("Player"))
         {
-            // pemainMendekati = false;
-            npc.interactable = false;
+            npc.color = Color.grey;
             barrier.SetActive(false); // Sembunyikan tombol jika pemain meninggalkan objek.
         }
     }
