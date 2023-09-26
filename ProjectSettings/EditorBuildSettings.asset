@@ -6,30 +6,31 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Main_Menu.unity
+    path: Assets/Scenes/aMain_Menu.unity
     guid: cf697b8434e3d924b8d27e7daf36a2a7
   - enabled: 1
-    path: Assets/Scenes/Exit.unity
+    path: Assets/Scenes/aExit.unity
     guid: 3ee528a883806364a930c3f96a1bd123
   - enabled: 1
-    path: Assets/Scenes/Credits.unity
+    path: Assets/Scenes/aCredits.unity
     guid: 06f3996d8eb8665479f8dff5414c0aba
   - enabled: 1
-    path: Assets/Scenes/Depok.unity
+    path: Assets/Scenes/aDepok.unity
     guid: 9ea19cb14c59aa3468990b9ce31fc6eb
   - enabled: 1
-    path: Assets/Scenes/NewBandung.unity
+    path: Assets/Scenes/aNewBandung.unity
     guid: 21c35b0e6212f594495f655c89cfc2d5
   - enabled: 1
-    path: Assets/Scenes/DepokHancur.unity
+    path: Assets/Scenes/aDepokHancur.unity
     guid: 4727fce4865431344963b13b2fd55a33
   - enabled: 1
-    path: Assets/Scenes/Pelabuhan.unity
+    path: Assets/Scenes/aPelabuhan.unity
     guid: 5d21b470430b67243b90d125271ee641
   - enabled: 1
-    path: Assets/Scenes/Option.unity
+    path: Assets/Scenes/aOption.unity
     guid: edc2845246a66ba4cb48160e6e322dc9
   - enabled: 1
-    path: Assets/Scenes/NewGame.unity
+    path: Assets/Scenes/aNewGame.unity
     guid: 1daee67e3e00a664cb5d809bd4dc1274
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
