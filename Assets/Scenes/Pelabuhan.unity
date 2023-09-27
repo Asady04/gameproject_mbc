@@ -1151,7 +1151,7 @@ Transform:
   m_GameObject: {fileID: 187425653}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 10.88, y: 17.24, z: 0.63994765}
+  m_LocalPosition: {x: -9.19, y: 17.44, z: 0.63994765}
   m_LocalScale: {x: 0.32382998, y: 0.29979998, z: 0.14209}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1172,9 +1172,8 @@ MonoBehaviour:
   battleScene: {fileID: 352691466}
   name: bandit
   player: {fileID: 868100848}
-  hitPlayer: 0
-  followDistance: 2
-  returnDistance: 4
+  followDistance: 5
+  returnDistance: 8
   moveSpeed: 1.5
 --- !u!58 &187425656
 CircleCollider2D:
@@ -1299,7 +1298,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_Sprite: {fileID: 254953621209603670, guid: d547c18baadf31e4ba57f070343b1c82, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1545,14 +1544,18 @@ PrefabInstance:
     - target: {fileID: 5745423525043064836, guid: ba57607863aa59c43a9c45fdcfc10f0a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1053591291}
     - target: {fileID: 5745423525043064836, guid: ba57607863aa59c43a9c45fdcfc10f0a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 868100855}
     - target: {fileID: 5745423525043064836, guid: ba57607863aa59c43a9c45fdcfc10f0a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5745423525043064836, guid: ba57607863aa59c43a9c45fdcfc10f0a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: MainMenu
       objectReference: {fileID: 0}
     - target: {fileID: 5745423525043064836, guid: ba57607863aa59c43a9c45fdcfc10f0a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
@@ -2980,6 +2983,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   smg: {fileID: 2095425727}
+  pause: {fileID: 436300923}
   playersmg: {fileID: 126511077}
   spear: {fileID: 510416352}
   playerspear: {fileID: 1250801179}
@@ -3743,6 +3747,11 @@ PolygonCollider2D:
       - {x: 0.675, y: -0.39}
       - {x: 0.675, y: 0.01}
   m_UseDelaunayMesh: 0
+--- !u!1 &436300923 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4905114749903680406, guid: ba57607863aa59c43a9c45fdcfc10f0a, type: 3}
+  m_PrefabInstance: {fileID: 195403746}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &448226716
 GameObject:
   m_ObjectHideFlags: 0
@@ -12147,7 +12156,7 @@ Transform:
   m_GameObject: {fileID: 1336557860}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 5.78, y: 20.18, z: 0.63994765}
+  m_LocalPosition: {x: 4.724, y: 19.896, z: 0.63994765}
   m_LocalScale: {x: 0.32382998, y: 0.29979998, z: 0.14209}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12168,9 +12177,8 @@ MonoBehaviour:
   battleScene: {fileID: 352691466}
   name: bandit
   player: {fileID: 868100848}
-  hitPlayer: 0
-  followDistance: 2
-  returnDistance: 4
+  followDistance: 5
+  returnDistance: 8
   moveSpeed: 1.5
 --- !u!58 &1336557863
 CircleCollider2D:
@@ -12295,8 +12303,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
-  m_Sprite: {fileID: 254953621209603670, guid: d547c18baadf31e4ba57f070343b1c82, type: 3}
+  m_SortingOrder: 2
+  m_Sprite: {fileID: 254953621209603670, guid: 750492e2938de75449c43ef0e2c51f48, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

@@ -4,10 +4,9 @@ public class EnemyController : MonoBehaviour
 {
     [SerializeField] GameObject battleScene;
     public string name;
-    public Transform player;
-    public float hitPlayer = 0f; // Jarak minimal di mana musuh akan mengikuti pemain
-    public float followDistance = 5f; // Jarak minimal di mana musuh akan mengikuti pemain
-    public float returnDistance = 10f; // Jarak maksimal dari posisi semula sebelum musuh kembali
+    public Transform player;// Jarak minimal di mana musuh akan mengikuti pemain
+    public float followDistance = 2f; // Jarak minimal di mana musuh akan mengikuti pemain
+    public float returnDistance = 4f; // Jarak maksimal dari posisi semula sebelum musuh kembali
     public float moveSpeed = 3f; // Kecepatan pergerakan musuh
 
     private Vector3 originalPosition; // Posisi semula musuh

@@ -7,22 +7,33 @@ using UnityEngine.SceneManagement;
 
 public class Pause_Menu : MonoBehaviour
 {
-    public static bool isPaused;
+    bool isPaused = false;
     public bool GetIsPaused() { return isPaused; }
 
     [SerializeField] GameObject pauseMenu = null;
     [SerializeField] GameObject optionMenu = null;
 
     void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.Escape))
+    {   if(isPaused == false)
         {
-            Debug.Log("esc pressed");
-            isPaused = !isPaused;
-
-            Time.timeScale = isPaused ? 0 : 1;
-            pauseMenu.SetActive(isPaused);
+            if(Input.GetKeyDown(KeyCode.Escape))
+            {
+                pauseMenu.SetActive(true);
+                Time.timeScale = 0f;
+                isPaused = true;
+            }
         }
+
+        else
+        {
+            if(Input.GetKeyDown(KeyCode.Escape))
+            {
+                pauseMenu.SetActive(false);
+                Time.timeScale = 1f;
+                isPaused = false;
+            }
+        }
+
     }
 
     public void Pause()
@@ -39,16 +50,6 @@ public class Pause_Menu : MonoBehaviour
         isPaused = false;
     }
 
-    public void SaveGame()
-    {
-
-    }
-
-    public void LoadGame()
-    {
-
-    }
-
     public void Options()
     {
         optionMenu.SetActive(true);
@@ -56,5 +57,9 @@ public class Pause_Menu : MonoBehaviour
         pauseMenu.SetActive(false);
     }
 
+    
+
 
 }
+
+

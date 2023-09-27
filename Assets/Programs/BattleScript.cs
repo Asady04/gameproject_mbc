@@ -163,7 +163,6 @@ public class BattleScript : MonoBehaviour
         enemyHealth = 100;
         myHealth = 100;
         SceneManager.LoadScene(a+3);
-        pause.SetActive(true);
         
     }
 
