@@ -36,7 +36,9 @@ public class VolumeSettings : MonoBehaviour
 
    public void SetSoundVolume()
    {
-
+      float volume = soundSlider.value;
+      myMixer.SetFloat("sound", Mathf.Log10(volume) * 20);
+      PlayerPrefs.SetFloat("soundVolume", volume);
 
    }
 

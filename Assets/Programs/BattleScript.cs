@@ -2,10 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 using TMPro;
 public class BattleScript : MonoBehaviour
 {
     [SerializeField] GameObject smg = null;
+    [SerializeField] GameObject pause = null;
     [SerializeField] GameObject playersmg = null;
     [SerializeField] GameObject spear = null;
     [SerializeField] GameObject playerspear = null;
@@ -35,6 +37,7 @@ public class BattleScript : MonoBehaviour
 
     void Start()
     {
+        pause.SetActive(false);
         if (enemyName == "bandit")
         {
             bandit.SetActive(true);
@@ -156,8 +159,12 @@ public class BattleScript : MonoBehaviour
     }
     public void Flee()
     {
+        int a = PlayerPrefs.GetInt("map");
         enemyHealth = 100;
         myHealth = 100;
+        SceneManager.LoadScene(a+3);
+        pause.SetActive(true);
+        
     }
 
     void Bandit()
