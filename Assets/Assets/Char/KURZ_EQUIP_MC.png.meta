@@ -1,0 +1,839 @@
+fileFormatVersion: 2
+guid: 8ea760bdd2119194ab95af3d50656144
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7493
+        width: 494
+        height: 918
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333edfef7664719408f1acde183ce523
+      internalID: 1705478129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_1
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 7460
+        width: 275
+        height: 951
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc8dd5fb2bdeee4cbedcd76a197343d
+      internalID: -2091143372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_2
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 7452
+        width: 296
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cac284ee8b2944688177568dab63d6
+      internalID: -1131035782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_3
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 7444
+        width: 337
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564288537ad3ad5479278db9bc8f8513
+      internalID: -2031703986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_4
+      rect:
+        serializedVersion: 2
+        x: 4720
+        y: 7448
+        width: 515
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162019d8236952c4d87db506615ffb53
+      internalID: 629031760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5855
+        width: 384
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cd5a9a3c2ec6d4da123e0678a1db0b
+      internalID: -612988829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_6
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 5875
+        width: 423
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a21e0f6a3d4cbd4bb8c9412e72c270b
+      internalID: -1192983250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_7
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 5830
+        width: 440
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c953a37402a88c94bb6fabab0a9e430a
+      internalID: -127526501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_8
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 5817
+        width: 415
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01880cfb8761f54488b6d084cc5e9771
+      internalID: -247279412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_9
+      rect:
+        serializedVersion: 2
+        x: 4625
+        y: 5834
+        width: 610
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e58761d62e0d446b611460fdd086ef
+      internalID: -378605359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4360
+        width: 148
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f77cd419f26f44b8be4bd4f7d34de7
+      internalID: 532189590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_11
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 4360
+        width: 176
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75165546028b6554185fea483f4d954e
+      internalID: -2034954235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_12
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 4360
+        width: 188
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f5a85834a1c7941802f5ad2a4e7a4c
+      internalID: -702709944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_13
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 4360
+        width: 201
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c9831e5908f784785b8058ddf563d8
+      internalID: -183089751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_14
+      rect:
+        serializedVersion: 2
+        x: 4811
+        y: 4344
+        width: 270
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17b21489d6df264dad0de6ece501523
+      internalID: 647913558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2926
+        width: 148
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4f09240c1713244bef2846968b8144
+      internalID: 1967485473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_16
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 2910
+        width: 168
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af8511be6f80ff4dae4fb10342ed8e4
+      internalID: -401292784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_17
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 2910
+        width: 177
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8525e371684b546990f4b26d205398
+      internalID: -615679762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_18
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 2930
+        width: 209
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d678202fbf45f146bbee45ef7c43dc0
+      internalID: 409168644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_19
+      rect:
+        serializedVersion: 2
+        x: 4589
+        y: 2926
+        width: 303
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90748e2d7508ed448ef77921d154279
+      internalID: -1080081631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_20
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1448
+        width: 356
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d762255b8c4af7e469510b8bbe8ac0ee
+      internalID: -342233564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_21
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1448
+        width: 312
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed558c75d434e404f9aeb042d548e019
+      internalID: -553607155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_22
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 1448
+        width: 307
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f821038cbed7b4eb54646059d68a40
+      internalID: -450415860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_23
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 1427
+        width: 410
+        height: 875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643c30f0ef629794697bdcada98e495d
+      internalID: -1230755980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_24
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 1407
+        width: 464
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d3a60320f8c90419a22a4421b914e7
+      internalID: 1823773263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_25
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 357
+        height: 875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37345481a95d4274ea4c3c91729e296e
+      internalID: -955462084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_26
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 0
+        width: 369
+        height: 869
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b02dc1291f4e5b43aecbf20b11f5f27
+      internalID: -213288051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_27
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 23
+        width: 361
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d69101c547f9a4ea867d16765fc518
+      internalID: 457728912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_28
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 6
+        width: 373
+        height: 875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d86dd56464e26948ac30a12c7c57bd5
+      internalID: 1921201465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KURZ_EQUIP_MC_29
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 0
+        width: 337
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff1aad4548772f40886d5e10620c461
+      internalID: 676274008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      KURZ_EQUIP_MC_0: 1705478129
+      KURZ_EQUIP_MC_1: -2091143372
+      KURZ_EQUIP_MC_10: 532189590
+      KURZ_EQUIP_MC_11: -2034954235
+      KURZ_EQUIP_MC_12: -702709944
+      KURZ_EQUIP_MC_13: -183089751
+      KURZ_EQUIP_MC_14: 647913558
+      KURZ_EQUIP_MC_15: 1967485473
+      KURZ_EQUIP_MC_16: -401292784
+      KURZ_EQUIP_MC_17: -615679762
+      KURZ_EQUIP_MC_18: 409168644
+      KURZ_EQUIP_MC_19: -1080081631
+      KURZ_EQUIP_MC_2: -1131035782
+      KURZ_EQUIP_MC_20: -342233564
+      KURZ_EQUIP_MC_21: -553607155
+      KURZ_EQUIP_MC_22: -450415860
+      KURZ_EQUIP_MC_23: -1230755980
+      KURZ_EQUIP_MC_24: 1823773263
+      KURZ_EQUIP_MC_25: -955462084
+      KURZ_EQUIP_MC_26: -213288051
+      KURZ_EQUIP_MC_27: 457728912
+      KURZ_EQUIP_MC_28: 1921201465
+      KURZ_EQUIP_MC_29: 676274008
+      KURZ_EQUIP_MC_3: -2031703986
+      KURZ_EQUIP_MC_4: 629031760
+      KURZ_EQUIP_MC_5: -612988829
+      KURZ_EQUIP_MC_6: -1192983250
+      KURZ_EQUIP_MC_7: -127526501
+      KURZ_EQUIP_MC_8: -247279412
+      KURZ_EQUIP_MC_9: -378605359
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

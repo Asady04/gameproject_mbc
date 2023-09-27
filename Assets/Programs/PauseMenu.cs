@@ -13,11 +13,11 @@ public class Pause_Menu : MonoBehaviour
     [SerializeField] GameObject pauseMenu = null;
     [SerializeField] GameObject optionMenu = null;
 
-    void update()
+    void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-
+            Debug.Log("esc pressed");
             isPaused = !isPaused;
 
             Time.timeScale = isPaused ? 0 : 1;

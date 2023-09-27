@@ -16,8 +16,16 @@ public class PlayerMovement : MonoBehaviour
         float horizontalInput = Input.GetAxis("Horizontal");
         float verticalInput = Input.GetAxis("Vertical");
 
-        Vector2 movement = new Vector2(horizontalInput, verticalInput) * moveSpeed;
+        if (verticalInput == 0 || horizontalInput == 0)
+        {
 
-        rb2d.velocity = movement;
+        }
+        else
+        {
+            Vector2 movement = new Vector2(horizontalInput, verticalInput) * moveSpeed;
+
+            rb2d.velocity = movement;
+        }
+
     }
 }

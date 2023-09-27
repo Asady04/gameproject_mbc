@@ -1,0 +1,1499 @@
+fileFormatVersion: 2
+guid: 52970c2c93ad87345b44a6cad86e97ed
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 7010
+        width: 330
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1fd184d91b5fb46b3ce28d00678d3e
+      internalID: -1690811126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_1
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 7002
+        width: 326
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdc6b57aad0cbb42a9a56ef9b067327
+      internalID: 1151176591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_2
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 6980
+        width: 279
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d839e608f0c8784da3848cfe92354bb
+      internalID: 486991831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_3
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 6959
+        width: 296
+        height: 835
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac218db402c13ef45bba7debd9793193
+      internalID: 331083806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_4
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 6951
+        width: 330
+        height: 1040
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22580cb8aa56ac44385027ff5af2d7af
+      internalID: -567597550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_5
+      rect:
+        serializedVersion: 2
+        x: 4429
+        y: 6959
+        width: 525
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229bade9c47a4724a92731d387051276
+      internalID: 1062317804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_6
+      rect:
+        serializedVersion: 2
+        x: 5433
+        y: 6972
+        width: 487
+        height: 919
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef77c77cb9ab31e499d2c68c6f2935d9
+      internalID: 2107918262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_7
+      rect:
+        serializedVersion: 2
+        x: 6501
+        y: 6964
+        width: 383
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0381ee0cf4ade4eb980010df2cef1c
+      internalID: 864768673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_8
+      rect:
+        serializedVersion: 2
+        x: 7420
+        y: 7070
+        width: 322
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759330e2629d37e4caa81273e0d456e2
+      internalID: 2023987471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_9
+      rect:
+        serializedVersion: 2
+        x: 8212
+        y: 7057
+        width: 432
+        height: 934
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196da19e73e9669459a6bd18cbebd814
+      internalID: -1696061897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5616
+        width: 286
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6295c4a0edab48a4b88462c4e4d0b8fa
+      internalID: -1555111567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_11
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 5612
+        width: 415
+        height: 877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39eee83050eee9e418a2d01a5b110bd1
+      internalID: 1306047354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_12
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 5650
+        width: 373
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7982f693a23fccb4a90954df30be6192
+      internalID: -1217969496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_13
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 5612
+        width: 313
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a46b28511675f94c9a0618096676dc1
+      internalID: 985647923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_14
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 5553
+        width: 356
+        height: 1065
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fad1a83d14eeb4aad1d1689a8a151f
+      internalID: -1256479512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_15
+      rect:
+        serializedVersion: 2
+        x: 4493
+        y: 5595
+        width: 385
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54c9c15aee377f49a1c80bc5fbe1c7e
+      internalID: -702290189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_16
+      rect:
+        serializedVersion: 2
+        x: 5323
+        y: 5595
+        width: 521
+        height: 873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4b51025c90e0e4e9a3421307e11dd2
+      internalID: 487814077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_17
+      rect:
+        serializedVersion: 2
+        x: 6230
+        y: 5608
+        width: 499
+        height: 877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559fb1addbecfa5499006c3f819acbe8
+      internalID: -79094471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_18
+      rect:
+        serializedVersion: 2
+        x: 7319
+        y: 5591
+        width: 389
+        height: 877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e3985ffb3856e4aa2fba38d3e55de8
+      internalID: 1670529182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_19
+      rect:
+        serializedVersion: 2
+        x: 8068
+        y: 5578
+        width: 608
+        height: 877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce14b5fd1eef484db8c3741c4a09466
+      internalID: -1435570939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_20
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 4163
+        width: 146
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189894b91cb38874eb1b92b21fc0367d
+      internalID: 1617351051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_21
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 4163
+        width: 313
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f3fafc9568e414499a2e3f331e681f
+      internalID: -2061698716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_22
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 4154
+        width: 372
+        height: 865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5295a16381d49b341ae6f9953e77f264
+      internalID: -257940009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_23
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 4117
+        width: 233
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4aba470792bd964382f14395e0d9052
+      internalID: 589884915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_24
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 4133
+        width: 313
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a537621e954264ab805718b60b98c8
+      internalID: 2074943990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_25
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 4176
+        width: 432
+        height: 918
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad993d5af0f0c0149822782ad9e08948
+      internalID: -1432963795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_26
+      rect:
+        serializedVersion: 2
+        x: 5573
+        y: 4188
+        width: 419
+        height: 865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c8f163d52b905408777e483c3d64e1
+      internalID: -1799940451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_27
+      rect:
+        serializedVersion: 2
+        x: 6485
+        y: 4193
+        width: 278
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ac3a84f8b6b334ca679faa3d682dd2
+      internalID: -1678702413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_28
+      rect:
+        serializedVersion: 2
+        x: 7403
+        y: 4184
+        width: 445
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deda078e01b007045ac89dd88344bde0
+      internalID: 2032174936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_29
+      rect:
+        serializedVersion: 2
+        x: 8140
+        y: 4201
+        width: 343
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb930dfe6bf71fc4b8b3e37d050ee6ee
+      internalID: 665817078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2904
+        width: 148
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452fae3b18298ef42b5cce8354946ad1
+      internalID: -688746414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_31
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2909
+        width: 320
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7b9bf743de57047aafbcb8f5f3432f
+      internalID: 741175763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_32
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 2888
+        width: 348
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b1e8d4658fbcb4e9bba5da31a83e29
+      internalID: 14287205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_33
+      rect:
+        serializedVersion: 2
+        x: 2883
+        y: 2862
+        width: 233
+        height: 890
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517253e174ce7c44c9e763885e993d43
+      internalID: -1025607745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_34
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 2856
+        width: 284
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92d3ba160c42434c8f666be0fededd6
+      internalID: -366055035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_35
+      rect:
+        serializedVersion: 2
+        x: 4484
+        y: 2866
+        width: 398
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58181fb584d01174f83ce08391611c79
+      internalID: 608883499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_36
+      rect:
+        serializedVersion: 2
+        x: 5234
+        y: 2866
+        width: 483
+        height: 865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93eb77c6212980143802029c37869de3
+      internalID: 1890678811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_37
+      rect:
+        serializedVersion: 2
+        x: 6145
+        y: 2862
+        width: 461
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7241c60d99c9d3e47bd67f95b253be78
+      internalID: -1315615294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_38
+      rect:
+        serializedVersion: 2
+        x: 7178
+        y: 2879
+        width: 407
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9464f603f5e094749bda4459b49d602e
+      internalID: -621054252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_39
+      rect:
+        serializedVersion: 2
+        x: 8013
+        y: 2892
+        width: 445
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6963a3d83680bf409be25d92da6890a
+      internalID: 929986385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_40
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1502
+        width: 387
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b36ff7a0cf542439b6ab709034167b
+      internalID: 1218184227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_41
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1489
+        width: 382
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c55f0857e503843bef902e0fd36f65
+      internalID: 1956260930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_42
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1472
+        width: 372
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9adc8216a744a49916dab671500b25
+      internalID: -17171562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_43
+      rect:
+        serializedVersion: 2
+        x: 2794
+        y: 1477
+        width: 466
+        height: 927
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7647563c9c0c14fb025061758da57d
+      internalID: 1674809777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_44
+      rect:
+        serializedVersion: 2
+        x: 3527
+        y: 1464
+        width: 451
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b979498c07fa549ae90bd23cd62aa0
+      internalID: -417193654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_45
+      rect:
+        serializedVersion: 2
+        x: 4518
+        y: 1460
+        width: 542
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0121b6e71e31a72409363ed792e3996a
+      internalID: -1228519904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_46
+      rect:
+        serializedVersion: 2
+        x: 5433
+        y: 1472
+        width: 483
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd99f842d5ed01242a46219a86c9b3a0
+      internalID: 1056611440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_47
+      rect:
+        serializedVersion: 2
+        x: 6281
+        y: 1485
+        width: 372
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358b5ec596adc50448942a5c5480b6ea
+      internalID: 660841375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_48
+      rect:
+        serializedVersion: 2
+        x: 7157
+        y: 1451
+        width: 428
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6c316d2b3625b48af0d9bfd203cc57
+      internalID: -544834189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_49
+      rect:
+        serializedVersion: 2
+        x: 7941
+        y: 1417
+        width: 466
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd771a8ae1ca2a74e9edabcb1da6b5db
+      internalID: -928241808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_50
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 40
+        width: 394
+        height: 923
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3acea1fde5d424386081b32da9a38a
+      internalID: -1123013536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_51
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 2
+        width: 398
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed53b34d5a21ea42bdbd80d81f6c9cc
+      internalID: -1903098091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_52
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 6
+        width: 338
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c966c98e3b3349d4eb64ad04918621f2
+      internalID: -1251177328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_53
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 15
+        width: 304
+        height: 923
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48ba68a580cbea4da5efe5ed453a3e0
+      internalID: -1272227899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_54
+      rect:
+        serializedVersion: 2
+        x: 3679
+        y: 0
+        width: 305
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe94914c2875af4e8c6632ae25df648
+      internalID: -717234281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_55
+      rect:
+        serializedVersion: 2
+        x: 4632
+        y: 15
+        width: 314
+        height: 1055
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c848f83893b38ea4081b322f6f5397fe
+      internalID: -1729601765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_56
+      rect:
+        serializedVersion: 2
+        x: 5519
+        y: 11
+        width: 511
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45f784be8f9e5b4da2bd1f88abf96eb
+      internalID: 1898481096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_57
+      rect:
+        serializedVersion: 2
+        x: 6387
+        y: 11
+        width: 571
+        height: 923
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ac9f144215e9348a827c69b609027c
+      internalID: -1342871009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_58
+      rect:
+        serializedVersion: 2
+        x: 7284
+        y: 28
+        width: 572
+        height: 923
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e638a951e61931348a0181fe56f3bd91
+      internalID: -1626872555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_EQUIP_MC_59
+      rect:
+        serializedVersion: 2
+        x: 8136
+        y: 0
+        width: 398
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af518804d7467548ba2286f32cdad69
+      internalID: 1492322002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RIFLE_EQUIP_MC_0: -1690811126
+      RIFLE_EQUIP_MC_1: 1151176591
+      RIFLE_EQUIP_MC_10: -1555111567
+      RIFLE_EQUIP_MC_11: 1306047354
+      RIFLE_EQUIP_MC_12: -1217969496
+      RIFLE_EQUIP_MC_13: 985647923
+      RIFLE_EQUIP_MC_14: -1256479512
+      RIFLE_EQUIP_MC_15: -702290189
+      RIFLE_EQUIP_MC_16: 487814077
+      RIFLE_EQUIP_MC_17: -79094471
+      RIFLE_EQUIP_MC_18: 1670529182
+      RIFLE_EQUIP_MC_19: -1435570939
+      RIFLE_EQUIP_MC_2: 486991831
+      RIFLE_EQUIP_MC_20: 1617351051
+      RIFLE_EQUIP_MC_21: -2061698716
+      RIFLE_EQUIP_MC_22: -257940009
+      RIFLE_EQUIP_MC_23: 589884915
+      RIFLE_EQUIP_MC_24: 2074943990
+      RIFLE_EQUIP_MC_25: -1432963795
+      RIFLE_EQUIP_MC_26: -1799940451
+      RIFLE_EQUIP_MC_27: -1678702413
+      RIFLE_EQUIP_MC_28: 2032174936
+      RIFLE_EQUIP_MC_29: 665817078
+      RIFLE_EQUIP_MC_3: 331083806
+      RIFLE_EQUIP_MC_30: -688746414
+      RIFLE_EQUIP_MC_31: 741175763
+      RIFLE_EQUIP_MC_32: 14287205
+      RIFLE_EQUIP_MC_33: -1025607745
+      RIFLE_EQUIP_MC_34: -366055035
+      RIFLE_EQUIP_MC_35: 608883499
+      RIFLE_EQUIP_MC_36: 1890678811
+      RIFLE_EQUIP_MC_37: -1315615294
+      RIFLE_EQUIP_MC_38: -621054252
+      RIFLE_EQUIP_MC_39: 929986385
+      RIFLE_EQUIP_MC_4: -567597550
+      RIFLE_EQUIP_MC_40: 1218184227
+      RIFLE_EQUIP_MC_41: 1956260930
+      RIFLE_EQUIP_MC_42: -17171562
+      RIFLE_EQUIP_MC_43: 1674809777
+      RIFLE_EQUIP_MC_44: -417193654
+      RIFLE_EQUIP_MC_45: -1228519904
+      RIFLE_EQUIP_MC_46: 1056611440
+      RIFLE_EQUIP_MC_47: 660841375
+      RIFLE_EQUIP_MC_48: -544834189
+      RIFLE_EQUIP_MC_49: -928241808
+      RIFLE_EQUIP_MC_5: 1062317804
+      RIFLE_EQUIP_MC_50: -1123013536
+      RIFLE_EQUIP_MC_51: -1903098091
+      RIFLE_EQUIP_MC_52: -1251177328
+      RIFLE_EQUIP_MC_53: -1272227899
+      RIFLE_EQUIP_MC_54: -717234281
+      RIFLE_EQUIP_MC_55: -1729601765
+      RIFLE_EQUIP_MC_56: 1898481096
+      RIFLE_EQUIP_MC_57: -1342871009
+      RIFLE_EQUIP_MC_58: -1626872555
+      RIFLE_EQUIP_MC_59: 1492322002
+      RIFLE_EQUIP_MC_6: 2107918262
+      RIFLE_EQUIP_MC_7: 864768673
+      RIFLE_EQUIP_MC_8: 2023987471
+      RIFLE_EQUIP_MC_9: -1696061897
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

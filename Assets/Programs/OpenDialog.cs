@@ -9,7 +9,8 @@ public class OpenDialog : MonoBehaviour
     [SerializeField] GameObject pause = null;
     [SerializeField] GameObject dialog = null;
     [SerializeField] GameObject barrier = null;
-    [SerializeField] GameObject bar = null;
+    [SerializeField] GameObject hud = null;
+    [SerializeField] GameObject pressF = null;
     SpriteRenderer npc;
     public TextMeshProUGUI conversation;
     private int page;
@@ -21,13 +22,14 @@ public class OpenDialog : MonoBehaviour
         npc = GetComponent<SpriteRenderer>();
         npc.color = Color.grey;
         barrier.SetActive(false);
+        pressF.SetActive(false);
     }
     public void Open()
     {
         Debug.Log("clicked");
         page = 1;
         pause.SetActive(false);
-        bar.SetActive(false);
+        hud.SetActive(false);
         // string jenisBangun = gameObject.GetComponent<PlayerScript>().jenisBangun;
         dialog.SetActive(true);
         Time.timeScale = 0;
@@ -48,7 +50,7 @@ public class OpenDialog : MonoBehaviour
     public void Close()
     {
         pause.SetActive(true);
-        bar.SetActive(true);
+        hud.SetActive(true);
         dialog.SetActive(false);
         Time.timeScale = 1;
     }
@@ -124,7 +126,13 @@ public class OpenDialog : MonoBehaviour
         {
             npc.color = Color.white;
             barrier.SetActive(true); // Munculkan tombol jika pemain mendekati objek.
+            pressF.SetActive(true); // Munculkan tombol jika pemain mendekati objek.
 
+        }
+
+        if (Input.GetKeyDown(KeyCode.F)){
+            Debug.Log("f pressed");
+            Open();
         }
     }
 
@@ -135,6 +143,7 @@ public class OpenDialog : MonoBehaviour
         {
             npc.color = Color.grey;
             barrier.SetActive(false); // Sembunyikan tombol jika pemain meninggalkan objek.
+            pressF.SetActive(false); // Sembunyikan tombol jika pemain meninggalkan objek.
         }
     }
 

@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 3987040e0ac041f42acbe504532f3315
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ANT_WALK_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4645
+        width: 659
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b25a797adceed947a13a56a74fa8190
+      internalID: 152805103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_1
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 4668
+        width: 669
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1447e6173c09b49b0b6df72d2961b4
+      internalID: 387999804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_2
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 4642
+        width: 606
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf66f6cf05aab2543b73344e2fe81711
+      internalID: -208708191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_3
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 4662
+        width: 599
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ad41bb9e9f36e47a5bc41bbec0dd63
+      internalID: 1051653595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_4
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 4672
+        width: 629
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaefbc5afd232f4aac9ffcd93451fd0
+      internalID: -1595533846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_5
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 4704
+        width: 599
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0959cd0c4898add4789dd20200ed1f58
+      internalID: -1676880409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_6
+      rect:
+        serializedVersion: 2
+        x: 5205
+        y: 4695
+        width: 603
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afff96864a36884fabb316c4ba1e8fb
+      internalID: -819561356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_7
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 4685
+        width: 668
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe57c9c7b9415c443a2b7f9dcb8c4377
+      internalID: -1241236221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3716
+        width: 743
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424168b4d7cdc714e83c9b765e23b8f6
+      internalID: -592922438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_9
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 3710
+        width: 669
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb5a41f05879774ca650d5ecf3200e8
+      internalID: -587793200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_10
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 3700
+        width: 606
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17e339bc82ebf94db4f3d8e11a17a50
+      internalID: 385990727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_11
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 3690
+        width: 599
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2109197813f42c4b980936c7656f0a8
+      internalID: -633783689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_12
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 3690
+        width: 629
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338c47a936d96034e8bf57a3a0e874e3
+      internalID: 1940042856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_13
+      rect:
+        serializedVersion: 2
+        x: 4303
+        y: 3680
+        width: 599
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fe81dc7962d7f45a0c3a0d94d10044
+      internalID: -547052828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_14
+      rect:
+        serializedVersion: 2
+        x: 5212
+        y: 3680
+        width: 606
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7856552f0b68c78439a02ecdbd8839a0
+      internalID: 389877783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_15
+      rect:
+        serializedVersion: 2
+        x: 6081
+        y: 3697
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c64f9b9d743594b953ee8e6b41c62e
+      internalID: 576936669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2814
+        width: 682
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ac3d9cfa53ad14b9e47d8ae0c03c3c
+      internalID: 696093639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_17
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 2821
+        width: 685
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d92540dc61f9684bbc22ba776236c46
+      internalID: -2004689187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_18
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 2801
+        width: 684
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793b9d050c9e0174394978756b24a804
+      internalID: -1208261510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_19
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 2794
+        width: 682
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadcb63ae48c5f549b86127a304db836
+      internalID: -582110471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_20
+      rect:
+        serializedVersion: 2
+        x: 3377
+        y: 2801
+        width: 682
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31817d6dba76a544cab7127cf84f483e
+      internalID: -1845957105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_21
+      rect:
+        serializedVersion: 2
+        x: 4221
+        y: 2781
+        width: 685
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9744214d1de032941a65f66b6b311d83
+      internalID: 1021754039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_22
+      rect:
+        serializedVersion: 2
+        x: 5060
+        y: 2771
+        width: 682
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecd3b0807f218547bd588c2efd86a73
+      internalID: 2069142258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_23
+      rect:
+        serializedVersion: 2
+        x: 5930
+        y: 2758
+        width: 682
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ddff531fad6674e818a69661f83e43
+      internalID: 896447521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_24
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1948
+        width: 685
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af36386912bdb4743964fe92a3776293
+      internalID: -1491575250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_25
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1935
+        width: 681
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d28c97a21d8d564cb4b70fced371570
+      internalID: -550172991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_26
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1918
+        width: 682
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0baa17fe94f2b94d872dc2f890e9f9c
+      internalID: -1073937997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_27
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 1925
+        width: 682
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9369fc8969aa83a48bcec8ca577c4764
+      internalID: 2045842262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_28
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 1925
+        width: 682
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccedf7d0081c7ac43b74a6770d5b7f92
+      internalID: -1589772221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_29
+      rect:
+        serializedVersion: 2
+        x: 4310
+        y: 1902
+        width: 684
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310d1c953528afb45bf177b8f02dd22a
+      internalID: 467436898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_30
+      rect:
+        serializedVersion: 2
+        x: 5186
+        y: 1919
+        width: 685
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a3ffeeb7725f04ba9ebf33ae3d2f0b
+      internalID: 820682499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_31
+      rect:
+        serializedVersion: 2
+        x: 6019
+        y: 1915
+        width: 685
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbc465bbfe9db8488b0c483c9fcd0da
+      internalID: -1621491098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_32
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 957
+        width: 556
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0948ce9f5ea1745b3732358c47bdd6
+      internalID: -2037020419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_33
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 953
+        width: 555
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d7043e49a44764ba5832fc89e34320
+      internalID: -159102560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_34
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 944
+        width: 556
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da857e365404cff4ca58581dacfb63d9
+      internalID: 1598213818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_35
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 963
+        width: 557
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b479c1eb0f5435479d6a1ace8146f9d
+      internalID: -527085221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_36
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 927
+        width: 556
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc87fc25bbb8eb40afe943ef11fb129
+      internalID: -1588331557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_37
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 924
+        width: 556
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689c17fd2e3bb9842bed7ac4a28cf7f1
+      internalID: -945442532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_38
+      rect:
+        serializedVersion: 2
+        x: 5123
+        y: 944
+        width: 557
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efd8e6bfabee67429b09c544e9015e2
+      internalID: 328751940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_39
+      rect:
+        serializedVersion: 2
+        x: 6035
+        y: 944
+        width: 557
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c290e9b14128242917a41f38303aea
+      internalID: -771384134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 555
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6d96050bccc0c4e82b4b4cf80e606b
+      internalID: -2074304567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_41
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 18
+        width: 556
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552c9d673c2a7444284abbf663d56a71
+      internalID: 746233470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_42
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 0
+        width: 559
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bae4d617b1017c4fbddcf397b573bab
+      internalID: 702596067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_43
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 2
+        width: 556
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2990702aadc181d4aac6bf3a012719c9
+      internalID: -1322495870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_44
+      rect:
+        serializedVersion: 2
+        x: 3476
+        y: 35
+        width: 557
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f944aa55ccfe514884097d87f5f6db3
+      internalID: 386153656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_45
+      rect:
+        serializedVersion: 2
+        x: 4277
+        y: 0
+        width: 556
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ca37a1a90223c47ae403cbaafdf204
+      internalID: -98670378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_46
+      rect:
+        serializedVersion: 2
+        x: 5064
+        y: 25
+        width: 556
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6dffac7d070b54cbbb7dd2be0796e6
+      internalID: 1091367111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANT_WALK_47
+      rect:
+        serializedVersion: 2
+        x: 5864
+        y: 31
+        width: 881
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e84c5cfe52bc71459942972036a0dfd
+      internalID: 1101722410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ANT_WALK_0: 152805103
+      ANT_WALK_1: 387999804
+      ANT_WALK_10: 385990727
+      ANT_WALK_11: -633783689
+      ANT_WALK_12: 1940042856
+      ANT_WALK_13: -547052828
+      ANT_WALK_14: 389877783
+      ANT_WALK_15: 576936669
+      ANT_WALK_16: 696093639
+      ANT_WALK_17: -2004689187
+      ANT_WALK_18: -1208261510
+      ANT_WALK_19: -582110471
+      ANT_WALK_2: -208708191
+      ANT_WALK_20: -1845957105
+      ANT_WALK_21: 1021754039
+      ANT_WALK_22: 2069142258
+      ANT_WALK_23: 896447521
+      ANT_WALK_24: -1491575250
+      ANT_WALK_25: -550172991
+      ANT_WALK_26: -1073937997
+      ANT_WALK_27: 2045842262
+      ANT_WALK_28: -1589772221
+      ANT_WALK_29: 467436898
+      ANT_WALK_3: 1051653595
+      ANT_WALK_30: 820682499
+      ANT_WALK_31: -1621491098
+      ANT_WALK_32: -2037020419
+      ANT_WALK_33: -159102560
+      ANT_WALK_34: 1598213818
+      ANT_WALK_35: -527085221
+      ANT_WALK_36: -1588331557
+      ANT_WALK_37: -945442532
+      ANT_WALK_38: 328751940
+      ANT_WALK_39: -771384134
+      ANT_WALK_4: -1595533846
+      ANT_WALK_40: -2074304567
+      ANT_WALK_41: 746233470
+      ANT_WALK_42: 702596067
+      ANT_WALK_43: -1322495870
+      ANT_WALK_44: 386153656
+      ANT_WALK_45: -98670378
+      ANT_WALK_46: 1091367111
+      ANT_WALK_47: 1101722410
+      ANT_WALK_5: -1676880409
+      ANT_WALK_6: -819561356
+      ANT_WALK_7: -1241236221
+      ANT_WALK_8: -592922438
+      ANT_WALK_9: -587793200
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

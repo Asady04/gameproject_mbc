@@ -1,0 +1,1499 @@
+fileFormatVersion: 2
+guid: cf2360fe5ed3fe048b20e1af1168df55
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 7272
+        width: 429
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed508ca01a59f640afa75075956dcf2
+      internalID: -764287881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_1
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 7254
+        width: 468
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ca08881f814f84ea8f86fe1a2f5e49
+      internalID: 1275556381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_2
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 7249
+        width: 478
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167d07862a888014b86c0182f2787e48
+      internalID: 1366427079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_3
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7249
+        width: 479
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797d3a6751c56a143ab1439048b32a2a
+      internalID: -17498171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_4
+      rect:
+        serializedVersion: 2
+        x: 3934
+        y: 7254
+        width: 532
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e705e56ecf5344e8ed25fb189a852b
+      internalID: -1383779342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_5
+      rect:
+        serializedVersion: 2
+        x: 4868
+        y: 7240
+        width: 469
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de320d060b329064e9ccb53b0cf7c81f
+      internalID: -1262282241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_6
+      rect:
+        serializedVersion: 2
+        x: 5798
+        y: 7218
+        width: 478
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a897730ec311c3e49a0edea0d8aa4334
+      internalID: 1721711950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_7
+      rect:
+        serializedVersion: 2
+        x: 6785
+        y: 7218
+        width: 478
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434d3d1b1f8c13b41b4055ff8c9c51fc
+      internalID: -546239960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_8
+      rect:
+        serializedVersion: 2
+        x: 7799
+        y: 7218
+        width: 465
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df04a0f8f18c3e4ba6365300a3b7dd7
+      internalID: 1780221071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_9
+      rect:
+        serializedVersion: 2
+        x: 8689
+        y: 7200
+        width: 428
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677c21a9350264f4faf391c57a0980f7
+      internalID: -159583735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5650
+        width: 440
+        height: 871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a7a567f2458f341bcac5f5aba18454
+      internalID: 2070850000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_11
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 5650
+        width: 361
+        height: 875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b07cd25d50827a468cacc94ed198ac8
+      internalID: 281283525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_12
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 5632
+        width: 407
+        height: 876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693807cbc73e0d943832a636a76cf7ac
+      internalID: -1342840481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_13
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 5627
+        width: 509
+        height: 876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94e1d315e953fa4d823b06bd77ff655
+      internalID: -305302998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_14
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 5632
+        width: 563
+        height: 875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c280d04eae593c144a38ec69c821bb6d
+      internalID: 1303365310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_15
+      rect:
+        serializedVersion: 2
+        x: 4582
+        y: 5614
+        width: 474
+        height: 875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f08a0e394183142988ce58df2e14f6
+      internalID: 1052557780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_16
+      rect:
+        serializedVersion: 2
+        x: 5552
+        y: 5614
+        width: 507
+        height: 876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1695b815b833a24c98c5dc590eb37bd
+      internalID: -2117199412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_17
+      rect:
+        serializedVersion: 2
+        x: 6642
+        y: 5672
+        width: 411
+        height: 876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922ff354bfe8b5746a98e4dbda57ee80
+      internalID: 1351521245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_18
+      rect:
+        serializedVersion: 2
+        x: 7656
+        y: 5636
+        width: 358
+        height: 876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c38ae1fe402aa428ef11e55067b0db
+      internalID: 1667644569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_19
+      rect:
+        serializedVersion: 2
+        x: 8555
+        y: 5641
+        width: 596
+        height: 875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071e2bd0d0213d043829ee80cbfa30c9
+      internalID: 135671406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_20
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 4265
+        width: 344
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51231249793224488f8a8e13a3e2911
+      internalID: -781252712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_21
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 4265
+        width: 437
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1254a4eb143286e4995399d73181a770
+      internalID: -732494286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_22
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 4265
+        width: 442
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dee7d52915a5d4c8567212645000eb
+      internalID: -1810318261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_23
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 4265
+        width: 442
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc81b05bf4d3dd04b84b3bee594da741
+      internalID: -955064231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_24
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 4233
+        width: 495
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a153447cc4e0040acd4f2753d26f9d
+      internalID: 2048604627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_25
+      rect:
+        serializedVersion: 2
+        x: 4913
+        y: 4265
+        width: 420
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f3f4fe1036c0341a86f8787f6e1011
+      internalID: -2116953281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_26
+      rect:
+        serializedVersion: 2
+        x: 5918
+        y: 4265
+        width: 443
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17aa947763b99494c9ba1377d5bb28bd
+      internalID: -1069563734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_27
+      rect:
+        serializedVersion: 2
+        x: 6839
+        y: 4260
+        width: 442
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b497ceec839c42143bec8a56748434c0
+      internalID: 1130917023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_28
+      rect:
+        serializedVersion: 2
+        x: 7844
+        y: 4265
+        width: 438
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7b6dc944c053b4da78648ffbe9d22c
+      internalID: 870290806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_29
+      rect:
+        serializedVersion: 2
+        x: 8733
+        y: 4265
+        width: 340
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e172209a599824abedfaf5d2edeeca
+      internalID: -481269581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_30
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2969
+        width: 442
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72e45ca769bf874e9f7937a573c0ff4
+      internalID: 1213995047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_31
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2978
+        width: 518
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291b738b053433841a47132f9f9917bc
+      internalID: 581067854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_32
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 2969
+        width: 514
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cd430b753f9244aa2c2f3ffdf8e69e
+      internalID: 98324541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_33
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 2996
+        width: 518
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3a05e8dc96a864ea3d6d399f583336
+      internalID: 1872659957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_34
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 2982
+        width: 576
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29dbfc80c39ae4418964be85bc12220
+      internalID: 1402230971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_35
+      rect:
+        serializedVersion: 2
+        x: 4587
+        y: 2982
+        width: 514
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbcb6f36d7da32419b077cc17140181
+      internalID: 378549697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_36
+      rect:
+        serializedVersion: 2
+        x: 5534
+        y: 3000
+        width: 518
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1534f7a0228ee745a356804cc7fc4ef
+      internalID: -814404590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_37
+      rect:
+        serializedVersion: 2
+        x: 6513
+        y: 3009
+        width: 517
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd456f8cced25044b81d024dcc843cfa
+      internalID: -1046176236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_38
+      rect:
+        serializedVersion: 2
+        x: 7491
+        y: 3005
+        width: 518
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fcc5c0e3defad4eba16e2178ade50f
+      internalID: 470194315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_39
+      rect:
+        serializedVersion: 2
+        x: 8617
+        y: 2965
+        width: 438
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ad8e3a1c48a534b8c23264ada4c41c
+      internalID: -1534523674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1481
+        width: 464
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e377de13c3d630540bc9b537d5184640
+      internalID: 420167975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_41
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1468
+        width: 483
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf541e27f8da184e9fbb3051695f905
+      internalID: 1131753776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_42
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1472
+        width: 491
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c47daedec12cf4bbc2bdc91cf9a38a
+      internalID: 60303201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_43
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 1454
+        width: 496
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4651e37a63e5c64bb4618007fedee5d
+      internalID: -1024417051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_44
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 1454
+        width: 549
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db310d81a92e5754c8aaf38591003a27
+      internalID: -1874958282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_45
+      rect:
+        serializedVersion: 2
+        x: 4587
+        y: 1441
+        width: 455
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189ab803ef4e08948adc5ad8cc57bc4f
+      internalID: -296230593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_46
+      rect:
+        serializedVersion: 2
+        x: 5650
+        y: 1472
+        width: 496
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f5f18604132ab47a41c5c153e3995e
+      internalID: -1753013493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_47
+      rect:
+        serializedVersion: 2
+        x: 6557
+        y: 1486
+        width: 496
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e48790b639369c45bf8daffe852b98a
+      internalID: -1395331615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_48
+      rect:
+        serializedVersion: 2
+        x: 7509
+        y: 1499
+        width: 478
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3978c7d2c9aafac48b9ac0137ba0145f
+      internalID: -1985278884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_49
+      rect:
+        serializedVersion: 2
+        x: 8520
+        y: 1459
+        width: 463
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c88df12cebae94fa74de68475b4305
+      internalID: -321519692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_50
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 495
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fe353054e536d4694c55122dd6ff1c
+      internalID: -1312506955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_51
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 60
+        width: 366
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683b930431cbb1d40a2877d8c6d3815c
+      internalID: 281490857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_52
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 65
+        width: 464
+        height: 925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3096de4a738eaae42b67323fd82fd3a9
+      internalID: -1190726921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_53
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 42
+        width: 464
+        height: 925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77e00856c4a95846b8476dd13aae9f4
+      internalID: -2086064619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_54
+      rect:
+        serializedVersion: 2
+        x: 3769
+        y: 25
+        width: 518
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c47a21f9d40b247a66589ad27de783
+      internalID: 1872724933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_55
+      rect:
+        serializedVersion: 2
+        x: 4801
+        y: 16
+        width: 406
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca42cf5ecd78df4e996ad64f18e7bab
+      internalID: -1473488410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_56
+      rect:
+        serializedVersion: 2
+        x: 5887
+        y: 0
+        width: 464
+        height: 918
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3880910b4d4c4640b9bb2b2942acf03
+      internalID: -2124561087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_57
+      rect:
+        serializedVersion: 2
+        x: 6888
+        y: 20
+        width: 469
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd7f5307b4420d4d96714a4320b31dc
+      internalID: -2145086412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_58
+      rect:
+        serializedVersion: 2
+        x: 7768
+        y: 34
+        width: 366
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e60f8b2dc18e024fb31b1d8e43340f7
+      internalID: -712559523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIFLE_ATTACK_MC_59
+      rect:
+        serializedVersion: 2
+        x: 8706
+        y: 51
+        width: 398
+        height: 925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb04c957dde5b8b46bb166841b5c9bd2
+      internalID: 1946311057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RIFLE_ATTACK_MC_0: -764287881
+      RIFLE_ATTACK_MC_1: 1275556381
+      RIFLE_ATTACK_MC_10: 2070850000
+      RIFLE_ATTACK_MC_11: 281283525
+      RIFLE_ATTACK_MC_12: -1342840481
+      RIFLE_ATTACK_MC_13: -305302998
+      RIFLE_ATTACK_MC_14: 1303365310
+      RIFLE_ATTACK_MC_15: 1052557780
+      RIFLE_ATTACK_MC_16: -2117199412
+      RIFLE_ATTACK_MC_17: 1351521245
+      RIFLE_ATTACK_MC_18: 1667644569
+      RIFLE_ATTACK_MC_19: 135671406
+      RIFLE_ATTACK_MC_2: 1366427079
+      RIFLE_ATTACK_MC_20: -781252712
+      RIFLE_ATTACK_MC_21: -732494286
+      RIFLE_ATTACK_MC_22: -1810318261
+      RIFLE_ATTACK_MC_23: -955064231
+      RIFLE_ATTACK_MC_24: 2048604627
+      RIFLE_ATTACK_MC_25: -2116953281
+      RIFLE_ATTACK_MC_26: -1069563734
+      RIFLE_ATTACK_MC_27: 1130917023
+      RIFLE_ATTACK_MC_28: 870290806
+      RIFLE_ATTACK_MC_29: -481269581
+      RIFLE_ATTACK_MC_3: -17498171
+      RIFLE_ATTACK_MC_30: 1213995047
+      RIFLE_ATTACK_MC_31: 581067854
+      RIFLE_ATTACK_MC_32: 98324541
+      RIFLE_ATTACK_MC_33: 1872659957
+      RIFLE_ATTACK_MC_34: 1402230971
+      RIFLE_ATTACK_MC_35: 378549697
+      RIFLE_ATTACK_MC_36: -814404590
+      RIFLE_ATTACK_MC_37: -1046176236
+      RIFLE_ATTACK_MC_38: 470194315
+      RIFLE_ATTACK_MC_39: -1534523674
+      RIFLE_ATTACK_MC_4: -1383779342
+      RIFLE_ATTACK_MC_40: 420167975
+      RIFLE_ATTACK_MC_41: 1131753776
+      RIFLE_ATTACK_MC_42: 60303201
+      RIFLE_ATTACK_MC_43: -1024417051
+      RIFLE_ATTACK_MC_44: -1874958282
+      RIFLE_ATTACK_MC_45: -296230593
+      RIFLE_ATTACK_MC_46: -1753013493
+      RIFLE_ATTACK_MC_47: -1395331615
+      RIFLE_ATTACK_MC_48: -1985278884
+      RIFLE_ATTACK_MC_49: -321519692
+      RIFLE_ATTACK_MC_5: -1262282241
+      RIFLE_ATTACK_MC_50: -1312506955
+      RIFLE_ATTACK_MC_51: 281490857
+      RIFLE_ATTACK_MC_52: -1190726921
+      RIFLE_ATTACK_MC_53: -2086064619
+      RIFLE_ATTACK_MC_54: 1872724933
+      RIFLE_ATTACK_MC_55: -1473488410
+      RIFLE_ATTACK_MC_56: -2124561087
+      RIFLE_ATTACK_MC_57: -2145086412
+      RIFLE_ATTACK_MC_58: -712559523
+      RIFLE_ATTACK_MC_59: 1946311057
+      RIFLE_ATTACK_MC_6: 1721711950
+      RIFLE_ATTACK_MC_7: -546239960
+      RIFLE_ATTACK_MC_8: 1780221071
+      RIFLE_ATTACK_MC_9: -159583735
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

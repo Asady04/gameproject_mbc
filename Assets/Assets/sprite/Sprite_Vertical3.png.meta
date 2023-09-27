@@ -137,6 +137,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -149,6 +150,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -161,6 +163,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -173,6 +176,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -185,6 +189,33 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -620,7 +651,27 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sprite_Vertical3_0: -2454581269314643421
+      Sprite_Vertical3_1: 1632092620251264388
+      Sprite_Vertical3_10: 1509672307402014528
+      Sprite_Vertical3_11: 8037545836988178082
+      Sprite_Vertical3_12: -2923272220070907160
+      Sprite_Vertical3_13: 5876990365935194667
+      Sprite_Vertical3_14: -7086798636147705305
+      Sprite_Vertical3_15: -5587386949741626981
+      Sprite_Vertical3_16: -77358629467088406
+      Sprite_Vertical3_17: 9162866077327311570
+      Sprite_Vertical3_18: -5041566580961932152
+      Sprite_Vertical3_19: -924086858421110396
+      Sprite_Vertical3_2: -2918283629906622969
+      Sprite_Vertical3_3: 2447851927639043248
+      Sprite_Vertical3_4: 3303280240121247902
+      Sprite_Vertical3_5: -6243141690002649971
+      Sprite_Vertical3_6: -9105291606363901240
+      Sprite_Vertical3_7: -6782985858693060234
+      Sprite_Vertical3_8: 3044741060402441089
+      Sprite_Vertical3_9: -7808297483084467106
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
