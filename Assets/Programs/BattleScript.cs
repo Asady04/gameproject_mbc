@@ -7,6 +7,7 @@ using TMPro;
 public class BattleScript : MonoBehaviour
 {
     [SerializeField] GameObject smg = null;
+    [SerializeField] GameObject hud = null;
     [SerializeField] GameObject pause = null;
     [SerializeField] GameObject playersmg = null;
     [SerializeField] GameObject spear = null;
@@ -19,6 +20,8 @@ public class BattleScript : MonoBehaviour
     [SerializeField] GameObject ant = null;
     [SerializeField] GameObject rat = null;
     [SerializeField] GameObject barrier = null;
+    [SerializeField] GameObject gameOver = null;
+    [SerializeField] GameObject battle = null;
     [SerializeField] Button attack = null;
     [SerializeField] Button heal = null;
     [SerializeField] Button flee = null;
@@ -30,13 +33,15 @@ public class BattleScript : MonoBehaviour
     private int enemyHealth;
     private int myDmg;
     private int enemyDmg;
+    private int objective;
     private bool myturn;
-    private bool isover;
-    private bool win;
+    public bool win = false;
     public string enemyName = "";
 
     void Start()
     {
+        hud.SetActive(false);
+        win = false;
         pause.SetActive(false);
         if (enemyName == "bandit")
         {
@@ -58,12 +63,35 @@ public class BattleScript : MonoBehaviour
 
     void Update()
     {
+        objective = PlayerPrefs.GetInt("objective");
         if (myHealth <= 0)
         {
-            isover = true;
-        }else if (enemyHealth <= 0)
+            gameOver.SetActive(true);
+            battle.SetActive(false);
+        }
+        else if (enemyHealth <= 0)
         {
             win = true;
+            hud.SetActive(true);
+            battle.SetActive(false);
+
+            if (objective == 6 && enemyName == "ant")
+            {
+                PlayerPrefs.SetInt("objective", 7);
+            }
+            else if (objective == 8 && enemyName == "rat")
+            {
+                PlayerPrefs.SetInt("objective", 9);
+            }
+            else if (objective == 11 && enemyName == "bandit")
+            {
+                PlayerPrefs.SetInt("objective", 12);
+            }
+            else if (objective == 13 && enemyName == "bandit")
+            {
+                PlayerPrefs.SetInt("objective", 14);
+            }
+
         }
         myHealthText.text = "Health: " + myHealth;
         enemyHealthText.text = "Health: " + enemyHealth;
@@ -151,6 +179,9 @@ public class BattleScript : MonoBehaviour
     {
         int potion = Random.Range(10, 20);
         myHealth = myHealth + potion;
+        if(myHealth > 100){
+            myHealth = 100;
+        }
         myturn = !myturn;
         barrier.SetActive(true);
         attack.interactable = false;
@@ -159,11 +190,18 @@ public class BattleScript : MonoBehaviour
     }
     public void Flee()
     {
+        battle.SetActive(false);
         int a = PlayerPrefs.GetInt("map");
+        SceneManager.LoadScene(a + 2);
+
+    }
+
+    public void Retry()
+    {
         enemyHealth = 100;
         myHealth = 100;
-        SceneManager.LoadScene(a+3);
-        
+        gameOver.SetActive(false);
+        battle.SetActive(true);
     }
 
     void Bandit()
@@ -196,15 +234,36 @@ public class BattleScript : MonoBehaviour
         heal.interactable = true;
         flee.interactable = true;
         barrier.SetActive(false);
- 
+
     }
 
     public void Next()
     {
-        if (weapon < 4)
+        if (objective >= 13)
         {
-            weapon++;
+            if (weapon < 4)
+            {
+                weapon++;
+            }
         }
+        else if (objective >= 10)
+        {
+            if (weapon < 3)
+            {
+                weapon++;
+            }
+        }
+
+        else if (objective >= 8)
+        {
+            if (weapon < 2)
+            {
+                weapon++;
+            }
+        }
+
+
+
     }
 
     public void Prev()

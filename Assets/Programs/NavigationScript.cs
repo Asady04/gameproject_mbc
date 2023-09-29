@@ -36,14 +36,6 @@ public class NavigationScript : MonoBehaviour
         Application.Quit();
         Debug.Log("Game Ended");
     }
-    private int nextSceneToLoad;
-    private void Start()
-    {
-        nextSceneToLoad = SceneManager.GetActiveScene().buildIndex + 1;
-    }
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        SceneManager.LoadScene(nextSceneToLoad);
-    }
+    
 
 }

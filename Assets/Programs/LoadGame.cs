@@ -36,6 +36,7 @@ public class LoadGame : MonoBehaviour
     public void NewGame()
     {
         PlayerPrefs.SetInt("map", 1);
+        PlayerPrefs.SetInt("objective", 1);
         SceneManager.LoadScene("Depok");
         PlayerPrefs.SetFloat("x", 0);
         PlayerPrefs.SetFloat("y", 0);
