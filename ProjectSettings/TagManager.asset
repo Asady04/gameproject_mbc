@@ -8,6 +8,9 @@ TagManager:
   - nextMap
   - backMap
   - pause
+  - NPC
+  - Enemy
+  - Audio
   layers:
   - Default
   - TransparentFX
@@ -15,7 +18,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Character
   - 
   - 
   - 
@@ -47,4 +50,7 @@ TagManager:
     locked: 0
   - name: palingdepan
     uniqueID: 4079375153
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 1943789501
     locked: 0
