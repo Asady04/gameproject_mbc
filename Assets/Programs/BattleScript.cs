@@ -75,6 +75,7 @@ public class BattleScript : MonoBehaviour
         {
             gameOver.SetActive(true);
             battle.SetActive(false);
+            player.SetActive(false);
         }
         else if (enemyHealth <= 0)
         {

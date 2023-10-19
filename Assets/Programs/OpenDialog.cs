@@ -16,6 +16,7 @@ public class OpenDialog : MonoBehaviour
     private int page;
     private int objective;
     public string npcName = "";
+    public int obj = 0;
 
     void Start()
     {
@@ -30,43 +31,43 @@ public class OpenDialog : MonoBehaviour
         switch (objective)
         {
             case 1:
-                objectiveText.text = "Temui Kepala Desa";
+                objectiveText.text = "Temui Kepala Desa di depan rumah";
                 break;
             case 2:
-                objectiveText.text = "Temui Orang tua mu";
+                objectiveText.text = "Temui Orang tua mu yang ada di dalam rumah";
                 break;
             case 3:
-                objectiveText.text = "Cari dan temukan trader yang dimaksud";
+                objectiveText.text = "Cari dan temukan trader yang dimaksud di sekitar jalan";
                 break;
             case 4:
-                objectiveText.text = "Pergi ke New Bandung kemudian Bicara dengan pedagang";
+                objectiveText.text = "Pergi ke ujung jalan kemudian Bicara dengan pedagang di new bandung";
                 break;
             case 5:
                 objectiveText.text = "Pergi ke gedung di ujung jalanan dan cari orang berjas";
                 break;
             case 6:
-                objectiveText.text = "Basmi semut di sekitar gedung";
+                objectiveText.text = "Basmi semut di sekitar atas jalan";
                 break;
             case 7:
                 objectiveText.text = "Temui orang berjas lagi";
                 break;
             case 8:
-                objectiveText.text = "Basmi tikus raksasa";
+                objectiveText.text = "Anda memperoleh Pistol, Basmi tikus raksasa di sekitar bangunan bawah";
                 break;
             case 9:
                 objectiveText.text = "Temui orang berjas lagi";
                 break;
             case 10:
-                objectiveText.text = "Pulang lah kerumah";
+                objectiveText.text = "anda telah memperoleh SMG, Pulang lah kerumah";
                 break;
             case 11:
-                objectiveText.text = "Jalan masuk ke desa mu telah di hancurkan, kamu melihat kepala desa sedang di tahan orang menggunakan rompi merah maroon.";
+                objectiveText.text = "Kepala desa sedang ditahan orang tak dikenal, selamatkan dia!!";
                 break;
             case 12:
                 objectiveText.text = "Bicara dengan Kepala Desa";
                 break;
             case 13:
-                objectiveText.text = "Selamatkan orang tua mu";
+                objectiveText.text = "pergi ke pelabuhan lewat atas dan Selamatkan orang tua mu";
                 break;
             case 14:
                 objectiveText.text = "Bicara dengan orang tua mu";
@@ -173,7 +174,7 @@ public class OpenDialog : MonoBehaviour
 
     void Elder()
     {
-        if (objective == 1)
+        if (objective == 1 || objective == 2)
         {
             if (page == 1)
             {
@@ -183,8 +184,12 @@ public class OpenDialog : MonoBehaviour
             {
                 conversation.text = "Coba temui mereka";
             }
+            else if (page == 3)
+            {
+                conversation.text = "mereka ada di dalam rumah";
+            }
         }
-        else if (objective == 12)
+        else if (objective == 12 || objective == 13)
         {
             if (page == 1)
             {
@@ -204,7 +209,7 @@ public class OpenDialog : MonoBehaviour
     }
     void Parent()
     {
-        if (objective == 14)
+        if (objective == 14 || objective == 15)
         {
             if (page == 1)
             {
@@ -215,7 +220,7 @@ public class OpenDialog : MonoBehaviour
                 conversation.text = "Terima Kasih, Nak";
             }
         }
-        else if (objective == 2)
+        else if (objective == 2 || objective == 3)
         {
             if (page == 1)
             {
@@ -237,7 +242,7 @@ public class OpenDialog : MonoBehaviour
     }
     void Merchant()
     {
-        if (objective == 3)
+        if (objective == 3 && obj == 3)
         {
             if (page == 1)
             {
@@ -248,7 +253,7 @@ public class OpenDialog : MonoBehaviour
                 conversation.text = "Kota nya besar dan ramai, kamu mungkin bisa mendapatkan pekerjaan disana";
             }
         }
-        else if (objective == 4)
+        else if (objective == 4 && obj == 4 || objective == 5)
         {
             if (page == 1)
             {
@@ -277,7 +282,7 @@ public class OpenDialog : MonoBehaviour
     }
     void Qgiver()
     {
-        if (objective == 5)
+        if (objective == 5 || objective == 6)
         {
             if (page == 1)
             {
@@ -296,7 +301,7 @@ public class OpenDialog : MonoBehaviour
                 conversation.text = "Coba basmi semut raksasa yang berkumpul di sekitar gedung ini, nanti temui saya lagi";
             }
         }
-        else if (objective == 7)
+        else if (objective == 7 || objective == 8)
         {
             if (page == 1)
             {
@@ -329,7 +334,7 @@ public class OpenDialog : MonoBehaviour
         switch (objective)
         {
             case 1:
-                if (page < 2)
+                if (page < 3)
                 {
                     page++;
                 }

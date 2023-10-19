@@ -21,6 +21,7 @@ public class NPCScript : MonoBehaviour
       if (collision.CompareTag("Player"))
       {
          collision.GetComponent<OpenDialog>().npcName = npcName;
+         collision.GetComponent<OpenDialog>().obj = objective;
          npc.color = Color.white;
          pressF.SetActive(true); // Munculkan tombol jika pemain mendekati objek.
 
