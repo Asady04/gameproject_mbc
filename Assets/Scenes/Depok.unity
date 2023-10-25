@@ -1276,6 +1276,7 @@ MonoBehaviour:
   conversation: {fileID: 1779921254}
   objectiveText: {fileID: 1265931888}
   npcName: 
+  obj: 0
 --- !u!212 &186740413
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10668,6 +10669,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6227159323948871096, guid: 479d3651b0ce7f24b932c03cb07f378b, type: 3}
       propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6997183214726960450, guid: 479d3651b0ce7f24b932c03cb07f378b, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7404670216319182154, guid: 479d3651b0ce7f24b932c03cb07f378b, type: 3}
