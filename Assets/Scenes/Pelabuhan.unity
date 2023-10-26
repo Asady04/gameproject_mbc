@@ -690,7 +690,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 94a78493c4348e6479460599b0e885cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pause: {fileID: 0}
+  pause: {fileID: 1448602201}
   dialog: {fileID: 561936329}
   hud: {fileID: 876588399}
   interact: {fileID: 1950176950}
@@ -6888,7 +6888,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   smg: {fileID: 986867341}
-  player: {fileID: 0}
+  player: {fileID: 1448602201}
   hud: {fileID: 876588399}
   pause: {fileID: 0}
   playersmg: {fileID: 1289674783}
@@ -14815,7 +14815,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 0}
+        - m_Target: {fileID: 2033815243}
           m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
           m_MethodName: Play
           m_Mode: 1
@@ -19208,7 +19208,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1950176948}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 69176381}
+        m_TargetAssemblyTypeName: OpenDialog, Assembly-CSharp
+        m_MethodName: Open
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1950176951
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19229,22 +19241,6 @@ MonoBehaviour:
         - m_Target: {fileID: 2033815243}
           m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
           m_MethodName: Play
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-  - eventID: 4
-    callback:
-      m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 69176381}
-          m_TargetAssemblyTypeName: OpenDialog, Assembly-CSharp
-          m_MethodName: Open
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}

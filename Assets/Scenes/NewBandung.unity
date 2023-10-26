@@ -3249,8 +3249,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -396.33, y: -23.576294}
-  m_SizeDelta: {x: 126.0018, y: 278.2155}
+  m_AnchoredPosition: {x: -371.7502, y: -16.4072}
+  m_SizeDelta: {x: 175.1613, y: 292.5538}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &19759707
 Animator:
@@ -4382,7 +4382,7 @@ MonoBehaviour:
   smg: {fileID: 1445417461}
   player: {fileID: 501506638}
   hud: {fileID: 1097025220}
-  pause: {fileID: 0}
+  pause: {fileID: 966456041}
   playersmg: {fileID: 1461621078}
   spear: {fileID: 1845749235}
   playerspear: {fileID: 662400522}
@@ -8469,7 +8469,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 0}
+        - m_Target: {fileID: 517128104}
           m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
           m_MethodName: Play
           m_Mode: 1
@@ -12384,7 +12384,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 958689679
-  m_SortingLayer: -2
+  m_SortingLayer: 0
   m_SortingOrder: 1
   m_Sprite: {fileID: -430508631, guid: b33facaf2971f534c98e1c0276e71ea0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -17614,7 +17614,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 94a78493c4348e6479460599b0e885cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pause: {fileID: 0}
+  pause: {fileID: 966456041}
   dialog: {fileID: 1543738160}
   hud: {fileID: 1097025220}
   interact: {fileID: 1731893851}
@@ -17661,7 +17661,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 682057719
-  m_SortingLayer: -1
+  m_SortingLayer: 0
   m_SortingOrder: 2
   m_Sprite: {fileID: -2635789777534098455, guid: 5d84293edb5a6da40b2615158a9429a6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -21456,7 +21456,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 958689679
-  m_SortingLayer: -2
+  m_SortingLayer: 0
   m_SortingOrder: 3
   m_Sprite: {fileID: 1006607507, guid: b33facaf2971f534c98e1c0276e71ea0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -30519,7 +30519,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 3267038524658102297, guid: d313766dd7460df40b588ceaea996221, type: 3}
+  m_Sprite: {fileID: -136053309, guid: 63e97385c57f62d418997f7d0d01f642, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -30553,8 +30553,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -404, y: -19}
-  m_SizeDelta: {x: 126.0018, y: 307.368}
+  m_AnchoredPosition: {x: -25, y: 185}
+  m_SizeDelta: {x: 1244.7858, y: 887.2148}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &662400526
 Animator:
@@ -41018,7 +41018,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1714964517
-  m_SortingLayer: -4
+  m_SortingLayer: 0
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: f92dcdaaa8e9e554faf6ffc2fb9a6552, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -79010,8 +79010,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -417, y: -26.334}
-  m_SizeDelta: {x: 115.7949, y: 283.73}
+  m_AnchoredPosition: {x: -421.82852, y: -32.365}
+  m_SizeDelta: {x: 187.173, y: 324.469}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &1461621082
 Animator:
@@ -97251,7 +97251,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1731893849}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 501506646}
+        m_TargetAssemblyTypeName: OpenDialog, Assembly-CSharp
+        m_MethodName: Open
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1731893852
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -97272,22 +97284,6 @@ MonoBehaviour:
         - m_Target: {fileID: 517128104}
           m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
           m_MethodName: Play
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-  - eventID: 4
-    callback:
-      m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 501506646}
-          m_TargetAssemblyTypeName: OpenDialog, Assembly-CSharp
-          m_MethodName: Open
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
@@ -108547,7 +108543,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -3673604816734421290, guid: f12c96b5f8708e64499c4c1e66f0f5bf, type: 3}
+  m_Sprite: {fileID: -3172143132468392055, guid: f12c96b5f8708e64499c4c1e66f0f5bf, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -108581,8 +108577,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -396.33, y: -22.5869}
-  m_SizeDelta: {x: 141.33, y: 267.2624}
+  m_AnchoredPosition: {x: -397.3191, y: -20.343}
+  m_SizeDelta: {x: 172.1218, y: 271.75}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &1900617148
 Animator:

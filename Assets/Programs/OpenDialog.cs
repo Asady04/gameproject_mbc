@@ -126,13 +126,13 @@ public class OpenDialog : MonoBehaviour
                 }
                 break;
             case 3:
-                if (npcName == "merchant")
+                if (npcName == "merchant" && obj == 3)
                 {
                     PlayerPrefs.SetInt("objective", 4);
                 }
                 break;
             case 4:
-                if (npcName == "merchant")
+                if (npcName == "merchant" && obj == 4)
                 {
                     PlayerPrefs.SetInt("objective", 5);
                 }
