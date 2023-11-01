@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d7067708b3221f243ad717152d95a9fe
+guid: 58ea9e3b41ba5af4bbd2a329b8df48c6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -162,925 +162,1009 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_0
+      name: Bandit Shoot(SMG)_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 2693
-        width: 146
-        height: 424
+        x: 6
+        y: 2408
+        width: 102
+        height: 345
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d6e8098cbc45084b97da30292b81981
-      internalID: -1605598962
+      spriteID: 844e403ca753b974093e5dce0e8517d7
+      internalID: 1996218642
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_1
+      name: Bandit Shoot(SMG)_1
       rect:
         serializedVersion: 2
-        x: 351
-        y: 2694
-        width: 266
-        height: 423
+        x: 310
+        y: 2406
+        width: 168
+        height: 346
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6cb90bdd27f994348843eeddf0d818f5
-      internalID: 1503684091
+      spriteID: 32f498ed412096e4eba0f05eef49a196
+      internalID: 540207627
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_2
+      name: Bandit Shoot(SMG)_2
       rect:
         serializedVersion: 2
-        x: 730
-        y: 2692
-        width: 375
-        height: 425
+        x: 622
+        y: 2404
+        width: 219
+        height: 347
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad3e7520b84698b4b96f696992f664f1
-      internalID: -1729403025
+      spriteID: f4e905d36f8cba64b9655266152642c5
+      internalID: -306373709
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_3
+      name: Bandit Shoot(SMG)_3
       rect:
         serializedVersion: 2
-        x: 1123
-        y: 2692
-        width: 400
-        height: 423
+        x: 978
+        y: 2406
+        width: 234
+        height: 346
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41e8f17a54b1d8c42ae1650e2456d681
-      internalID: -928627359
+      spriteID: caca6c61fad992447acbe9a6e94a308e
+      internalID: 1548576270
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_4
+      name: Bandit Shoot(SMG)_4
       rect:
         serializedVersion: 2
-        x: 1554
-        y: 2694
-        width: 341
-        height: 456
+        x: 1306
+        y: 2404
+        width: 236
+        height: 347
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4bad12d47c7a1514da18cdac78a11348
-      internalID: 690202661
+      spriteID: 3c4db15390aa6fa479330640bb566057
+      internalID: -1401210058
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_5
+      name: Bandit Shoot(SMG)_5
       rect:
         serializedVersion: 2
-        x: 1932
-        y: 2692
-        width: 302
-        height: 458
+        x: 1626
+        y: 2406
+        width: 217
+        height: 346
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca78ca7003f83214fa3defec613b9caf
-      internalID: 2074996353
+      spriteID: 1ea2d092594445b4c8ba4deb1d01aa8f
+      internalID: -1304768427
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_6
+      name: Bandit Shoot(SMG)_6
       rect:
         serializedVersion: 2
-        x: 2243
-        y: 2694
-        width: 118
-        height: 423
+        x: 1941
+        y: 2403
+        width: 181
+        height: 347
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b18a430e624628d47b8e6a21f66e636b
-      internalID: 287147781
+      spriteID: 02f53018ad4768a4393cf5fbabc2050e
+      internalID: -1379179753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_7
+      name: Bandit Shoot(SMG)_7
       rect:
         serializedVersion: 2
-        x: 16
-        y: 2188
-        width: 120
-        height: 423
+        x: 2249
+        y: 2403
+        width: 203
+        height: 350
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0473f1eb3773ec346b58b62c00f7fb4d
-      internalID: -1288427091
+      spriteID: cc22d9beaf45b4d458e2869934cdce95
+      internalID: -1568792276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_8
+      name: Bandit Shoot(SMG)_8
       rect:
         serializedVersion: 2
-        x: 144
-        y: 2186
-        width: 301
-        height: 423
+        x: 13
+        y: 2001
+        width: 101
+        height: 345
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bfd88348bcdd2df49a6eab81d0b3ba09
-      internalID: -1129565212
+      spriteID: a74081cbb249e4e449f2d0bbe39ed62f
+      internalID: -900158301
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_9
+      name: Bandit Shoot(SMG)_9
       rect:
         serializedVersion: 2
-        x: 484
-        y: 2188
-        width: 341
-        height: 457
+        x: 240
+        y: 2001
+        width: 182
+        height: 347
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3403935bfc8f0d44b1fcb218f7745fc
-      internalID: -1569361711
+      spriteID: 87d78b3da000bc54b83faf6189f0afce
+      internalID: -1050243851
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_10
+      name: Bandit Shoot(SMG)_10
       rect:
         serializedVersion: 2
-        x: 856
-        y: 2186
-        width: 399
-        height: 423
+        x: 520
+        y: 2004
+        width: 216
+        height: 345
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e964b189b3ff30b48b91082929c96390
-      internalID: 1078613695
+      spriteID: bac8432592d0ff9448607f5c6f3af34f
+      internalID: -1165015116
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_11
+      name: Bandit Shoot(SMG)_11
       rect:
         serializedVersion: 2
-        x: 1274
-        y: 2186
-        width: 375
-        height: 425
+        x: 821
+        y: 2002
+        width: 235
+        height: 346
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a306c205bad02454a98015228249f51b
-      internalID: 526348475
+      spriteID: f9d7c5346e7bbb44a8ac3bf4a49568ff
+      internalID: 283261301
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_12
+      name: Bandit Shoot(SMG)_12
       rect:
         serializedVersion: 2
-        x: 1761
-        y: 2188
+        x: 1149
+        y: 2002
+        width: 235
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793ae19a10192e14a92909c73e1f4137
+      internalID: -1233287749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_13
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 2002
+        width: 219
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ce625be58658d4d9355d9dcf9a24b6
+      internalID: 1883199287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_14
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 2002
+        width: 168
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05029cabe81a8744db16432f28fd3650
+      internalID: -1607099523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_15
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 2005
+        width: 102
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7f25a4b7a435840ab09e995b0869b6
+      internalID: -2069200160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1501
+        width: 127
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823e6a6aabbfeed4cad426366002b5e7
+      internalID: -147182488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_17
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1498
+        width: 191
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77797663e55d314c9a6932fac4a312c
+      internalID: 324819641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_18
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1502
+        width: 209
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbc3cafefc31174995d1d3b48416b35
+      internalID: 886908709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_19
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1502
+        width: 223
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da83b265aa3e0d48a9ba9a2f93c228e
+      internalID: 718924866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_20
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1501
+        width: 227
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42cbb693ed0c234f8dc801a0d87336a
+      internalID: -152754823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_21
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1504
+        width: 221
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869791eab55f53445bd35c73dccd94a4
+      internalID: -2081915625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_22
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1501
+        width: 190
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e3eba1da2ac43479d6752d0ac77cc2
+      internalID: 516880707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_23
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 1501
+        width: 216
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c31849a84a3744dbafd7eddd17d470
+      internalID: -401535790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1014
+        width: 186
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c15b44bf486e14b8fa05d7dd9bb607
+      internalID: -2132068422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_25
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1014
+        width: 225
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ff1334e57c24c4187184e3774d4232
+      internalID: 238824727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_26
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1017
+        width: 221
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f7261c9d893a04bb3f425bbbc174bc
+      internalID: 8468548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_27
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1016
+        width: 227
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83611c4deff3fd947bba5ecd34938810
+      internalID: -1899332282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_28
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1016
+        width: 222
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1feea7b1af9a74582be86ba5e531b5
+      internalID: -150805138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_29
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1017
+        width: 224
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b867acdc621cf4db2f5f84ee3c96b9
+      internalID: -1667357021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_30
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 1013
+        width: 230
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a20331b28cf1424f91c0b4904a72ec6
+      internalID: -1206865445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_31
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 1017
+        width: 216
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33936aa56f9e794b9ccecc0846169d4
+      internalID: 1165158141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 469
+        width: 164
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0a915b69d1e5b4d884e0b2b6a1e1cb
+      internalID: 591082279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_33
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 470
+        width: 245
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c251dccbb56774dbc89d6c48d59165
+      internalID: 1040010686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_34
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 471
+        width: 250
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e0170fe707a4545a5ff04fea69ef90
+      internalID: 1283681490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_35
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 470
         width: 265
-        height: 423
+        height: 406
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6ad0d8dc6dec91409c9870c0a9b29cb
-      internalID: -1727104742
+      spriteID: 2cd370fce4b6b3542a80e191d2c1b631
+      internalID: 1681771971
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_13
+      name: Bandit Shoot(SMG)_36
       rect:
         serializedVersion: 2
-        x: 2217
-        y: 2188
-        width: 146
-        height: 423
+        x: 1290
+        y: 470
+        width: 257
+        height: 417
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9bf07162899e5f24bb61598d4748b1cf
-      internalID: -1035514226
+      spriteID: 70f626afff621014dbd0fc9496b4b6cd
+      internalID: -1850688836
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_14
+      name: Bandit Shoot(SMG)_37
       rect:
         serializedVersion: 2
-        x: 7
-        y: 1668
-        width: 166
-        height: 477
+        x: 1656
+        y: 471
+        width: 219
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ff89ef01f4f60f45ad65dc0f07fd5eb
-      internalID: 592784839
+      spriteID: 799621d6394d37640b819c0646350f72
+      internalID: -2124138324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_15
+      name: Bandit Shoot(SMG)_38
       rect:
         serializedVersion: 2
-        x: 354
-        y: 1671
-        width: 326
-        height: 477
+        x: 1973
+        y: 474
+        width: 241
+        height: 406
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65809681aa404414e963f177efa28305
-      internalID: 2130674252
+      spriteID: b4cf112f9fcd69a498989eba9e7af606
+      internalID: 1447917858
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_16
+      name: Bandit Shoot(SMG)_39
       rect:
         serializedVersion: 2
-        x: 731
-        y: 1668
-        width: 362
-        height: 477
+        x: 2300
+        y: 474
+        width: 160
+        height: 406
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad9a75ef87db75f41b0508cb6691f04b
-      internalID: 1173613649
+      spriteID: 52ce16c99aaa4af4899ec2fb3bc180cc
+      internalID: -179786685
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_17
-      rect:
-        serializedVersion: 2
-        x: 1111
-        y: 1651
-        width: 361
-        height: 477
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5f08ed65275215a4089a4a27c8331eda
-      internalID: -198547081
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_18
-      rect:
-        serializedVersion: 2
-        x: 1475
-        y: 1983
-        width: 22
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 53b31f743ee661949914e8ef724ba9c6
-      internalID: -1049690064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_19
-      rect:
-        serializedVersion: 2
-        x: 1519
-        y: 1647
-        width: 350
-        height: 476
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7985fe6fb99591543b892479e5562b54
-      internalID: 1804957625
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_20
-      rect:
-        serializedVersion: 2
-        x: 1917
-        y: 1671
-        width: 321
-        height: 475
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b30bd0e574ae7924bacd3c62a1ef6e86
-      internalID: -1019446451
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_21
-      rect:
-        serializedVersion: 2
-        x: 2241
-        y: 1676
-        width: 152
-        height: 477
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4eaf44a8bd936294aa50592cd94ac122
-      internalID: 1340481544
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_22
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 1144
-        width: 150
-        height: 476
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7b8d8a2d09181de4c868473083d5ee77
-      internalID: -493257265
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_23
-      rect:
-        serializedVersion: 2
-        x: 168
-        y: 1138
-        width: 322
-        height: 476
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f563103fce9087641bce3dbe5241b881
-      internalID: 2112139711
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_24
-      rect:
-        serializedVersion: 2
-        x: 539
-        y: 1116
-        width: 349
-        height: 475
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 231b95c3aeec1cc458873a376014086b
-      internalID: 44879271
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_25
-      rect:
-        serializedVersion: 2
-        x: 911
-        y: 1450
-        width: 20
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3317d59cdb4d8144aba460a08419e4cd
-      internalID: -338966672
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_26
-      rect:
-        serializedVersion: 2
-        x: 936
-        y: 1119
-        width: 361
-        height: 477
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f1a4ee8fac311a48b2544234842af86
-      internalID: -1920271277
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_27
-      rect:
-        serializedVersion: 2
-        x: 1314
-        y: 1136
-        width: 363
-        height: 477
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c6cdbea1b4479ec47bc63598a4a06554
-      internalID: 1067948166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_28
-      rect:
-        serializedVersion: 2
-        x: 1728
-        y: 1139
-        width: 326
-        height: 477
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9af8b2714eb81c84e9549f570a6b651d
-      internalID: 790531815
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_29
-      rect:
-        serializedVersion: 2
-        x: 2235
-        y: 1136
-        width: 166
-        height: 477
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 10c6e0b5cb9984f468f92cc130dcb915
-      internalID: -1672989764
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_30
+      name: Bandit Shoot(SMG)_40
       rect:
         serializedVersion: 2
         x: 0
-        y: 570
-        width: 248
-        height: 478
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 33b22cb975ad1eb489e779234a4d3ad8
-      internalID: -345811108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_31
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 568
-        width: 381
-        height: 479
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 42882c363b112d645a4946850fdbf439
-      internalID: 108775030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_32
-      rect:
-        serializedVersion: 2
-        x: 648
-        y: 4
-        width: 346
-        height: 580
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ee9cf8b82e0f6564181c88eb20d3a8c7
-      internalID: -383544029
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_33
-      rect:
-        serializedVersion: 2
-        x: 750
-        y: 570
-        width: 387
-        height: 490
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e2b776b702a69994a9ccc96b44de99da
-      internalID: -717722544
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_34
-      rect:
-        serializedVersion: 2
-        x: 1111
-        y: 571
-        width: 414
-        height: 508
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 398060df47a20e847ac2ac1e85621531
-      internalID: 2090527960
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_35
-      rect:
-        serializedVersion: 2
-        x: 1534
-        y: 573
-        width: 346
-        height: 580
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 47a134a5f78774e49bf061375632c68b
-      internalID: -1554034229
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_36
-      rect:
-        serializedVersion: 2
-        x: 1909
-        y: 581
-        width: 368
-        height: 478
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 165b03b0dc001b84d843f6355baad2b0
-      internalID: 594030076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_37
-      rect:
-        serializedVersion: 2
-        x: 2294
-        y: 574
-        width: 234
-        height: 480
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e8ddb660bb06f8044aa1a59ad201b244
-      internalID: -904388348
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_38
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 5
-        width: 234
-        height: 479
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dadd18e7a03366444aa07e6f229c3baf
-      internalID: -1970224187
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_39
-      rect:
-        serializedVersion: 2
-        x: 251
-        y: 10
-        width: 368
-        height: 480
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7465112a48dc57445b715cee0bc16316
-      internalID: -845438370
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_40
-      rect:
-        serializedVersion: 2
-        x: 1003
-        y: 2
-        width: 414
-        height: 508
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2296d941e5e3bcf47827bc4634858c06
-      internalID: 1007827764
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_41
-      rect:
-        serializedVersion: 2
-        x: 1391
-        y: 1
-        width: 387
-        height: 489
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 83ec68e583b0af04fae12f46708b6eca
-      internalID: 1955967236
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_42
-      rect:
-        serializedVersion: 2
-        x: 1811
         y: 0
-        width: 381
-        height: 478
+        width: 171
+        height: 409
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d38a1836823d5b34faf7f51a1dd2d6fc
-      internalID: -1952744325
+      spriteID: f06cc7612d3f5b146a49c12937c57528
+      internalID: 251444428
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bandit Shoot(Rifle)_43
+      name: Bandit Shoot(SMG)_41
       rect:
         serializedVersion: 2
-        x: 2280
-        y: 1
-        width: 248
-        height: 478
+        x: 258
+        y: 5
+        width: 240
+        height: 404
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f1582aaa2b01a1438021eeb11b3c7b1
-      internalID: -957616884
+      spriteID: e1f8f6de54e8a3042aca2c6d449a829f
+      internalID: 220558277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_42
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1
+        width: 221
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a65a401c170e44d91d0a563aedb652
+      internalID: 150775539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_43
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1
+        width: 257
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405e22bddefd66c44bf07cdfa0304f80
+      internalID: 1647674871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_44
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1
+        width: 264
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718eb33ce80808c4196addf626085158
+      internalID: 1103571538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_45
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 2
+        width: 252
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703835aecbdd43e4a9d105539b09984c
+      internalID: 1612026260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_46
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1
+        width: 243
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6126935601037144ab6ce07ae16342af
+      internalID: 2144734082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Shoot(SMG)_47
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 0
+        width: 162
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a407dc2fe83b24346bed857684917dac
+      internalID: -1259546326
       vertices: []
       indices: 
       edges: []
@@ -1096,50 +1180,54 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Bandit Shoot(Rifle)_0: -1605598962
-      Bandit Shoot(Rifle)_1: 1503684091
-      Bandit Shoot(Rifle)_10: 1078613695
-      Bandit Shoot(Rifle)_11: 526348475
-      Bandit Shoot(Rifle)_12: -1727104742
-      Bandit Shoot(Rifle)_13: -1035514226
-      Bandit Shoot(Rifle)_14: 592784839
-      Bandit Shoot(Rifle)_15: 2130674252
-      Bandit Shoot(Rifle)_16: 1173613649
-      Bandit Shoot(Rifle)_17: -198547081
-      Bandit Shoot(Rifle)_18: -1049690064
-      Bandit Shoot(Rifle)_19: 1804957625
-      Bandit Shoot(Rifle)_2: -1729403025
-      Bandit Shoot(Rifle)_20: -1019446451
-      Bandit Shoot(Rifle)_21: 1340481544
-      Bandit Shoot(Rifle)_22: -493257265
-      Bandit Shoot(Rifle)_23: 2112139711
-      Bandit Shoot(Rifle)_24: 44879271
-      Bandit Shoot(Rifle)_25: -338966672
-      Bandit Shoot(Rifle)_26: -1920271277
-      Bandit Shoot(Rifle)_27: 1067948166
-      Bandit Shoot(Rifle)_28: 790531815
-      Bandit Shoot(Rifle)_29: -1672989764
-      Bandit Shoot(Rifle)_3: -928627359
-      Bandit Shoot(Rifle)_30: -345811108
-      Bandit Shoot(Rifle)_31: 108775030
-      Bandit Shoot(Rifle)_32: -383544029
-      Bandit Shoot(Rifle)_33: -717722544
-      Bandit Shoot(Rifle)_34: 2090527960
-      Bandit Shoot(Rifle)_35: -1554034229
-      Bandit Shoot(Rifle)_36: 594030076
-      Bandit Shoot(Rifle)_37: -904388348
-      Bandit Shoot(Rifle)_38: -1970224187
-      Bandit Shoot(Rifle)_39: -845438370
-      Bandit Shoot(Rifle)_4: 690202661
-      Bandit Shoot(Rifle)_40: 1007827764
-      Bandit Shoot(Rifle)_41: 1955967236
-      Bandit Shoot(Rifle)_42: -1952744325
-      Bandit Shoot(Rifle)_43: -957616884
-      Bandit Shoot(Rifle)_5: 2074996353
-      Bandit Shoot(Rifle)_6: 287147781
-      Bandit Shoot(Rifle)_7: -1288427091
-      Bandit Shoot(Rifle)_8: -1129565212
-      Bandit Shoot(Rifle)_9: -1569361711
+      Bandit Shoot(SMG)_0: 1996218642
+      Bandit Shoot(SMG)_1: 540207627
+      Bandit Shoot(SMG)_10: -1165015116
+      Bandit Shoot(SMG)_11: 283261301
+      Bandit Shoot(SMG)_12: -1233287749
+      Bandit Shoot(SMG)_13: 1883199287
+      Bandit Shoot(SMG)_14: -1607099523
+      Bandit Shoot(SMG)_15: -2069200160
+      Bandit Shoot(SMG)_16: -147182488
+      Bandit Shoot(SMG)_17: 324819641
+      Bandit Shoot(SMG)_18: 886908709
+      Bandit Shoot(SMG)_19: 718924866
+      Bandit Shoot(SMG)_2: -306373709
+      Bandit Shoot(SMG)_20: -152754823
+      Bandit Shoot(SMG)_21: -2081915625
+      Bandit Shoot(SMG)_22: 516880707
+      Bandit Shoot(SMG)_23: -401535790
+      Bandit Shoot(SMG)_24: -2132068422
+      Bandit Shoot(SMG)_25: 238824727
+      Bandit Shoot(SMG)_26: 8468548
+      Bandit Shoot(SMG)_27: -1899332282
+      Bandit Shoot(SMG)_28: -150805138
+      Bandit Shoot(SMG)_29: -1667357021
+      Bandit Shoot(SMG)_3: 1548576270
+      Bandit Shoot(SMG)_30: -1206865445
+      Bandit Shoot(SMG)_31: 1165158141
+      Bandit Shoot(SMG)_32: 591082279
+      Bandit Shoot(SMG)_33: 1040010686
+      Bandit Shoot(SMG)_34: 1283681490
+      Bandit Shoot(SMG)_35: 1681771971
+      Bandit Shoot(SMG)_36: -1850688836
+      Bandit Shoot(SMG)_37: -2124138324
+      Bandit Shoot(SMG)_38: 1447917858
+      Bandit Shoot(SMG)_39: -179786685
+      Bandit Shoot(SMG)_4: -1401210058
+      Bandit Shoot(SMG)_40: 251444428
+      Bandit Shoot(SMG)_41: 220558277
+      Bandit Shoot(SMG)_42: 150775539
+      Bandit Shoot(SMG)_43: 1647674871
+      Bandit Shoot(SMG)_44: 1103571538
+      Bandit Shoot(SMG)_45: 1612026260
+      Bandit Shoot(SMG)_46: 2144734082
+      Bandit Shoot(SMG)_47: -1259546326
+      Bandit Shoot(SMG)_5: -1304768427
+      Bandit Shoot(SMG)_6: -1379179753
+      Bandit Shoot(SMG)_7: -1568792276
+      Bandit Shoot(SMG)_8: -900158301
+      Bandit Shoot(SMG)_9: -1050243851
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

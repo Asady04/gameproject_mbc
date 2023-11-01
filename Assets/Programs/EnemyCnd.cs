@@ -17,16 +17,10 @@ public class EnemyCnd : MonoBehaviour
     {
         if(PlayerPrefs.GetInt("objective") == 6){
             ant.SetActive(true);
-        }else
-        {
-            ant.SetActive(false);
         }
 
         if(PlayerPrefs.GetInt("objective") == 8){
             rat.SetActive(true);
-        }else
-        {
-            rat.SetActive(false);
         }
     }
 }

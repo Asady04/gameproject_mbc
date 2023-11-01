@@ -162,48 +162,61 @@ public class BattleScript : MonoBehaviour
         {
             if (enemyName == "bandit")
             {
-                Invoke("Bandit", 2);
+                Invoke("Bandit", 1);
             }
             else if (enemyName == "ant")
             {
-                Invoke("Ant", 2);
+                Invoke("Ant", 1);
             }
             else if (enemyName == "rat")
             {
-                Invoke("Rat", 2); ;
+                Invoke("Rat", 1); 
             }
+            
             myturn = !myturn;
         }
 
 
     }
 
+    private void StopAtk()
+    {
+        attack.interactable = false;
+        heal.interactable = false;
+        flee.interactable = false;
+        playerpistol.GetComponent<Animator>().SetBool("atk", false);
+        playersmg.GetComponent<Animator>().SetBool("atk", false);
+        playerrifle.GetComponent<Animator>().SetBool("atk", false);
+        playerspear.GetComponent<Animator>().SetBool("atk", false);
+    }
     public void Attack()
     {
         switch (weapon)
         {
             case 1:
-
+                playerspear.GetComponent<Animator>().SetBool("atk", true);
                 break;
             case 2:
+                playerpistol.GetComponent<Animator>().SetBool("atk", true);
                 audioManager.PlaySFX(audioManager.pistol);
                 break;
             case 3:
+                playersmg.GetComponent<Animator>().SetBool("atk", true);
                 audioManager.PlaySFX(audioManager.smg);
                 break;
             case 4:
+                playerrifle.GetComponent<Animator>().SetBool("atk", true);
                 audioManager.PlaySFX(audioManager.rifle);
                 break;
             default:
                 break;
         }
+        Invoke("StopAtk", 1);
         notification.text = enemyName + " terkena " + myDmg + " DMG.";
         enemyHealth = enemyHealth - myDmg;
         myturn = !myturn;
         barrier.SetActive(true);
-        attack.interactable = false;
-        heal.interactable = false;
-        flee.interactable = false;
+        
     }
     public void Heal()
     {
@@ -236,8 +249,14 @@ public class BattleScript : MonoBehaviour
         battle.SetActive(true);
     }
 
+   void StopEnemy(){
+        bandit.GetComponent<Animator>().SetBool("atk", false);
+        rat.GetComponent<Animator>().SetBool("atk", false);
+        ant.GetComponent<Animator>().SetBool("atk", false);
+    }
     void Bandit()
     {
+        bandit.GetComponent<Animator>().SetBool("atk", true);
         enemyDmg = Random.Range(30, 45);
         myHealth = myHealth - enemyDmg;
         notification.text = "Player terkena " + enemyDmg + " DMG.";
@@ -245,9 +264,11 @@ public class BattleScript : MonoBehaviour
         heal.interactable = true;
         flee.interactable = true;
         barrier.SetActive(false);
+        Invoke("StopEnemy", 1);
     }
     void Rat()
     {
+        rat.GetComponent<Animator>().SetBool("atk", true);
         enemyDmg = Random.Range(25, 30);
         myHealth = myHealth - enemyDmg;
         notification.text = "Player terkena " + enemyDmg + " DMG.";
@@ -255,10 +276,12 @@ public class BattleScript : MonoBehaviour
         heal.interactable = true;
         flee.interactable = true;
         barrier.SetActive(false);
+        Invoke("StopEnemy", 1);
 
     }
     void Ant()
     {
+        ant.GetComponent<Animator>().SetBool("atk", true);
         enemyDmg = Random.Range(19, 24);
         myHealth = myHealth - enemyDmg;
         notification.text = "Player terkena " + enemyDmg + " DMG.";
@@ -266,7 +289,7 @@ public class BattleScript : MonoBehaviour
         heal.interactable = true;
         flee.interactable = true;
         barrier.SetActive(false);
-
+        Invoke("StopEnemy", 1);
     }
 
     public void Next()

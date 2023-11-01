@@ -165,10 +165,10 @@ TextureImporter:
       name: SPEAR_EQUIPNEW (1)_0
       rect:
         serializedVersion: 2
-        x: 37
-        y: 6312
-        width: 3471
-        height: 2544
+        x: 49
+        y: 6306
+        width: 3478
+        height: 2479
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,9 +187,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 3833
-        y: 6332
+        y: 6364
         width: 3479
-        height: 2533
+        height: 2479
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,9 +208,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 7628
-        y: 6327
-        width: 3471
-        height: 2511
+        y: 6345
+        width: 3479
+        height: 2479
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,9 +229,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 11388
-        y: 6318
-        width: 3492
-        height: 2520
+        y: 6322
+        width: 3478
+        height: 2479
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -249,10 +249,10 @@ TextureImporter:
       name: SPEAR_EQUIPNEW (1)_4
       rect:
         serializedVersion: 2
-        x: 15224
-        y: 6284
-        width: 3465
-        height: 2544
+        x: 15212
+        y: 6386
+        width: 3478
+        height: 2479
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -313,7 +313,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 7614
-        y: 3273
+        y: 3340
         width: 3472
         height: 2529
       alignment: 0
@@ -334,7 +334,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 11388
-        y: 3253
+        y: 3294
         width: 3485
         height: 2567
       alignment: 0
@@ -355,7 +355,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 15217
-        y: 3239
+        y: 3259
         width: 3465
         height: 2572
       alignment: 0

@@ -759,8 +759,8 @@ Transform:
   m_GameObject: {fileID: 69176374}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 19.5, y: 1.42, z: 0.63994765}
-  m_LocalScale: {x: 0.18195501, y: 0.17065786, z: 0.10287981}
+  m_LocalPosition: {x: 18.15, y: 1.43, z: 0.63994765}
+  m_LocalScale: {x: 0.12969938, y: 0.12164665, z: 0.07333378}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1250944491}
@@ -2742,8 +2742,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -396.33, y: -23.576294}
-  m_SizeDelta: {x: 126.0018, y: 278.2155}
+  m_AnchoredPosition: {x: -371.9, y: -17.603}
+  m_SizeDelta: {x: 126.184, y: 221.36}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &309188262
 Animator:
@@ -5421,7 +5421,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &586223683
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5442,7 +5442,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 3267038524658102297, guid: d313766dd7460df40b588ceaea996221, type: 3}
+  m_Sprite: {fileID: -976971535, guid: ad190f8aadb43c9499aa2ea37a75c318, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5476,8 +5476,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -299.5, y: -19}
-  m_SizeDelta: {x: 335, y: 307.368}
+  m_AnchoredPosition: {x: -10.556, y: 187.0626}
+  m_SizeDelta: {x: 957.8879, y: 683.1253}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &586223686
 Animator:
@@ -6416,7 +6416,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68317cffc689f3e46b7123c92de69617, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pause: {fileID: 0}
+  pause: {fileID: 1448602201}
   hud: {fileID: 876588399}
   loading: {fileID: 1004971497}
 --- !u!1 &726612988
@@ -6890,7 +6890,7 @@ MonoBehaviour:
   smg: {fileID: 986867341}
   player: {fileID: 1448602201}
   hud: {fileID: 876588399}
-  pause: {fileID: 0}
+  pause: {fileID: 1448602201}
   playersmg: {fileID: 1289674783}
   spear: {fileID: 967552356}
   playerspear: {fileID: 586223682}
@@ -13242,8 +13242,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -417, y: -26.334}
-  m_SizeDelta: {x: 115.7949, y: 283.73}
+  m_AnchoredPosition: {x: -376.09, y: -22.163}
+  m_SizeDelta: {x: 117.8007, y: 230.48}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &1289674787
 Animator:
@@ -14769,8 +14769,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -396.33, y: -22.5869}
-  m_SizeDelta: {x: 141.33, y: 267.2624}
+  m_AnchoredPosition: {x: -367, y: -12.5049}
+  m_SizeDelta: {x: 135.9852, y: 211.1641}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &1448376984
 Animator:
@@ -18493,7 +18493,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -117230321, guid: e4a99b2a94005de45824a7dcd0a6f4f2, type: 3}
+  m_Sprite: {fileID: 1165158141, guid: 58ea9e3b41ba5af4bbd2a329b8df48c6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -18527,8 +18527,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 214, y: 215.06}
-  m_SizeDelta: {x: 102, y: 321}
+  m_AnchoredPosition: {x: 223.91748, y: 277.64114}
+  m_SizeDelta: {x: 150.8351, y: 280.1223}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &1894718674
 Animator:
@@ -19970,7 +19970,7 @@ Animator:
   m_GameObject: {fileID: 2076129853}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: eda131ca9dc888047b9c58d6827fbae1, type: 2}
+  m_Controller: {fileID: 9100000, guid: 921f6ecc392c57647897e1d3d2dbdbac, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
