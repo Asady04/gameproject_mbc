@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -77,7 +77,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -90,7 +89,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -103,7 +101,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -116,7 +113,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -129,7 +125,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -142,7 +137,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -155,12 +149,641 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2754
+        width: 174
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fe3b939db1f0844a5ac388593e5659
+      internalID: 939844111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2752
+        width: 134
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5318315630741048800d1c37d880487
+      internalID: -290064901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_2
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2752
+        width: 166
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7090d3756cbbc144a951e78203e495ad
+      internalID: -1214053193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_3
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 2754
+        width: 133
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9538f9331e156044191e6be76cbec056
+      internalID: -1406710777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_4
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 2754
+        width: 179
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc373259ce4d316428cc37d7ac47cbf2
+      internalID: -2087870720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2259
+        width: 134
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb4ec33a41cdb141a91f04a579190ef
+      internalID: 559257670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2256
+        width: 135
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4c0d27cbbbfb44884afd0caf0d6bed
+      internalID: -926404985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_7
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2257
+        width: 133
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8535da7d173f94b9fdd950c771605a
+      internalID: 1633323037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_8
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 2259
+        width: 134
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c5f88f89efdc844ad3666f4cb66aaf
+      internalID: 1482563252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_9
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 2259
+        width: 133
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6930f64d8421c4293dba373dff1810
+      internalID: -809119018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1686
+        width: 168
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d0c10e2c6e4ee47b7dc732b3777670
+      internalID: -1643457960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_11
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1682
+        width: 195
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bf80fd56b652e4c8f1ea267f8c2ac3
+      internalID: 111367360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_12
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1679
+        width: 195
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b988dc29418fb42a01f84bf3489524
+      internalID: 1638177750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_13
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1682
+        width: 175
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c8630b0eb50f6479177034099a3795
+      internalID: -478184533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_14
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1680
+        width: 168
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77229ff9ece7f794eb65c52b35b5f1a9
+      internalID: -1281778080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1123
+        width: 167
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afbf8bdb772b8b4a87fa61ba2900f39
+      internalID: -1812479378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_16
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1124
+        width: 176
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0a147305b5b7b4a8fd156c5dfb02ea
+      internalID: 1018946403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_17
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1127
+        width: 193
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb732346152a1674aa01e3313a3cdc4b
+      internalID: 1312597006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_18
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1124
+        width: 193
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418c699fbd0638242a5e3d9a74c89261
+      internalID: -777904006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_19
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1127
+        width: 166
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c829b8d10caf6a74d8da841fa6ea42fd
+      internalID: -159151417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 578
+        width: 221
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abb233e31ec76146b39b119e11cbc44
+      internalID: 1207635590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_21
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 578
+        width: 177
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dbb7b5a6e3b3c49a4d9af2bf61d952
+      internalID: -439015313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_22
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 578
+        width: 176
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf487aaa35506645a228bf9435f4221
+      internalID: 821935306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_23
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 579
+        width: 176
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8e2037829c16e41807c56d2007b778
+      internalID: 1667037875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_24
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 580
+        width: 174
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763b259c23c6a4b499c6ce2c064ff49b
+      internalID: 1002773404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_25
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 175
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297578a8bb866534188e6f8ffed595b1
+      internalID: -2094233853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_26
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1
+        width: 176
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84df4b9f1ee08cd4f8dceee389509e4e
+      internalID: 901984234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_27
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 177
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f1830917ee78d4a8c1a8b607b277c6
+      internalID: -1284695811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_28
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 6
+        width: 174
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc33a0e30e854044b8a99955ca0975fc
+      internalID: -1819409801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bandit Dequip(Revolver)_29
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 0
+        width: 200
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ad913182901804b8198c999f570348
+      internalID: 581481748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -171,7 +794,37 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bandit Dequip(Revolver)_0: 939844111
+      Bandit Dequip(Revolver)_1: -290064901
+      Bandit Dequip(Revolver)_10: -1643457960
+      Bandit Dequip(Revolver)_11: 111367360
+      Bandit Dequip(Revolver)_12: 1638177750
+      Bandit Dequip(Revolver)_13: -478184533
+      Bandit Dequip(Revolver)_14: -1281778080
+      Bandit Dequip(Revolver)_15: -1812479378
+      Bandit Dequip(Revolver)_16: 1018946403
+      Bandit Dequip(Revolver)_17: 1312597006
+      Bandit Dequip(Revolver)_18: -777904006
+      Bandit Dequip(Revolver)_19: -159151417
+      Bandit Dequip(Revolver)_2: -1214053193
+      Bandit Dequip(Revolver)_20: 1207635590
+      Bandit Dequip(Revolver)_21: -439015313
+      Bandit Dequip(Revolver)_22: 821935306
+      Bandit Dequip(Revolver)_23: 1667037875
+      Bandit Dequip(Revolver)_24: 1002773404
+      Bandit Dequip(Revolver)_25: -2094233853
+      Bandit Dequip(Revolver)_26: 901984234
+      Bandit Dequip(Revolver)_27: -1284695811
+      Bandit Dequip(Revolver)_28: -1819409801
+      Bandit Dequip(Revolver)_29: 581481748
+      Bandit Dequip(Revolver)_3: -1406710777
+      Bandit Dequip(Revolver)_4: -2087870720
+      Bandit Dequip(Revolver)_5: 559257670
+      Bandit Dequip(Revolver)_6: -926404985
+      Bandit Dequip(Revolver)_7: 1633323037
+      Bandit Dequip(Revolver)_8: 1482563252
+      Bandit Dequip(Revolver)_9: -809119018
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
