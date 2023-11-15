@@ -14,6 +14,11 @@ public class LoadGame : MonoBehaviour
 
     public void Load()
     {
+        int objective = PlayerPrefs.GetInt("objective");
+        if(objective < 1)
+        {
+            PlayerPrefs.SetInt("objective", 1);
+        }
         switch (map)
         {
             case 1:
@@ -43,4 +48,5 @@ public class LoadGame : MonoBehaviour
         PlayerPrefs.SetFloat("z", 0);
         Time.timeScale = 1f;
     }
+
 }
